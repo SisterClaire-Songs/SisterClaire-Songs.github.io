@@ -26,7 +26,7 @@ import { mapActions, mapState } from 'vuex'
 export default {
   name: 'App',
   methods: {
-    ...mapActions(['handleResize', 'openSidebar', 'closeSidebar'])
+    ...mapActions(['handleResize', 'openSidebar', 'closeSidebar', 'langJapanese', 'langKorean'])
   },
   computed: {
     ...mapState({
@@ -38,6 +38,9 @@ export default {
         },
         title: state => {
           return state.route.meta.title
+        },
+        curLang: state => {
+          return state.ui.language
         }
     })
   },

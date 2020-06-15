@@ -17,10 +17,10 @@
 </template>
 
 <script>
-    export default {
+export default {
     name: 'Header',
-    props: ['openSidebar', 'langJapanese', 'langKorean', 'title']
-    }
+    props: ['openSidebar', 'title', 'langJapanese', 'langKorean']
+}
 </script>
 
 <style lang="scss">
