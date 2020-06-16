@@ -22,13 +22,13 @@ export const routes = [
       title: 'Post'
     }
   }, {
-    path: '/song/:language',
+    path: '/song',
     component: Song,
     meta: {
       title: 'Song'
     }
   }, {
-    path: '/archive/:language',
+    path: '/archive',
     component: Archive,
     meta: {
       title: 'Archive'

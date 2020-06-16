@@ -7,8 +7,8 @@
         <el-menu-item index="/">Dashboard</el-menu-item>
         <el-menu-item index="/post/0">Post #0</el-menu-item>
         <el-menu-item index="/post/1">Post #1</el-menu-item>
-        <el-menu-item index="/curLang/{{curLang}}">Song</el-menu-item>
-        <el-menu-item index="/archive/{{curLang}}">Archive</el-menu-item>
+        <el-menu-item index="/song">Song</el-menu-item>
+        <el-menu-item index="/archive">Archive</el-menu-item>
         <el-menu-item index="/about">About</el-menu-item>
     </el-menu>
     </div>
@@ -17,7 +17,7 @@
 <script>
 export default {
     name: 'Sidebar',
-    props: ['active', 'curLang'],
+    props: ['active'],
     computed () {
         active: () => {
             console.log(this)
