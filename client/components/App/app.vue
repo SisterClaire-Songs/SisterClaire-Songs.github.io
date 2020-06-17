@@ -1,47 +1,53 @@
 <template>
-<div id="app">
+  <div id="app">
     <div class="page-layout">
-        <sidebar-component :active="sidebarOpened" />
-        <div class="page-layout-inner">
-            <header-component :openSidebar="openSidebar" :title="title" />
-            <main>
-            <div class="main-content">
-                <el-row class="container">
-                    <router-view></router-view>
-                </el-row>
-            </div>
+      <sidebar-component :active="sidebarOpened" />
+      <div class="page-layout-inner">
+        <header-component :openSidebar="openSidebar" :title="title" :langJapanese="langJapanese" :langKorean="langKorean" />
+        <main>
+          <div class="main-content">
+            <el-row class="container">
+              <router-view></router-view>
+            </el-row>
+          </div>
         </main>
+      </div>
+      <dimmer :active="obfuscatorActive" :closeSidebar="closeSidebar" />
     </div>
-        <dimmer :active="obfuscatorActive" :closeSidebar="closeSidebar" />
-    </div>
-</div>
+  </div>
 </template>
 
 <script>
-import Header from 'components/Header/header.vue'
-import Sidebar from 'components/Sidebar/sidebar.vue'
-import Dimmer from 'components/Dimmer/dimmer.vue'
-import { mapActions, mapState } from 'vuex'
+import Header from "components/Header/header.vue"
+import Sidebar from "components/Sidebar/sidebar.vue"
+import Dimmer from "components/Dimmer/dimmer.vue"
+import { mapActions, mapState } from "vuex"
 
 export default {
   name: 'App',
   methods: {
-    ...mapActions(['handleResize', 'openSidebar', 'closeSidebar', 'langJapanese', 'langKorean'])
+    ...mapActions([
+      'handleResize',
+      'openSidebar',
+      'closeSidebar',
+      'langJapanese',
+      'langKorean'
+    ])
   },
   computed: {
     ...mapState({
-        sidebarOpened: state => {
-            return state.ui.sidebarOpened
-        },
-        obfuscatorActive: state => {
-            return state.ui.obfuscatorActive
-        },
-        title: state => {
-          return state.route.meta.title
-        },
-        curLang: state => {
-          return state.ui.language
-        }
+      sidebarOpened: state => {
+        return state.ui.sidebarOpened
+      },
+      obfuscatorActive: state => {
+        return state.ui.obfuscatorActive
+      },
+      title: state => {
+        return state.route.meta.title
+      },
+      curLang: state => {
+        return state.ui.language
+      }
     })
   },
   components: {
@@ -57,5 +63,6 @@ export default {
 
 <style lang="scss">
 // You can import all your SCSS variables using webpack alias
-@import '~scss_vars';
-@import './style.scss';</style>
+@import "~scss_vars";
+@import "./style.scss";
+</style>
