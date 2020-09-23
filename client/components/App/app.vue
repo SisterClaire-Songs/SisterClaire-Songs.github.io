@@ -3,7 +3,12 @@
     <div class="page-layout">
       <sidebar-component :active="sidebarOpened" />
       <div class="page-layout-inner">
-        <header-component :openSidebar="openSidebar" :title="title" :langJapanese="langJapanese" :langKorean="langKorean" />
+        <header-component
+          :openSidebar="openSidebar"
+          :title="title"
+          :langJapanese="langJapanese"
+          :langKorean="langKorean"
+        />
         <main>
           <div class="main-content">
             <el-row class="container">
@@ -18,10 +23,10 @@
 </template>
 
 <script>
-import Header from "components/Header/header.vue"
-import Sidebar from "components/Sidebar/sidebar.vue"
-import Dimmer from "components/Dimmer/dimmer.vue"
-import { mapActions, mapState } from "vuex"
+import Header from 'components/Header/header.vue'
+import Sidebar from 'components/Sidebar/sidebar.vue'
+import Dimmer from 'components/Dimmer/dimmer.vue'
+import { mapActions, mapState } from 'vuex'
 
 export default {
   name: 'App',
@@ -55,7 +60,7 @@ export default {
     'sidebar-component': Sidebar,
     Dimmer
   },
-  created: function () {
+  created () {
     window.addEventListener('resize', this.handleResize)
   }
 }
