@@ -17,7 +17,7 @@
           </div>
         </main>
       </div>
-      <dimmer :active="obfuscatorActive" :closeSidebar="closeSidebar" />
+      <dimmer-component :active="obfuscatorActive" :closeSidebar="closeSidebar" />
     </div>
   </div>
 </template>
@@ -58,7 +58,7 @@ export default {
   components: {
     'header-component': Header,
     'sidebar-component': Sidebar,
-    Dimmer
+    'dimmer-component': Dimmer
   },
   created () {
     window.addEventListener('resize', this.handleResize)
