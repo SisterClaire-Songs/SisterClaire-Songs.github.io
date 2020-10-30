@@ -1,10 +1,12 @@
 import Vue from 'vue'
 import { sync } from 'vuex-router-sync'
 import Element from 'element-ui'
-import App from 'components/App/app.vue' // require components using webpack alias
+import locale from 'element-ui/lib/locale/lang/en'
+
 import { router } from './router/router.js' // Vue Router
 import store from './store' // Vuex store
-import locale from 'element-ui/lib/locale/lang/en'
+import App from 'components/App/app.vue' // require components using webpack alias
+
 import 'theme/index.css' // generated Element-UI theme
 import 'normalize.css' // normalize
 import 'whatwg-fetch' // polyfill
