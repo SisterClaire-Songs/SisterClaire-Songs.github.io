@@ -49,10 +49,10 @@ const actions = {
   handleResize ({ commit }) {
     commit({ type: WINDOW_RESIZE })
   },
-  langJapanese ({ commit }) {
+  changeLangJp ({ commit }) {
     commit({ type: LANG_JAPANESE })
   },
-  langKorean ({ commit }) {
+  changeLangKr ({ commit }) {
     commit({ type: LANG_KOREAN })
   }
 }

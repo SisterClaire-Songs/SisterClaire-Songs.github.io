@@ -6,8 +6,8 @@
         <header-component
           :openSidebar="openSidebar"
           :title="title"
-          :langJapanese="langJapanese"
-          :langKorean="langKorean"
+          :changeLangJp="changeLangJp"
+          :changeLangKr="changeLangKr"
         />
         <main>
           <div class="main-content">
@@ -35,8 +35,8 @@ export default {
       'handleResize',
       'openSidebar',
       'closeSidebar',
-      'langJapanese',
-      'langKorean'
+      'changeLangJp',
+      'changeLangKr'
     ])
   },
   computed: {
