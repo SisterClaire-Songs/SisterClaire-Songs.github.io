@@ -1,5 +1,5 @@
 <template>
-  <div id="sidebar" :class="{'open': active}">
+  <div id="sidebar" :class="{'open': true}">
     <el-menu theme="light" router>
       <div class="logo-container">
         <img class="logo" src="https://vuejs.org/images/logo.png" />
@@ -16,14 +16,7 @@
 
 <script>
 export default {
-  name: 'Sidebar',
-  props: ['active'],
-  computed: {
-    active: () => {
-      console.log(this)
-      return this.active
-    }
-  }
+  name: 'Sidebar'
 }
 </script>
 

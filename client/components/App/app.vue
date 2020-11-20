@@ -1,10 +1,9 @@
 <template>
   <div id="app">
     <div class="page-layout">
-      <sidebar-component :active="sidebarOpened" />
+      <sidebar-component />
       <div class="page-layout-inner">
         <header-component
-          :openSidebar="openSidebar"
           :title="title"
           :changeLangJp="changeLangJp"
           :changeLangKr="changeLangKr"
@@ -17,7 +16,7 @@
           </div>
         </main>
       </div>
-      <dimmer-component :active="obfuscatorActive" :closeSidebar="closeSidebar" />
+      <dimmer-component />
     </div>
   </div>
 </template>
@@ -32,21 +31,12 @@ export default {
   name: 'App',
   methods: {
     ...mapActions([
-      'handleResize',
-      'openSidebar',
-      'closeSidebar',
       'changeLangJp',
       'changeLangKr'
     ])
   },
   computed: {
     ...mapState({
-      sidebarOpened: state => {
-        return state.ui.sidebarOpened
-      },
-      obfuscatorActive: state => {
-        return state.ui.obfuscatorActive
-      },
       title: state => {
         return state.route.meta.title
       },
@@ -59,9 +49,6 @@ export default {
     'header-component': Header,
     'sidebar-component': Sidebar,
     'dimmer-component': Dimmer
-  },
-  created () {
-    window.addEventListener('resize', this.handleResize)
   }
 }
 </script>
