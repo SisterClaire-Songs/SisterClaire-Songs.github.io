@@ -5,8 +5,8 @@
       <div class="page-layout-inner">
         <header-component
           :title="title"
-          :changeLangJp="changeLangJp"
-          :changeLangKr="changeLangKr"
+          :changeLangJP="changeLangJP"
+          :changeLangKR="changeLangKR"
         />
         <main>
           <div class="main-content">
@@ -31,8 +31,8 @@ export default {
   name: 'App',
   methods: {
     ...mapActions([
-      'changeLangJp',
-      'changeLangKr'
+      'changeLangJP',
+      'changeLangKR'
     ])
   },
   computed: {
@@ -41,7 +41,7 @@ export default {
         return state.route.meta.title
       },
       curLang: state => {
-        return state.ui.language
+        return state.language
       }
     })
   },

@@ -4,8 +4,8 @@ import Element from 'element-ui'
 import locale from 'element-ui/lib/locale/lang/en'
 
 import { router } from './router/router.js' // Vue Router
-import store from './store' // Vuex store
-import App from 'components/App/app.vue' // require components using webpack alias
+import store from './store/store.js' // Vuex store
+import App from './components/App/app.vue' // require components using webpack alias
 
 import 'theme/index.css' // generated Element-UI theme
 import 'normalize.css' // normalize

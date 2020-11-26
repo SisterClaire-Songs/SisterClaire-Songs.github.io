@@ -9,8 +9,8 @@
       <span class="header-title">{{title}}</span>
       <el-submenu class="header-menu" index="3">
         <template slot="title">Language</template>
-        <el-menu-item index="4-1" @click="changeLangJp">Japanese</el-menu-item>
-        <el-menu-item index="4-2" @click="changeLangKr">Korean</el-menu-item>
+        <el-menu-item index="4-1" @click="changeLangJP">Japanese</el-menu-item>
+        <el-menu-item index="4-2" @click="changeLangKR">Korean</el-menu-item>
       </el-submenu>
     </el-menu>
   </header>
@@ -19,7 +19,7 @@
 <script>
 export default {
   name: 'Header',
-  props: ['title', 'changeLangJp', 'changeLangKr']
+  props: ['title', 'changeLangJP', 'changeLangKR']
 }
 </script>
 
