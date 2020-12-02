@@ -14,9 +14,9 @@
     2 {{ archiveURL }}<br />
 
     <div>
-      <el-radio-group v-model="testLang">
-        <el-radio-button label="JP"></el-radio-button>
-        <el-radio-button label="KR"></el-radio-button>
+      <el-radio-group v-model="testLang" @change="changeLang">
+        <el-radio-button label="JP">JP</el-radio-button>
+        <el-radio-button label="KR">KR</el-radio-button>
       </el-radio-group>
     </div>
 
@@ -35,13 +35,16 @@ export default {
     };
   },
   methods: {
-    changeLangJP: function () {
-      this.songdataURL = "song/jp";
-      this.archiveURL = "archive/jp";
-    },
-    changeLangKR: function () {
-      this.songdataURL = "song/kr";
-      this.archiveURL = "archive/kr";
+    changeLang: function () {
+      if (this.testLang == "JP") {
+        this.songdataURL = "song/jp";
+        this.archiveURL = "archive/jp";
+        console.log("aaaa");
+      } else {
+        this.songdataURL = "song/kr";
+        this.archiveURL = "archive/kr";
+        console.log("bbbb");
+      }
     },
   },
 };
