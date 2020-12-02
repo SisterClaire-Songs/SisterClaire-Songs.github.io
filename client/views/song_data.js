@@ -96,12 +96,10 @@ SongData.set('Kawaii make MY day!', {
   'additional': [['アイマス'], ['아이마스']]
 })
 
-
 SongData.set('', {
   'title': ['', ''],
   'singer': [[''], ['']],
   'additional': [[''], ['']]
 })
 
-
-export { SongData }
+export default SongData
