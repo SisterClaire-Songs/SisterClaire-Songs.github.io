@@ -17,25 +17,25 @@ export const routes = [
       title: 'Index'
     }
   }, {
-    path: '/song/jp',
+    path: '/song_jp',
     component: SongJP,
     meta: {
       title: 'SongJP'
     }
   }, {
-    path: '/song/kr',
+    path: '/song_kr',
     component: SongKR,
     meta: {
       title: 'SongKR'
     }
   }, {
-    path: '/archive/jp',
+    path: '/archive_jp',
     component: ArchiveJP,
     meta: {
       title: 'ArchiveJP'
     }
   }, {
-    path: '/archive/kr',
+    path: '/archive_kr',
     component: ArchiveKR,
     meta: {
       title: 'ArchiveKR'

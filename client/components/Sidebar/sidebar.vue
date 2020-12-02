@@ -5,22 +5,17 @@
         <img class="logo" src="https://vuejs.org/images/logo.png" />
       </div>
       <el-menu-item index="/">Dashboard</el-menu-item>
-      <el-menu-item index="songdataURL">Song</el-menu-item>
-      <el-menu-item index="/archive">Archive</el-menu-item>
+      <el-menu-item v-bind:index="songdataURL">Song</el-menu-item>
+      <el-menu-item v-bind:index="archiveURL">Archive</el-menu-item>
       <el-menu-item index="/about">About</el-menu-item>
     </el-menu>
 
-    1 {{ songdataURL }}<br />
-    2 {{ archiveURL }}<br />
-
-    <div>
-      <el-radio-group v-model="testLang" @change="changeLang">
+    <div class="lang-button">
+      <el-radio-group v-model="curLang" @change="changeLang">
         <el-radio-button label="JP">JP</el-radio-button>
         <el-radio-button label="KR">KR</el-radio-button>
       </el-radio-group>
     </div>
-
-    3 {{ testLang }}<br />
   </div>
 </template>
 
@@ -29,21 +24,19 @@ export default {
   name: "Sidebar",
   data() {
     return {
-      testLang: "JP",
-      songdataURL: "song/jp",
-      archiveURL: "archive/jp",
+      curLang: "JP",
+      songdataURL: "song_jp",
+      archiveURL: "archive_jp",
     };
   },
   methods: {
     changeLang: function () {
-      if (this.testLang == "JP") {
-        this.songdataURL = "song/jp";
-        this.archiveURL = "archive/jp";
-        console.log("aaaa");
+      if (this.curLang == "JP") {
+        this.songdataURL = "song_jp";
+        this.archiveURL = "archive_jp";
       } else {
-        this.songdataURL = "song/kr";
-        this.archiveURL = "archive/kr";
-        console.log("bbbb");
+        this.songdataURL = "song_kr";
+        this.archiveURL = "archive_kr";
       }
     },
   },
