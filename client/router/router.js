@@ -1,9 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Index from 'views/index.vue'
-import Post from 'views/post.vue'
-import Song from 'views/song.vue'
-import Archive from 'views/archive.vue'
+import SongJP from 'views/song_jp.vue'
+import SongKR from 'views/song_kr.vue'
+import ArchiveJP from 'views/archive_jp.vue'
+import ArchiveKR from 'views/archive_kr.vue'
 import About from 'views/about.vue'
 
 Vue.use(Router)
@@ -16,22 +17,28 @@ export const routes = [
       title: 'Index'
     }
   }, {
-    path: '/post/:language',
-    component: Post,
+    path: '/song/jp',
+    component: SongJP,
     meta: {
-      title: 'Post'
+      title: 'SongJP'
     }
   }, {
-    path: '/song',
-    component: Song,
+    path: '/song/kr',
+    component: SongKR,
     meta: {
-      title: 'Song'
+      title: 'SongKR'
     }
   }, {
-    path: '/archive',
-    component: Archive,
+    path: '/archive/jp',
+    component: ArchiveJP,
     meta: {
-      title: 'Archive'
+      title: 'ArchiveJP'
+    }
+  }, {
+    path: '/archive/kr',
+    component: ArchiveKR,
+    meta: {
+      title: 'ArchiveKR'
     }
   }, {
     path: '/about',

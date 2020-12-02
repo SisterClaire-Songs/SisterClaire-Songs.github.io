@@ -3,11 +3,7 @@
     <div class="page-layout">
       <sidebar-component />
       <div class="page-layout-inner">
-        <header-component
-          :title="title"
-          :changeLangJP="changeLangJP"
-          :changeLangKR="changeLangKR"
-        />
+        <header-component :title="title" />
         <main>
           <div class="main-content">
             <el-row class="container">
@@ -22,35 +18,32 @@
 </template>
 
 <script>
-import Header from 'components/Header/header.vue'
-import Sidebar from 'components/Sidebar/sidebar.vue'
-import Dimmer from 'components/Dimmer/dimmer.vue'
-import { mapActions, mapState } from 'vuex'
+import Header from "components/Header/header.vue";
+import Sidebar from "components/Sidebar/sidebar.vue";
+import Dimmer from "components/Dimmer/dimmer.vue";
+import { mapActions, mapState } from "vuex";
 
 export default {
-  name: 'App',
+  name: "App",
   methods: {
-    ...mapActions([
-      'changeLangJP',
-      'changeLangKR'
-    ])
+    ...mapActions(["changeLangJP", "changeLangKR"]),
   },
   computed: {
     ...mapState({
-      title: state => {
-        return state.route.meta.title
+      title: (state) => {
+        return state.route.meta.title;
       },
-      curLang: state => {
-        return state.language
-      }
-    })
+      curLang: (state) => {
+        return state.language;
+      },
+    }),
   },
   components: {
-    'header-component': Header,
-    'sidebar-component': Sidebar,
-    'dimmer-component': Dimmer
-  }
-}
+    "header-component": Header,
+    "sidebar-component": Sidebar,
+    "dimmer-component": Dimmer,
+  },
+};
 </script>
 
 <style lang="scss">
