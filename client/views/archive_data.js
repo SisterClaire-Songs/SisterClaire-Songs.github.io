@@ -3,6 +3,7 @@ import SongData from './song_data.js'
 const ArchiveData = [
   {
     'title': '【歌枠】元気に歌うぞ～！✨【にじさんじ/シスター・クレア】',
+    'url': 'https://www.youtube.com/watch?v=TvSfQKSSr3g',
     'date': '20200424',
     'setlist': [
       {
