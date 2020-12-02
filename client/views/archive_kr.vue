@@ -19,7 +19,7 @@
         </el-table>
 
       </template>
-    </el-table-column>
+      </el-table-column>
       <el-table-column prop="title" label="Title" width="850"></el-table-column>
       <el-table-column prop="date" label="Date" width="200"></el-table-column>
     </el-table>
