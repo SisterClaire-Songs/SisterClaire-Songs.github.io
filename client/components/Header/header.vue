@@ -6,12 +6,7 @@
           <i class="md-icon">menu</i>
         </el-button>
       </el-menu-item>
-      <span class="header-title">{{title}}</span>
-      <el-submenu class="header-menu" index="3">
-        <template slot="title">Language</template>
-        <el-menu-item index="4-1" @click="changeLangJP">Japanese</el-menu-item>
-        <el-menu-item index="4-2" @click="changeLangKR">Korean</el-menu-item>
-      </el-submenu>
+      <span class="header-title">{{title}}</span>      
     </el-menu>
   </header>
 </template>

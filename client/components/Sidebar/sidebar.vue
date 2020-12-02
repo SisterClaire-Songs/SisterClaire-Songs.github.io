@@ -8,14 +8,16 @@
       <el-menu-item v-bind:index="songdataURL">Song</el-menu-item>
       <el-menu-item v-bind:index="archiveURL">Archive</el-menu-item>
       <el-menu-item index="/about">About</el-menu-item>
-    </el-menu>
 
-    <div class="lang-button">
+      <div class="lang-button">
       <el-radio-group v-model="curLang" @change="changeLang">
         <el-radio-button label="JP">JP</el-radio-button>
         <el-radio-button label="KR">KR</el-radio-button>
       </el-radio-group>
     </div>
+    </el-menu>
+
+    
   </div>
 </template>
 
