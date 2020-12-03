@@ -21,21 +21,15 @@
 import Header from "components/Header/header.vue";
 import Sidebar from "components/Sidebar/sidebar.vue";
 import Dimmer from "components/Dimmer/dimmer.vue";
-import { mapActions, mapState } from "vuex";
+import { mapState } from "vuex";
 
 export default {
   name: "App",
-  methods: {
-    ...mapActions(["changeLangJP", "changeLangKR"]),
-  },
   computed: {
     ...mapState({
       title: (state) => {
         return state.route.meta.title;
-      },
-      curLang: (state) => {
-        return state.language;
-      },
+      }      
     }),
   },
   components: {

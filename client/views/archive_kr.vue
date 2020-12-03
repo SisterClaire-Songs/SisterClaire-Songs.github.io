@@ -1,19 +1,40 @@
 <template>
   <div id="ArchiveKR">
     <h1>Here Is ArchiveKR Page</h1>
-    <el-table :data="songData" style="width: 100%">
-      <el-table-column prop="title" label="Title" width="180"></el-table-column>
-      <el-table-column prop="name" label="Name" width="180"></el-table-column>
-      <el-table-column prop="address" label="Address"></el-table-column>
+    <el-table :data="ArchiveData1" style="width: 100%">
+      <el-table-column type="expand">
+      <template slot-scope="each_archive">
+
+        <el-table :data=each_archive.row.setlist style="width: 100%">
+          <el-table-column prop="time_vis" label="Time_vis" width="100"></el-table-column>
+          <el-table-column prop="song[1]" label="Song" width="800">
+            
+            <template slot-scope="hyperlink">
+              <a :href="each_archive.row.url + '&t=' + hyperlink.row.time_sec + 's'" target="_blank">
+                {{hyperlink.row.song[1]}}</a>
+            </template>
+
+          </el-table-column>
+          <el-table-column prop="additional[1]" label="Additional" width="200"></el-table-column>
+        </el-table>
+
+      </template>
+      </el-table-column>
+      <el-table-column prop="title" label="Title" width="850"></el-table-column>
+      <el-table-column prop="date" label="Date" width="200"></el-table-column>
     </el-table>
   </div>
 </template>
 
 <script>
+import ArchiveData from './archive_data.js'
+
 export default {
   name: "ArchiveKR",
   data() {
-    return {};
+    return {
+      ArchiveData1: ArchiveData
+    };
   },
   components: {},
 };
