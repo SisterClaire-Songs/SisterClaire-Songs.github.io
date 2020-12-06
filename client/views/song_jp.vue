@@ -15,14 +15,14 @@
             </template>
           </el-table-column>
 
-          <el-table-column label="additional" width="180"></el-table-column>
+          <el-table-column prop="additional[0]" label="additional" width="180"></el-table-column>
         </el-table>
       </template>
       </el-table-column>
 
-      <el-table-column prop="title[0]" label="Title" width="500"></el-table-column>
+      <el-table-column prop="title[0]" label="Title" width="300"></el-table-column>
       
-      <el-table-column prop="singer[0]" label="singer" width="180"></el-table-column>
+      <el-table-column prop="singer[0]" label="singer" width="300"></el-table-column>
 
       <el-table-column prop="additional[0]" label="additional" width="180"></el-table-column>
       

@@ -15,7 +15,7 @@
             </template>
           </el-table-column>
 
-          <el-table-column label="additional" width="180"></el-table-column>
+          <el-table-column prop="additional[1]" label="additional" width="180"></el-table-column>
         </el-table>
       </template>
       </el-table-column>
