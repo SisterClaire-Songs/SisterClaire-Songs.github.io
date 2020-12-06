@@ -38,8 +38,7 @@ export default {
   name: "SongJP",
   data() {
     return {
-      SongData1: SongData,
-      ArchiveData1: ArchiveData
+      SongData1: SongData
     };
   },
   methods: {
