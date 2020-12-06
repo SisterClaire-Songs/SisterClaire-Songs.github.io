@@ -50,7 +50,7 @@ export default {
         archive['setlist'].forEach(function (entry) {
           if (entry['song'] === song['title']) {
             entry['archive_title'] = archive['title'][0]
-            entry['archive_url'] = archive['url'] + '&t=' + entry['time_sec'] + 's'
+            entry['archive_url'] = archive['url'] + entry['time_query']
             entry['archive_date'] = archive['date']
             resultArray.push(entry)
           }
