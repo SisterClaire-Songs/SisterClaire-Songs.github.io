@@ -10,7 +10,7 @@
 
           <el-table-column prop="song[1]" label="Song" width="800">            
             <template slot-scope="hyperlink">
-              <a :href="each_archive.row.url + '&t=' + hyperlink.row.time_sec + 's'" target="_blank">
+              <a :href="each_archive.row.url + hyperlink.row.time_query" target="_blank">
                 {{hyperlink.row.song[1]}}</a>
             </template>
           </el-table-column>

@@ -8,8 +8,8 @@ const ArchiveData = [
     'date': '20200424',
     'setlist': [
       {
-        'time_vis': '02:59',
-        'time_sec': '179',
+        'time_vis': '0:02:59',
+        'time_query': '&t=0h02m59s',
         'song': SongData.get('虹いろ・クマクマ').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -17,8 +17,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '10:07',
-        'time_sec': '607',
+        'time_vis': '0:10:07',
+        'time_query': '&t=0h10m07s',
         'song': SongData.get('○○ がんばらなくてもええねんで!!').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -26,8 +26,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '17:39',
-        'time_sec': '1059',
+        'time_vis': '0:17:39',
+        'time_query': '&t=0h17m39s',
         'song': SongData.get('アジアン セレブレイション').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -35,8 +35,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '21:01',
-        'time_sec': '1261',
+        'time_vis': '0:21:01',
+        'time_query': '&t=0h21m01s',
         'song': SongData.get('アダムとイブのジレンマ').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -44,8 +44,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '26:47',
-        'time_sec': '1607',
+        'time_vis': '0:26:47',
+        'time_query': '&t=0h26m47s',
         'song': SongData.get('ホットチリソース').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -53,8 +53,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '33:36',
-        'time_sec': '2016',
+        'time_vis': '0:33:36',
+        'time_query': '&t=0h33m36s',
         'song': SongData.get('ナージャ!!').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -62,8 +62,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '38:40',
-        'time_sec': '2320',
+        'time_vis': '0:38:40',
+        'time_query': '&t=0h38m40s',
         'song': SongData.get("GOIN'!!!").title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -71,8 +71,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '48:42',
-        'time_sec': '2922',
+        'time_vis': '0:48:42',
+        'time_query': '&t=0h48m42s',
         'song': SongData.get('私がオバさんになっても').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -80,8 +80,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '54:04',
-        'time_sec': '3244',
+        'time_vis': '0:54:04',
+        'time_query': '&t=0h54m04s',
         'song': SongData.get('飾りじゃないのよ涙は').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -90,7 +90,7 @@ const ArchiveData = [
       },
       {
         'time_vis': '1:02:48',
-        'time_sec': '3768',
+        'time_query': '&t=1h02m48s',
         'song': SongData.get('渚のバルコニー').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -99,7 +99,7 @@ const ArchiveData = [
       },
       {
         'time_vis': '1:06:45',
-        'time_sec': '4005',
+        'time_query': '&t=1h06m45s',
         'song': SongData.get('青い珊瑚礁').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -108,7 +108,7 @@ const ArchiveData = [
       },
       {
         'time_vis': '1:10:38',
-        'time_sec': '4238',
+        'time_query': '&t=1h10m38s',
         'song': SongData.get('ロマンスの神様').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -117,7 +117,7 @@ const ArchiveData = [
       },
       {
         'time_vis': '1:15:14',
-        'time_sec': '4514',
+        'time_query': '&t=1h15m14s',
         'song': SongData.get('そばかす').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -126,7 +126,7 @@ const ArchiveData = [
       },
       {
         'time_vis': '1:49:08',
-        'time_sec': '6548',
+        'time_query': '&t=1h49m08s',
         'song': SongData.get('Kawaii make MY day!').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -143,7 +143,7 @@ const ArchiveData = [
     'setlist': [
       {
         'time_vis': '',
-        'time_sec': '',
+        'time_query': '',
         'song': '',
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -152,7 +152,7 @@ const ArchiveData = [
       },
       {
         'time_vis': '',
-        'time_sec': '',
+        'time_query': '',
         'song': '',
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -161,6 +161,7 @@ const ArchiveData = [
       }
     ]
   }
+
 ]
 
 export default ArchiveData

@@ -6,7 +6,7 @@ npm run generate_theme
 npm run deploy
 
 
-## 사전 준비
+## Requirements
 node -v  
 npm cache clean -f  
 npm install -g n  
@@ -20,8 +20,13 @@ sudo npm install
 npm outdated
 
 ### TODO: Dependencies
-바닥부터 짤 시간도 능력도 없어서 일단 샘플에서 거의 그대로 가져와서 만들었습니다.  
-dependency를 변경하며 뒤따르는 빌드 에러를 어떻게 해볼수가 없어 최신 라이브러리들을 사용하지 못했습니다.
+I couldn't use the latest libraries because I couldn't do anything about the build error that follows by changing the dependency.  
+
+### Guide for archive_data.js
+`archive_data.js` is JSON structure.  
+`setlist_maker.html` is made for this data.  
+This is single HTML page. Open it in your browser.  
+`youtube_id` is, for example in this page https://www.youtube.com/watch?v=Pr14W3WT1og, -> Pr14W3WT1og.  
 
 
 ### Thanks to : https://github.com/Metnew/vue-element-starter  
