@@ -1016,6 +1016,312 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['アイドルソングをうたいます☺️',
+      'アイドルソングをうたいます☺️'],
+    'url': 'https://www.youtube.com/watch?v=mbb-wbY7S64',
+    'date': '20180915',
+    'setlist': [
+      {
+        'time_vis': '0:04:38',
+        'time_query': '&t=0h04m38s',
+        'song': SongData.get('ジッパー').title,
+        'additional': [['アカペラ'], ['무반주']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:16',
+        'time_query': '&t=0h10m16s',
+        'song': SongData.get('桃色片想い').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:07',
+        'time_query': '&t=0h12m07s',
+        'song': SongData.get('ショートカット').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:14:48',
+        'time_query': '&t=0h14m48s',
+        'song': SongData.get('What is LOVE?').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:02',
+        'time_query': '&t=0h19m02s',
+        'song': SongData.get('となりのバナナ').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:22:06',
+        'time_query': '&t=0h22m06s',
+        'song': SongData.get('輝夜の城で踊りたい').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:43',
+        'time_query': '&t=0h24m43s',
+        'song': SongData.get('Snow halation').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:32:40',
+        'time_query': '&t=0h32m40s',
+        'song': SongData.get('7 Girls War').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:23',
+        'time_query': '&t=0h36m23s',
+        'song': SongData.get('WOO YEAH!').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:43:24',
+        'time_query': '&t=0h43m24s',
+        'song': SongData.get('わるきー').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:46:34',
+        'time_query': '&t=0h46m34s',
+        'song': SongData.get('ギラギラサマー(^ω^)ノ').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:30',
+        'time_query': '&t=0h48m30s',
+        'song': SongData.get('まっさらブルージーンズ').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:02',
+        'time_query': '&t=0h51m02s',
+        'song': SongData.get('行くぜっ!怪盗少女').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:53:10',
+        'time_query': '&t=0h53m10s',
+        'song': SongData.get('ノーザンクロス').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:02',
+        'time_query': '&t=0h55m02s',
+        'song': SongData.get('いけないボーダーライン').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:01:44',
+        'time_query': '&t=1h01m44s',
+        'song': SongData.get('カノン').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:04:24',
+        'time_query': '&t=1h04m24s',
+        'song': SongData.get('ハッピークレセント').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:06:56',
+        'time_query': '&t=1h06m56s',
+        'song': SongData.get('エヴリデイドリーム').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:09:44',
+        'time_query': '&t=1h09m44s',
+        'song': SongData.get('TOKIMEKIエスカレート').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:11:46',
+        'time_query': '&t=1h11m46s',
+        'song': SongData.get('Kawaii make MY day!').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:15:14',
+        'time_query': '&t=1h15m14s',
+        'song': SongData.get('孤独なHeaven').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:17:58',
+        'time_query': '&t=1h17m58s',
+        'song': SongData.get('純愛レンズ').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:20:23',
+        'time_query': '&t=1h20m23s',
+        'song': SongData.get('Mermaid festa vol.2 ~Passionate~').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:22:53',
+        'time_query': '&t=1h22m53s',
+        'song': SongData.get('ドキッ！こういうのが恋なの？').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:29:01',
+        'time_query': '&t=1h29m01s',
+        'song': SongData.get('Maria Trap').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:32:18',
+        'time_query': '&t=1h32m18s',
+        'song': SongData.get('天使のしっぽ').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:41:24',
+        'time_query': '&t=1h41m24s',
+        'song': SongData.get('ハートの独占権').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:46:10',
+        'time_query': '&t=1h46m10s',
+        'song': SongData.get('モーレツ★世直しギルティ！').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:50:24',
+        'time_query': '&t=1h50m24s',
+        'song': SongData.get('Orange Sapphire').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:53:47',
+        'time_query': '&t=1h53m47s',
+        'song': SongData.get('スキちゃん').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:58:20',
+        'time_query': '&t=1h58m20s',
+        'song': SongData.get('有頂天LOVE').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:01:44',
+        'time_query': '&t=2h01m44s',
+        'song': SongData.get('ハート型ウイルス').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:03:48',
+        'time_query': '&t=2h03m48s',
+        'song': SongData.get('私、アイドル宣言').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
