@@ -342,8 +342,8 @@ SongData.set('Part Of Your World', {
   'additional': [['ディズニー'], ['디즈니']]
 })
 
-SongData.set('Wind Climbing～風にあそばれて～', {
-  'title': ['Wind Climbing～風にあそばれて～', 'Wind Climbing～바람에 이끌려서～'],
+SongData.set('Wind Climbing ~風にあそばれて~', {
+  'title': ['Wind Climbing ~風にあそばれて~', 'Wind Climbing ~바람에 이끌려서~'],
   'singer': [['奥井亜紀'], ['오쿠이 아키']],
   'additional': [[''], ['']]
 })
@@ -1105,8 +1105,8 @@ SongData.set('ヴィーナスシンドローム', {
   'additional': [['アイマス'], ['아이마스']]
 })
 
-SongData.set('マリオネットの心 ', {
-  'title': ['マリオネットの心 ', '마리오네트의 마음'],
+SongData.set('マリオネットの心', {
+  'title': ['マリオネットの心', '마리오네트의 마음'],
   'singer': [['星井美希(CV.長谷川明子)'], ['호시이 미키(CV.하세가와 아키코)']],
   'additional': [['アイマス'], ['아이마스']]
 })
