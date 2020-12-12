@@ -278,7 +278,7 @@ SongData.set('my song', {
 SongData.set('Zzz', {
   'title': ['Zzz', 'Zzz'],
   'singer': [['佐咲紗花'], ['사사키 사야카']],
-  'additional': [[''], ['']]
+  'additional': [['日常'], ['일상']]
 })
 
 SongData.set('絶対特権主張しますっ!', {
@@ -2143,7 +2143,7 @@ SongData.set('はっぴぃ にゅう にゃあ', {
 })
 
 SongData.set('金曜日のおはよう', {
-  'title': ['金曜日のおはよう', '금요일의 좋은 아침'],
+  'title': ['金曜日のおはよう', '금요일의 아침인사'],
   'singer': [['HoneyWorks'], ['HoneyWorks']],
   'additional': [[''], ['']]
 })
