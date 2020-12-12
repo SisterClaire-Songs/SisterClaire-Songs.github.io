@@ -306,8 +306,8 @@ SongData.set('夏の扉', {
   'additional': [[''], ['']]
 })
 
-SongData.set('射手座 午後九時 Don\'t be late', {
-  'title': ['射手座 午後九時 Don\'t be late', '사수좌 오후9시 Don\'t be late'],
+SongData.set('射手座☆午後九時 Don\'t be late', {
+  'title': ['射手座☆午後九時 Don\'t be late', '사수자리☆오후9시 Don\'t be late'],
   'singer': [['シェリル・ノーム(starring May\'n)'], ['셰릴 놈(보컬 May\'n)']],
   'additional': [['マクロス '], ['마크로스']]
 })
@@ -966,6 +966,18 @@ SongData.set('Do You Want to Build a Snowman?', {
   'additional': [['ディズニー'], ['디즈니']]
 })
 
+SongData.set('とびら開けて', {
+  'title': ['とびら開けて', '사랑은 열린 문'],
+  'singer': [['アナと雪の女王'], ['겨울왕국']],
+  'additional': [['ディズニー'], ['디즈니']]
+})
+
+SongData.set('生まれてはじめて', {
+  'title': ['生まれてはじめて', '태어나서 처음으로'],
+  'singer': [['アナと雪の女王'], ['겨울왕국']],
+  'additional': [['ディズニー'], ['디즈니']]
+})
+
 SongData.set('A Whole New World', {
   'title': ['A Whole New World', 'A Whole New World'],
   'singer': [['アラジン'], ['알라딘']],
@@ -982,12 +994,6 @@ SongData.set('誰より好きなのに', {
   'title': ['誰より好きなのに', '누구보다 좋아하는데'],
   'singer': [['古内東子'], ['후루이치 도코']],
   'additional': [[''], ['']]
-})
-
-SongData.set('とびら開けて', {
-  'title': ['とびら開けて', '사랑은 열린 문'],
-  'singer': [['アナと雪の女王'], ['겨울왕국']],
-  'additional': [['ディズニー'], ['디즈니']]
 })
 
 SongData.set('WHITE ALBUM', {
@@ -1107,6 +1113,12 @@ SongData.set('マリオネットの心 ', {
 
 SongData.set('dear…', {
   'title': ['dear…', 'dear…'],
+  'singer': [['馬場このみ(CV.高橋未奈美)'], ['바바 코노미(CV.타카하시 미나미)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('To…', {
+  'title': ['To…', 'To…'],
   'singer': [['馬場このみ(CV.高橋未奈美)'], ['바바 코노미(CV.타카하시 미나미)']],
   'additional': [['アイマス'], ['아이마스']]
 })
@@ -2118,7 +2130,7 @@ SongData.set('DANZEN!ふたりはプリキュア', {
 })
 
 SongData.set('乙女のポリシー', {
-  'title': ['乙女のポリシー', '숙녀의 폴리시'],
+  'title': ['乙女のポリシー', '소녀의 폴리시'],
   'singer': [['石田よう子'], ['이시다 요코']],
   'additional': [[''], ['']]
 })
@@ -2828,7 +2840,7 @@ SongData.set('Our Steady Boy', {
 })
 
 SongData.set('咲かせて乙女', {
-  'title': ['咲かせて乙女', '피어줘 숙녀'],
+  'title': ['咲かせて乙女', '피어줘 소녀'],
   'singer': [['田村ゆかり'], ['타무라 유카리']],
   'additional': [[''], ['']]
 })
@@ -3490,7 +3502,7 @@ SongData.set('Halloween♥Code', {
 
 SongData.set('ススメ☆オトメ ~jewel parade~', {
   'title': ['ススメ☆オトメ ~jewel parade~', '전진하라☆소녀여 ~jewel parade~'],
-  'singer': [['CINDERELLA PROJECT'], ['CINDERELLA PROJECT']],
+  'singer': [['346PRO'], ['346PRO']],
   'additional': [['アイマス'], ['아이마스']]
 })
 
@@ -4487,15 +4499,417 @@ SongData.set('ハピリリ', {
   'additional': [[''], ['']]
 })
 
-SongData.set('', {
-  'title': ['', ''],
+SongData.set('からくりピエロ', {
+  'title': ['からくりピエロ', '꼭두각시 피에로'],
+  'singer': [['40mP'], ['40mP']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('ドレミファロンド', {
+  'title': ['ドレミファロンド', '도레미파 론도'],
+  'singer': [['40mP'], ['40mP']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('深海少女', {
+  'title': ['深海少女', '심해소녀'],
+  'singer': [['ゆうゆ'], ['유우유']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('乙女解剖', {
+  'title': ['乙女解剖', '소녀해부'],
+  'singer': [['DECO*27'], ['DECO*27']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('高音厨音域テスト', {
+  'title': ['高音厨音域テスト', '고음부 음역 테스트'],
+  'singer': [['木村わいP'], ['키무라 와이 P']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('Paintër', {
+  'title': ['Paintër', 'Paintër'],
+  'singer': [['halyosy'], ['halyosy']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('心做し', {
+  'title': ['心做し', '마음탓'],
+  'singer': [['蝶々P'], ['쵸쵸P']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('「ひとりで生きられそう」って それってねえ、褒めているの?', {
+  'title': ['「ひとりで生きられそう」って それってねえ、褒めているの?', '「혼자서도 살 수 있을 것 같아」라니 그거, 칭찬이야?'],
+  'singer': [['Juice=Juice'], ['Juice=Juice']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Kosmos, Cosmos', {
+  'title': ['Kosmos, Cosmos', 'Kosmos, Cosmos'],
+  'singer': [['萩原雪歩(CV.落合祐里香, 浅倉杏美)'], ['하기와라 유키호(CV.오치아이 유리카, 아사쿠라 아즈미)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('乙女よ大志を抱け!!', {
+  'title': ['乙女よ大志を抱け!!', '소녀여 큰 뜻을 품어라!!'],
+  'singer': [['天海春香(CV.中村繪里子)'], ['아마미 하루카(CV.나카무라 에리코)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('小さきもの', {
+  'title': ['小さきもの', '작은 것'],
+  'singer': [['林明日香'], ['하야시 아스카']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('かくしん的☆めたまるふぉ~ぜっ!', {
+  'title': ['かくしん的☆めたまるふぉ~ぜっ!', '혁신적☆메타모르포제!'],
+  'singer': [['土間うまる(CV.田中あいみ)'], ['도마 우마루(CV.타나카 아이미)']],
+  'additional': [['干物妹! うまるちゃん'], ['건어물 여동생! 우마루쨩']]
+})
+
+SongData.set('ベノム', {
+  'title': ['ベノム', '베놈'],
+  'singer': [['かいりきベア'], ['카이리키 베어']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('いーあるふぁんくらぶ', {
+  'title': ['いーあるふぁんくらぶ', '이얼 팬클럽'],
+  'singer': [['みきとP'], ['미사토P']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('Lovely Fruit', {
+  'title': ['Lovely Fruit', 'Lovely Fruit'],
+  'singer': [['水樹奈々'], ['미즈키 나나']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('歌に形はないけれど', {
+  'title': ['歌に形はないけれど', '노래에 형태는 없지만'],
+  'singer': [['doriko'], ['doriko']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('サマータイムラブ', {
+  'title': ['サマータイムラブ', '서머타임 러브'],
+  'singer': [['Shiggy Jr.'], ['Shiggy Jr.']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('チーズケーキクライシス', {
+  'title': ['チーズケーキクライシス', '치즈 케이크 크라이시스'],
+  'singer': [['TOKOTOKO(西沢さんP)'], ['TOKOTOKO(니시자와씨P)']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('エイリアンエイリアン', {
+  'title': ['エイリアンエイリアン', '에일리언 에일리언'],
+  'singer': [['ナユタン星人'], ['나유탄 성인']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('恋愛裁判', {
+  'title': ['恋愛裁判', '연애재판'],
+  'singer': [['40mP'], ['40mP']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('フタリボシ', {
+  'title': ['フタリボシ', '두 사람의 별'],
+  'singer': [['40mP'], ['40mP']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('別の人の彼女になったよ', {
+  'title': ['別の人の彼女になったよ', '다른 사람의 여자친구가 됐어'],
+  'singer': [['wacci'], ['wacci']],
+  'additional': [[''], ['']]
+})
+SongData.set('あたしを彼女にしたいなら', {
+  'title': ['あたしを彼女にしたいなら', '나를 여자친구로 하고 싶으면'],
+  'singer': [['コレサワ'], ['코레사와']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('LOVE & ROLL', {
+  'title': ['LOVE & ROLL', 'LOVE & ROLL'],
+  'singer': [['supercell'], ['supercell']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('笑顔の連鎖', {
+  'title': ['笑顔の連鎖', '미소의 연쇄'],
+  'singer': [['堀江由衣'], ['호리에 유이']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ボクノート', {
+  'title': ['ボクノート', '보쿠 노트'],
+  'singer': [['スキマスイッチ'], ['스키마스위치']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('君じゃなきゃダメみたい', {
+  'title': ['君じゃなきゃダメみたい', '네가 아니면 안될 것 같아'],
+  'singer': [['オーイシマサヨシ'], ['오오이시 마사요시']],
+  'additional': [['月刊少女野崎くん'], ['월간 순정 노자키군']]
+})
+
+SongData.set('言って', {
+  'title': ['言って', '말해줘'],
+  'singer': [['ヨルシカ'], ['요루시카']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('紅蓮華', {
+  'title': ['紅蓮華', '홍련화'],
+  'singer': [['LiSA'], ['LiSA']],
+  'additional': [['鬼滅の刃'], ['귀멸의 칼날']]
+})
+
+SongData.set('ハミングがきこえる', {
+  'title': ['ハミングがきこえる', '허밍이 들려'],
+  'singer': [['カヒミ・カリィ'], ['카히미 카리']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('アイル', {
+  'title': ['アイル', '아이루'],
+  'singer': [['伊吹翼(CV.Machico)'], ['이부키 츠바사(CV.Machico)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('Welcome!!', {
+  'title': ['Welcome!!', 'Welcome!!'],
+  'singer': [['765 MILLION ALLSTARS'], ['765 MILLION ALLSTARS']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('Growing Storm!', {
+  'title': ['Growing Storm!', 'Growing Storm!'],
+  'singer': [['春日未来(CV.山崎はるか)', '伊吹翼(CV.Machico)', '七尾百合子(CV.伊藤美来)', '真壁瑞希(CV.阿部里果)', '望月杏奈(CV.夏川椎菜)'],
+    ['카스가 미라이(CV.야마자키 하루카)', '이부키 츠바사(CV.Machico)', '나나오 유리코(CV.이토 미쿠)', '마카베 미즈키(CV.아베 리카)', '모치즈키 안나(CV.나츠카와 시이나)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('月曜日のクリームソーダ', {
+  'title': ['月曜日のクリームソーダ', '월요일의 크림 소다'],
+  'singer': [['ロコ(CV.中村温姫)', '舞浜歩(CV.戸田めぐみ)', '永吉昴(CV.斉藤佑圭)', '周防桃子(CV.渡部恵子)'],
+    ['로코(CV.나카무라 아츠키)', '마이하마 아유무(CV.토다 메구미)', '나가요시 스바루(CV.사이토 유카)', '스오 모모코(CV.와타나베 케이코)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('ザ・ライブ革命でSHOW！', {
+  'title': ['ザ・ライブ革命でSHOW！', '더 라이브 혁명하SHOW!'],
+  'singer': [['765PRO'], ['765PRO']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('スマイル・エンゲージ', {
+  'title': ['スマイル・エンゲージ', '스마일 인게이지'],
+  'singer': [['鷹城恭二(CV.梅原裕一郎)', 'ピエール(CV.堀江瞬)', '渡辺みのり(CV.高塚智人)'],
+    ['타카죠 쿄지(CV.우메하라 유이치로)', '피에르(CV.호리에 슌)', '와타나베 미노리(CV.타카츠카 토모히토)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('Study Equal Magic!', {
+  'title': ['Study Equal Magic!', 'Study Equal Magic!'],
+  'singer': [['硲道夫(CV.伊東健人)', '舞田類(CV.榎木淳弥)', '山下次郎(CV.中島ヨシキ)'],
+    ['하자마 미치오(CV.이토 켄토)', '마이타 루이(CV.에노키 쥰야)', '야마시타 지로(CV.나카지마 요시키)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('CHANGE!!!!', {
+  'title': ['CHANGE!!!!', 'CHANGE!!!!'],
+  'singer': [['765PRO ALLSTARS'], ['765PRO ALLSTARS']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('華蕾夢ミル狂詩曲 ~魂ノ導~', {
+  'title': ['華蕾夢ミル狂詩曲 ~魂ノ導~', '꽃봉오리 꿈꾸는 광시곡 ~혼의 이끌림~'],
+  'singer': [['神崎蘭子(CV.内田真礼)'], ['칸자키 란코(CV.우치다 마아야)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('Near to You', {
+  'title': ['Near to You', 'Near to You'],
+  'singer': [['346PRO'], ['346PRO']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('“HELLO!!”', {
+  'title': ['“HELLO!!”', '“HELLO!!”'],
+  'singer': [['ディアリースターズ'], ['디어리 스타즈']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('Here we go!!', {
+  'title': ['Here we go!!', 'Here we go!!'],
+  'singer': [['水瀬伊織(CV.釘宮理恵)'], ['미나세 이오리(CV.쿠기미야 리에)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('Bloomy!', {
+  'title': ['Bloomy!', 'Bloomy!'],
+  'singer': [['大崎甘奈(CV.黒木ほの香)', '大崎甜花(CV.前川涼子)', '桑山千雪(CV.芝崎典子)'],
+    ['오오사키 아마나(CV.쿠로키 호노카)', '오오사키 텐카(CV.마에카와 료코)', '쿠와야마 치유키(CV.시바사키 노리코)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('HOME, SWEET FRIENDSHIP', {
+  'title': ['HOME, SWEET FRIENDSHIP', 'HOME, SWEET FRIENDSHIP'],
+  'singer': [['天海春香(CV.中村繪里子)', '周防桃子(CV.渡部恵子)', '福田のり子(CV.浜崎奈々)', '松田亜利沙(CV.村川梨衣)', '横山奈緒(CV.渡部優衣)'],
+    ['아마미 하루카(CV.나카무라 에리코)', '스오 모모코(CV.와타나베 케이코)', '후쿠다 노리코(CV.하마사키 나나)', '마츠다 아리사(CV.무라카와 리에)', '요코야마 나오(CV.와타나베 유이)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('M@STERPIECE', {
+  'title': ['M@STERPIECE', 'M@STERPIECE'],
+  'singer': [['765PRO ALLSTARS'], ['765PRO ALLSTARS']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('YOU往MY進！', {
+  'title': ['YOU往MY進！', 'YOU왕MY진!'],
+  'singer': [['双海亜美(CV.下田麻美)'], ['후타미 아미(CV.시모다 아사미)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('relations', {
+  'title': ['relations', 'relations'],
+  'singer': [['星井美希(CV.長谷川明子)'], ['호시이 미키(CV.하세가와 아키코)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('瑠璃色金魚と花菖蒲', {
+  'title': ['瑠璃色金魚と花菖蒲', '유리색 금붕어와 꽃창포'],
+  'singer': [['白石紬(CV.南早紀)'], ['시라이시 츠무기(CV.미나미 사키)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('CLEAR', {
+  'title': ['CLEAR', 'CLEAR'],
+  'singer': [['坂本真綾'], ['사카모토 마아야']],
+  'additional': [['カードキャプターさくら'], ['카드캡터 사쿠라']]
+})
+
+SongData.set('東京サマーセッション', {
+  'title': ['東京サマーセッション', '도쿄 서머 세션'],
+  'singer': [['HoneyWorks'], ['HoneyWorks']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('いい日旅立ち', {
+  'title': ['いい日旅立ち', '좋은 날 여행떠나기'],
+  'singer': [['山口百恵'], ['야마구치 모모에']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('夏色のナンシー', {
+  'title': ['夏色のナンシー', '여름색 낸시'],
+  'singer': [['早見優'], ['하야미 유']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('星空のドライブ', {
+  'title': ['星空のドライブ', '별하늘 드라이브'],
+  'singer': [['松田聖子'], ['마츠다 세이코']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('バカップル♡', {
+  'title': ['バカップル♡', '바보 커플♡'],
+  'singer': [['DROPS'], ['DROPS']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('adrenaline!!!', {
+  'title': ['adrenaline!!!', 'adrenaline!!!'],
+  'singer': [['TrySail'], ['TrySail']],
+  'additional': [['エロマンガ先生'], ['에로망가 선생']]
+})
+
+SongData.set('未来へ', {
+  'title': ['未来へ', '미래에'],
+  'singer': [['Kiroro'], ['Kiroro']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('トリセツ', {
+  'title': ['トリセツ', '토리세츠'],
+  'singer': [['西野カナ'], ['니시노 카나']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Last Kiss', {
+  'title': ['Last Kiss', 'Last Kiss'],
+  'singer': [['三船美優(CV.原田彩楓)'], ['미후네 미유(CV.하라다 사야카)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('雪にかいたLOVE LETTER', {
+  'title': ['雪にかいたLOVE LETTER', '눈이 있던 LOVE LETTER'],
+  'singer': [['菊池桃子'], ['키쿠치 모모코']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ファンサ', {
+  'title': ['ファンサ', '팬서비스'],
+  'singer': [['mona(CV.夏川椎菜)'], ['mona(CV.나츠카와 시이나)']],
+  'additional': [['HoneyWorks'], ['HoneyWorks']]
+})
+
+SongData.set('雨とカプチーノ', {
+  'title': ['雨とカプチーノ', '비와 카푸치노'],
+  'singer': [['ヨルシカ'], ['요루시카']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('夜に駆ける', {
+  'title': ['夜に駆ける', '밤에 달리다'],
+  'singer': [['YOASOBI'], ['YOASOBI']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('鳥の詩', {
+  'title': ['鳥の詩', '새의 시'],
+  'singer': [['Lia'], ['Lia']],
+  'additional': [['AIR'], ['AIR']]
+})
+
+SongData.set('青空', {
+  'title': ['青空', '푸른 하늘'],
+  'singer': [['Lia'], ['Lia']],
+  'additional': [['AIR'], ['AIR']]
+})
+
+SongData.set('ペトリコールを渡って', {
+  'title': ['ペトリコールを渡って', '페트리코를 건너서'],
+  'singer': [['瀬戸海月(CV.シスター・クレア)', '鳳凰火凛(CV.健屋花那)', '大賀ルキア(CV.星川サラ)'],
+    ['세토 미츠키(CV.시스터 클레어)', '호우오우 카린(CV.스코야 카나)', '타이가 루키아(CV.호시카와 사라)']],
+  'additional': [['電音部'], ['전음부']]
+})
+
+SongData.set('In my world', {
+  'title': ['In my world', 'In my world'],
+  'singer': [['瀬戸海月(CV.シスター・クレア)'], ['세토 미츠키(CV.시스터 클레어)']],
+  'additional': [['電音部'], ['전음부']]
+})
+
+SongData.set('Make you happy', {
+  'title': ['Make you happy', 'Make you happy'],
   'singer': [[''], ['']],
   'additional': [[''], ['']]
 })
 
-SongData.set('', {
-  'title': ['', ''],
-  'singer': [[''], ['']],
+SongData.set('All I Want for Christmas Is You', {
+  'title': ['All I Want for Christmas Is You', 'All I Want for Christmas Is You'],
+  'singer': [['Mariah Carey'], ['Mariah Carey']],
   'additional': [[''], ['']]
 })
 
