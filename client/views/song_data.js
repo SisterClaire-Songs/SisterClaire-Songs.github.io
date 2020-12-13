@@ -336,8 +336,8 @@ SongData.set('火刑の魔女', {
   'additional': [[''], ['']]
 })
 
-SongData.set('Part Of Your World', {
-  'title': ['Part Of Your World', 'Part Of Your World'],
+SongData.set('Part of Your World', {
+  'title': ['Part of Your World', 'Part of Your World'],
   'singer': [['リトル・マーメイド'], ['인어공주']],
   'additional': [['ディズニー'], ['디즈니']]
 })
@@ -652,8 +652,8 @@ SongData.set('ましゅまろ☆キッス', {
   'additional': [['アイマス'], ['아이마스']]
 })
 
-SongData.set('ショコラティアラ', {
-  'title': ['ショコラティアラ', '쇼콜라 티아라'],
+SongData.set('ショコラ・ティアラ', {
+  'title': ['ショコラ・ティアラ', '쇼콜라 티아라'],
   'singer': [['三村かな子(CV.大坪由佳)'], ['미무라 카나코(CV.오오츠보 유카)']],
   'additional': [['アイマス'], ['아이마스']]
 })
@@ -2088,14 +2088,14 @@ SongData.set('こいかぜ', {
 
 SongData.set('上弦の月1', {
   'title': ['上弦の月', '상현달'],
-  'singer': [['黒うさP'], ['흑토끼P']],
-  'additional': [['ボーカロイド'], ['보컬로이드']]
+  'singer': [['田村ゆかり'], ['타무라 유카리']],
+  'additional': [[''], ['']]
 })
 
 SongData.set('上弦の月2', {
   'title': ['上弦の月', '상현달'],
-  'singer': [['田村ゆかり'], ['타무라 유카리']],
-  'additional': [[''], ['']]
+  'singer': [['黒うさP'], ['흑토끼P']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
 })
 
 SongData.set('バレンタイン・キッス', {
@@ -3291,8 +3291,8 @@ SongData.set('キャンディ・キャンディ', {
   'additional': [[''], ['']]
 })
 
-SongData.set('YAHHO!', {
-  'title': ['YAHHO!', 'YAHHO!'],
+SongData.set('YAHHO!!', {
+  'title': ['YAHHO!!', 'YAHHO!!'],
   'singer': [['堀江由衣'], ['호리에 유이']],
   'additional': [[''], ['']]
 })
@@ -4913,9 +4913,15 @@ SongData.set('All I Want for Christmas Is You', {
   'additional': [[''], ['']]
 })
 
-SongData.set('', {
-  'title': ['', ''],
-  'singer': [[''], ['']],
+SongData.set('Wonderful Days', {
+  'title': ['Wonderful Days', 'Wonderful Days'],
+  'singer': [['プルタブと缶'], ['풀 탭과 캔']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Paradise Lost', {
+  'title': ['Paradise Lost', 'Paradise Lost'],
+  'singer': [['茅原実里'], ['치하라 미노리']],
   'additional': [[''], ['']]
 })
 
