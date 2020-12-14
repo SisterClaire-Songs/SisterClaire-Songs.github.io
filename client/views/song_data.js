@@ -618,7 +618,7 @@ SongData.set('SOUND OF DESTINY', {
 
 SongData.set('スタ→トスタ→', {
   'title': ['スタ→トスタ→', '스타→토스타→'],
-  'singer': [['双海亜美･真美(CV.下田麻美)'], ['후타미 마미･아미(CV.시모다 아사미)']],
+  'singer': [['双海亜美･真美(CV.下田麻美)'], ['후타미 아미･마미(CV.시모다 아사미)']],
   'additional': [['アイマス'], ['아이마스']]
 })
 
@@ -3964,6 +3964,12 @@ SongData.set('小さな恋のうた', {
   'additional': [[''], ['']]
 })
 
+SongData.set('チェリー', {
+  'title': ['チェリー', '체리'],
+  'singer': [['スピッツ'], ['스핏츠']],
+  'additional': [[''], ['']]
+})
+
 SongData.set('空も飛べるはず', {
   'title': ['空も飛べるはず', '하늘도 날 수 있을 터'],
   'singer': [['スピッツ'], ['스핏츠']],
@@ -4923,6 +4929,36 @@ SongData.set('Paradise Lost', {
   'title': ['Paradise Lost', 'Paradise Lost'],
   'singer': [['茅原実里'], ['치하라 미노리']],
   'additional': [[''], ['']]
+})
+
+SongData.set('死ぬこと以外かすり傷', {
+  'title': ['死ぬこと以外かすり傷', '죽는 것 이외에는 생채기'],
+  'singer': [['コレサワ'], ['코레사와']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ショートカットに憧れて', {
+  'title': ['ショートカットに憧れて', '쇼트 컷에 동경해서'],
+  'singer': [['コレサワ'], ['코레사와']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ニンジーン Loves you yeah!', {
+  'title': ['ニンジーン Loves you yeah!', '당근 Loves you yeah!'],
+  'singer': [['ランカ・リー(CV.中島愛)'], ['란카 리(CV.나카지마 메구미)']],
+  'additional': [['マクロス'], ['마크로스']]
+})
+
+SongData.set('Do-Dai', {
+  'title': ['Do-Dai', 'Do-Dai'],
+  'singer': [['双海真美(CV.下田麻美)'], ['후타미 마미(CV.시모다 아사미)']],
+  'additional': [['アイマス'], ['아이마스']]
+})
+
+SongData.set('Chica×Chica', {
+  'title': ['Chica×Chica', 'Chica×Chica'],
+  'singer': [['みほ・みき from AIKATSU☆STARS!'], ['미호・미키 from AIKATSU☆STARS!']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
 })
 
 SongData.set('', {
