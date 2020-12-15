@@ -2373,6 +2373,12 @@ SongData.set('アンパンマンのマーチ', {
   'additional': [['アンバンマン'], ['호빵맨']]
 })
 
+SongData.set('アンパンマンたいそう', {
+  'title': ['アンパンマンたいそう', '호빵맨 체조'],
+  'singer': [['ドリーミング'], ['드리밍']],
+  'additional': [['アンバンマン'], ['호빵맨']]
+})
+
 SongData.set('タッチ', {
   'title': ['タッチ', '터치'],
   'singer': [['岩崎良美'], ['이와사키 요시미']],
@@ -3743,7 +3749,7 @@ SongData.set('Lovely Party Collection', {
 
 SongData.set('だってあなたはプリンセス', {
   'title': ['だってあなたはプリンセス', '왜냐면 당신은 프린세스'],
-  'singer': [[''], ['']],
+  'singer': [['Charlotte・Charlotte'], ['Charlotte・Charlotte']],
   'additional': [['アイマス'], ['아이마스']]
 })
 
@@ -4273,7 +4279,7 @@ SongData.set('デートTIME', {
 })
 
 SongData.set('果てぬミライのその先へ', {
-  'title': ['果てぬミライのその先へ', '끝없는 미래 그 앞에'],
+  'title': ['果てぬミライのその先へ', '끝없는 미래 그 너머에'],
   'singer': [['たべっこ'], ['타벳코']],
   'additional': [['ボーカロイド'], ['보컬로이드']]
 })
@@ -4666,8 +4672,8 @@ SongData.set('君じゃなきゃダメみたい', {
   'additional': [['月刊少女野崎くん'], ['월간 순정 노자키군']]
 })
 
-SongData.set('言って', {
-  'title': ['言って', '말해줘'],
+SongData.set('言って。', {
+  'title': ['言って。', '말해줘.'],
   'singer': [['ヨルシカ'], ['요루시카']],
   'additional': [[''], ['']]
 })
@@ -4907,12 +4913,6 @@ SongData.set('In my world', {
   'additional': [['電音部'], ['전음부']]
 })
 
-SongData.set('Make you happy', {
-  'title': ['Make you happy', 'Make you happy'],
-  'singer': [[''], ['']],
-  'additional': [[''], ['']]
-})
-
 SongData.set('All I Want for Christmas Is You', {
   'title': ['All I Want for Christmas Is You', 'All I Want for Christmas Is You'],
   'singer': [['Mariah Carey'], ['Mariah Carey']],
@@ -4959,6 +4959,12 @@ SongData.set('Chica×Chica', {
   'title': ['Chica×Chica', 'Chica×Chica'],
   'singer': [['みほ・みき from AIKATSU☆STARS!'], ['미호・미키 from AIKATSU☆STARS!']],
   'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('SWEET MEMORIES', {
+  'title': ['SWEET MEMORIES', 'SWEET MEMORIES'],
+  'singer': [['松田聖子'], ['마츠다 세이코']],
+  'additional': [[''], ['']]
 })
 
 SongData.set('', {

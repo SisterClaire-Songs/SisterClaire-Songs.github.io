@@ -1,6 +1,6 @@
 <template>
   <div id="ArchiveJP">
-    <h1>Here Is ArchiveJP Page</h1>
+    https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B<br>
     <el-table :data="ArchiveData1" style="width: 100%">
 
       <el-table-column type="expand">

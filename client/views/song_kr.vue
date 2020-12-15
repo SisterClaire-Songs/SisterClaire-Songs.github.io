@@ -1,6 +1,5 @@
 <template>
   <div id="SongKR">
-    <h1>Here Is SongKR Page</h1>
     <el-table :data="Array.from(SongData1.values())" style="width: 100%">    
 
       <el-table-column type="expand">
