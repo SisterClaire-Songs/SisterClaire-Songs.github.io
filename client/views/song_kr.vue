@@ -1,6 +1,7 @@
 <template>
   <div id="SongKR">
-    <el-table :data="Array.from(SongData1.values())" style="width: 100%">    
+    <el-table :data="Array.from(SongData1.values())" style="width: 100%"
+      :default-sort = "{prop: 'title[0]', order: 'descending'}" lazy>
 
       <el-table-column type="expand">
       <template slot-scope="each_song">
@@ -19,7 +20,7 @@
       </template>
       </el-table-column>
 
-      <el-table-column prop="title[1]" label="Title" width="300"></el-table-column>
+      <el-table-column prop="title[1]" label="Title" width="300" sortable></el-table-column>
       
       <el-table-column prop="singer[1]" label="singer" width="300"></el-table-column>
 
