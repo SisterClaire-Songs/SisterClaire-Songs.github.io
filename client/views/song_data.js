@@ -2086,16 +2086,10 @@ SongData.set('こいかぜ', {
   'additional': [['アイマス'], ['아이마스']]
 })
 
-SongData.set('上弦の月1', {
+SongData.set('上弦の月', {
   'title': ['上弦の月', '상현달'],
   'singer': [['田村ゆかり'], ['타무라 유카리']],
   'additional': [[''], ['']]
-})
-
-SongData.set('上弦の月2', {
-  'title': ['上弦の月', '상현달'],
-  'singer': [['黒うさP'], ['흑토끼P']],
-  'additional': [['ボーカロイド'], ['보컬로이드']]
 })
 
 SongData.set('バレンタイン・キッス', {
@@ -2214,8 +2208,8 @@ SongData.set('太陽曰く燃えよカオス', {
   'additional': [['這いよれ！ニャル子さん'], ['기어와라! 냐루코 양']]
 })
 
-SongData.set('めてお いんぱくと', {
-  'title': ['めてお いんぱくと', '메테오 임팩트'],
+SongData.set('めてお☆いんぱくと', {
+  'title': ['めてお☆いんぱくと', '메테오☆임팩트'],
   'singer': [['メルル(CV.田村ゆかり)'], ['메루루(CV.타무라 유카리)']],
   'additional': [['俺の妹がこんなに可愛いわけがない'], ['내 여동생이 이렇게 귀여울 리가 없어']]
 })
@@ -4964,6 +4958,102 @@ SongData.set('Chica×Chica', {
 SongData.set('SWEET MEMORIES', {
   'title': ['SWEET MEMORIES', 'SWEET MEMORIES'],
   'singer': [['松田聖子'], ['마츠다 세이코']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ジングルベル', {
+  'title': ['ジングルベル', '징글벨'],
+  'singer': [[''], ['']],
+  'additional': [['クリスマスキャロル'], ['크리스마스 캐롤']]
+})
+
+SongData.set('赤鼻のトナカイ', {
+  'title': ['赤鼻のトナカイ', '루돌프 사슴코'],
+  'singer': [[''], ['']],
+  'additional': [['クリスマスキャロル'], ['크리스마스 캐롤']]
+})
+
+SongData.set('あわてんぼうのサンタクロース', {
+  'title': ['あわてんぼうのサンタクロース', '덤벙이의 산타클로스'],
+  'singer': [[''], ['']],
+  'additional': [['クリスマスキャロル'], ['크리스마스 캐롤']]
+})
+
+SongData.set('Last Christmas', {
+  'title': ['Last Christmas', 'Last Christmas'],
+  'singer': [['Wham!'], ['Wham!']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('きよしこの夜', {
+  'title': ['きよしこの夜', '고요한 밤'],
+  'singer': [[''], ['']],
+  'additional': [['クリスマスキャロル'], ['크리스마스 캐롤']]
+})
+
+SongData.set('テルーの唄', {
+  'title': ['テルーの唄', '테루의 노래'],
+  'singer': [['手嶌葵'], ['테시마 아오이']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('アジアの純真', {
+  'title': ['アジアの純真', '아시아의 순진'],
+  'singer': [['PUFFY'], ['PUFFY']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('香水', {
+  'title': ['香水', '향수'],
+  'singer': [['瑛人'], ['에이토']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Recall', {
+  'title': ['Recall', 'Recall'],
+  'singer': [['Ray'], ['Ray']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('1・2・3', {
+  'title': ['1・2・3', '1・2・3'],
+  'singer': [['After the Rain'], ['After the Rain']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('カタオモイ', {
+  'title': ['カタオモイ', '짝사랑'],
+  'singer': [['Aimer'], ['Aimer']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ストロー', {
+  'title': ['ストロー', '빨대'],
+  'singer': [['aiko'], ['aiko']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('キャンディスターにお願い', {
+  'title': ['キャンディスターにお願い', '캔디 별에 소원'],
+  'singer': [['田村ゆかり'], ['타무라 유카리']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('雪の華', {
+  'title': ['雪の華', '눈의 꽃'],
+  'singer': [['中島美嘉'], ['나카시마 미카']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Amazing Kiss', {
+  'title': ['Amazing Kiss', 'Amazing Kiss'],
+  'singer': [['田村ゆかり'], ['타무라 유카리']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('可愛くなりたい', {
+  'title': ['可愛くなりたい', '귀여워지고 싶어'],
+  'singer': [['HoneyWorks'], ['HoneyWorks']],
   'additional': [[''], ['']]
 })
 
