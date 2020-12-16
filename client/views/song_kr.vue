@@ -1,6 +1,5 @@
 <template>
   <div id="SongKR">
-    <h1>Here Is SongKR Page</h1>
     <el-table :data="Array.from(SongData1.values())" style="width: 100%">    
 
       <el-table-column type="expand">
@@ -20,9 +19,9 @@
       </template>
       </el-table-column>
 
-      <el-table-column prop="title[1]" label="Title" width="500"></el-table-column>
+      <el-table-column prop="title[1]" label="Title" width="300"></el-table-column>
       
-      <el-table-column prop="singer[1]" label="singer" width="180"></el-table-column>
+      <el-table-column prop="singer[1]" label="singer" width="300"></el-table-column>
 
       <el-table-column prop="additional[1]" label="additional" width="180"></el-table-column>
       

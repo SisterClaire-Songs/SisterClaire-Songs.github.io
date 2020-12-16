@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>Setlist Maker</title>
+    <style>
+        textarea {
+            width: 50%;
+            height: 300px;
+        }
+    </style>
+</head>
+
+<body>
+    titleJP: <input id='titleJP' size=100 onchange='printResult()' /><br>
+    titleKR: <input id='titleKR' size=100 onchange='printResult()' /><br>
+    bili_id: <input id='bili_id' onchange='printResult()' /><br>
+    date: <input id='date' onchange='printResult()' /><br>
+    setlist:<br><textarea id='setlist' onchange='printResult()'></textarea>
+    <br>
+    Processed Setlist:<br>
+    <textarea id='result1' onchange='printResult()'></textarea><br>
+    ※ Warning! Check song data One more time!<br>
+    And, 'additional' is NOT filled automatically. You have to enter it yourself.<br>
+    'archive_title', 'archive_url', 'archive_date' is for internal process to song page. Don't fill in.
+</body>
+
+</html>
+
+<script>
+    function printResult() {
+        const titleJP = document.getElementById('titleJP').value;
+        const titleKR = document.getElementById('titleKR').value;
+        const bili_id = 'https://www.bilibili.com/video/' + document.getElementById('bili_id').value;
+        const date = document.getElementById('date').value;
+
+        var setlist = document.getElementById('setlist').value;
+        var processedSetlist = ''
+
+        var eachLineSetlist = setlist.split('\n');
+        for (var i in eachLineSetlist) {
+            var curLineData = '    {\n'
+
+            var hour = '0'
+            var min = '00'
+            var sec = '00'
+
+            var spaceSpilt = eachLineSetlist[i].split(" ");
+            var timePart = spaceSpilt[0].split(':');
+            if (timePart.length == 2) {
+                min = timePart[0]
+                sec = timePart[1]
+            } else if (timePart.length == 3) {
+                hour = timePart[0]
+                min = timePart[1]
+                sec = timePart[2]
+            }
+
+            curLineData += '      \'time_vis\': \'' + hour + ':' + min + ':' + sec + '\',\n'
+            curLineData += '      \'time_query\': \'' + '?t=' + hour + 'h' + min + 'm' + sec + 's' + '\',\n'
+            curLineData += '      \'song\': SongData.get(\'' + spaceSpilt[1] + '\').title,\n'
+            curLineData += '      \'additional\': [[\'\'], [\'\']],\n'
+            curLineData += '      \'archive_title\': [\'\', \'\'],\n'
+            curLineData += '      \'archive_url\': \'\',\n'
+            curLineData += '      \'archive_date\': \'\'\n'
+
+            if (eachLineSetlist.length - 1 != i) {
+                curLineData += '    },\n'
+            } else {
+                curLineData += '    }\n'
+            }
+
+            processedSetlist += curLineData
+        }
+
+        const archiveData =
+            '{\n' +
+            '  \'title\': [\'' + titleJP + '\',\n' +
+            '    \'' + titleKR + '\'],\n' +
+            '  \'url\': \'' + bili_id + '\',\n' +
+            '  \'date\': \'' + date + '\',\n' +
+            '  \'setlist\': [\n' + processedSetlist +
+            '  ]\n' +
+            '}'
+
+        document.getElementById("result1").textContent = archiveData;
+    }
+</script>

@@ -1,6 +1,6 @@
 <template>
-  <div id="ArchiveKR">
-    <h1>Here Is ArchiveKR Page</h1>
+  <div id="ArchiveKR">    
+    https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B<br>
     <el-table :data="ArchiveData1" style="width: 100%">
 
       <el-table-column type="expand">
@@ -8,7 +8,7 @@
         <el-table :data=each_archive.row.setlist style="width: 100%">
           <el-table-column prop="time_vis" label="Time_vis" width="100"></el-table-column>
 
-          <el-table-column prop="song[1]" label="Song" width="800">            
+          <el-table-column prop="song[1]" label="Song" width="300">            
             <template slot-scope="hyperlink">
               <a :href="each_archive.row.url + hyperlink.row.time_query" target="_blank">
                 {{hyperlink.row.song[1]}}</a>
@@ -20,7 +20,7 @@
       </template>
       </el-table-column>
 
-      <el-table-column prop="title[1]" label="Title" width="850"></el-table-column>
+      <el-table-column prop="title[1]" label="Title" width="500"></el-table-column>
       
       <el-table-column prop="date" label="Date" width="200"></el-table-column>
 
