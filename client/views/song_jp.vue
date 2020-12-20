@@ -1,6 +1,12 @@
 <template>
   <div id="SongJP">
-    <el-table :data="Array.from(SongData1.values())" style="width: 100%"
+
+    <el-input placeholder="Please input" v-model="search" style="width: 50%" clearable />
+    {{GetCounter()}}
+
+    <el-table
+      :data="Array.from(this.SongData1.values()).filter(this.FilterData)"
+      style="width: 100%"
       :default-sort = "{prop: 'title[0]', order: 'descending'}" lazy>
 
       <el-table-column type="expand">
@@ -38,7 +44,8 @@ export default {
   name: "SongJP",
   data() {
     return {
-      SongData1: SongData
+      SongData1: SongData,
+      search: ""
     };
   },
   methods: {
@@ -55,8 +62,39 @@ export default {
           }
         })
       })
-
+      
       return resultArray
+    },
+
+    FilterData: function (data) {
+      return !this.search ||
+        data.title[0].toLowerCase().includes(this.search.toLowerCase()) ||
+        this.SearchSubArray(data.singer[0], this.search.toLowerCase()) ||
+        this.SearchSubArray(data.additional[0], this.search.toLowerCase())
+    },
+
+    SearchSubArray: function (array, word) {
+      var tf = false
+      array.forEach(function (eachElement) {
+        if (eachElement.toLowerCase().includes(word)) {
+          tf = true
+        }
+      })
+      return tf
+    },
+
+    GetCounter: function () {
+      var counter = 0
+      Array.from(this.SongData1.values()).filter(this.FilterData).forEach(function (eachSong) {
+        ArchiveData.forEach(function (archive) {
+          archive['setlist'].forEach(function (entry) {
+            if (entry['song'] === eachSong['title']) {
+              counter++
+            }
+          })
+        })
+      })
+      return counter
     }
   },
   components: {},
