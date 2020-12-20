@@ -2,10 +2,10 @@
   <div id="SongJP">
 
     <el-input placeholder="Please input" v-model="search" style="width: 50%" clearable />
-    {{GetCounter()}}
+    {{this.counter}}
 
     <el-table
-      :data="Array.from(this.SongData1.values()).filter(this.FilterData)"
+      :data="MainTable()"
       style="width: 100%"
       :default-sort = "{prop: 'title[0]', order: 'descending'}" lazy>
 
@@ -45,10 +45,29 @@ export default {
   data() {
     return {
       SongData1: SongData,
-      search: ""
+      search: "",
+      counter: 0
     };
   },
   methods: {
+    MainTable: function () {
+      var tableData = Array.from(this.SongData1.values()).filter(this.FilterData)
+
+      var count = 0
+      tableData.forEach(function (eachSong) {
+        ArchiveData.forEach(function (archive) {
+          archive['setlist'].forEach(function (entry) {
+            if (entry['song'] === eachSong['title']) {
+              count++
+            }
+          })
+        })
+      })
+      this.counter = count
+
+      return tableData
+    },
+
     SearchFromArchive: function (song) {
       var resultArray = []
 
@@ -81,20 +100,6 @@ export default {
         }
       })
       return tf
-    },
-
-    GetCounter: function () {
-      var counter = 0
-      Array.from(this.SongData1.values()).filter(this.FilterData).forEach(function (eachSong) {
-        ArchiveData.forEach(function (archive) {
-          archive['setlist'].forEach(function (entry) {
-            if (entry['song'] === eachSong['title']) {
-              counter++
-            }
-          })
-        })
-      })
-      return counter
     }
   },
   components: {},
