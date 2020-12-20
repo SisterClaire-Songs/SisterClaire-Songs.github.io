@@ -2,7 +2,7 @@
   <div id="SongJP">
 
     <el-input placeholder="Please input" v-model="search" style="width: 50%" clearable />
-    {{this.counter}}
+    {{this.counterSong}} - {{this.counterAll}}
 
     <el-table
       :data="MainTable()"
@@ -28,9 +28,29 @@
 
       <el-table-column prop="title[0]" label="Title" width="300" sortable></el-table-column>
       
-      <el-table-column prop="singer[0]" label="singer" width="300"></el-table-column>
+      <el-table-column label="singer" width="300">
+        <template slot-scope="singer">
+          <el-tag
+            v-for="item in singer.row.singer[0]"
+            :key="item.key"
+            effect="plain"
+            type="success">
+            {{ item }}
+          </el-tag>
+        </template>
+      </el-table-column>
 
-      <el-table-column prop="additional[0]" label="additional" width="180"></el-table-column>
+      <el-table-column prop="additional[0]" label="additional" width="180">
+        <template slot-scope="additional">
+          <el-tag
+            v-for="item in additional.row.additional[0]"
+            :key="item.key"
+            effect="plain"
+            type="danger">
+            {{ item }}
+          </el-tag>
+        </template>
+      </el-table-column>
       
     </el-table>
   </div>
@@ -46,24 +66,30 @@ export default {
     return {
       SongData1: SongData,
       search: "",
-      counter: 0
+      counterSong: 0,
+      counterAll: 0
     };
   },
   methods: {
     MainTable: function () {
       var tableData = Array.from(this.SongData1.values()).filter(this.FilterData)
+      this.counterSong = tableData.length
 
       var count = 0
-      tableData.forEach(function (eachSong) {
-        ArchiveData.forEach(function (archive) {
-          archive['setlist'].forEach(function (entry) {
-            if (entry['song'] === eachSong['title']) {
-              count++
-            }
+      if (!this.search) {
+        this.counterAll = 1946
+      } else {
+        tableData.forEach(function (eachSong) {
+          ArchiveData.forEach(function (archive) {
+            archive['setlist'].forEach(function (entry) {
+              if (entry['song'] === eachSong['title']) {
+                count++
+              }
+            })
           })
         })
-      })
-      this.counter = count
+        this.counterAll = count
+      }
 
       return tableData
     },
