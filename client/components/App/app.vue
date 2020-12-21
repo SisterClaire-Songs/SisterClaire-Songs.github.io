@@ -3,7 +3,6 @@
     <div class="page-layout">
       <sidebar-component />
       <div class="page-layout-inner">
-        <header-component :title="title" />
         <main>
           <div class="main-content">
             <el-row class="container">
@@ -18,7 +17,6 @@
 </template>
 
 <script>
-import Header from "components/Header/header.vue";
 import Sidebar from "components/Sidebar/sidebar.vue";
 import Dimmer from "components/Dimmer/dimmer.vue";
 import { mapState } from "vuex";
@@ -33,7 +31,6 @@ export default {
     }),
   },
   components: {
-    "header-component": Header,
     "sidebar-component": Sidebar,
     "dimmer-component": Dimmer,
   },

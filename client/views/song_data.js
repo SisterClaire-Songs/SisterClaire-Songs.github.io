@@ -5057,8 +5057,14 @@ SongData.set('可愛くなりたい', {
   'additional': [[''], ['']]
 })
 
-SongData.set('', {
-  'title': ['', ''],
+SongData.set('Lost Sequence', {
+  'title': ['Lost Sequence', 'Lost Sequence'],
+  'singer': [['田村ゆかり'], ['타무라 유카리']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ハッピー・ジャムジャム', {
+  'title': ['ハッピー・ジャムジャム', '해피 잼잼'],
   'singer': [[''], ['']],
   'additional': [[''], ['']]
 })

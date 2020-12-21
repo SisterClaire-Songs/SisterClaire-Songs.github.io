@@ -9,7 +9,7 @@
         "dev": "node build/server.js",
         "generate_default_styles": "et -i ./client/styles/element-variables.css",
         "generate_theme": "et -c ./client/styles/element-variables.css",
-        "predeploy": "npm run build",
+        "predeploy": "npm run build; cp ./dist/index.html ./dist/404.html",
         "deploy": "gh-pages -b master -d dist"
     },
     "author": "SisterClaire-Songs",

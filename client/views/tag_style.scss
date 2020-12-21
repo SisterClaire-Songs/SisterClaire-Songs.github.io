@@ -1,0 +1,16 @@
+#tabledata {
+    --color-primary: #20a0ff;
+    --color-base-black: color(var(--color-primary) h(+6) s(33%) l(18%));
+
+    .el-tag--success{
+        background-color: rgba(255, 255, 255, 0);
+        border-color: rgba(127, 0, 255, 0.3);
+        color: var(--color-base-black);
+    }
+    
+    .el-tag--warning{
+        background-color: rgba(255, 255, 255, 0);
+        border-color: rgba(0, 0, 255, 0.3);
+        color: var(--color-base-black);
+    }
+}

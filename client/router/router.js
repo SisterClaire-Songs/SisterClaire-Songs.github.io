@@ -1,20 +1,28 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Index from 'views/index.vue'
+import IndexJP from 'views/index_jp.vue'
+import IndexKR from 'views/index_kr.vue'
 import SongJP from 'views/song_jp.vue'
 import SongKR from 'views/song_kr.vue'
 import ArchiveJP from 'views/archive_jp.vue'
 import ArchiveKR from 'views/archive_kr.vue'
-import About from 'views/about.vue'
+import AboutJP from 'views/about_jp.vue'
+import AboutKR from 'views/about_kr.vue'
 
 Vue.use(Router)
 
 export const routes = [
   {
-    path: '/',
-    component: Index,
+    path: '/index_jp',
+    component: IndexJP,
     meta: {
-      title: 'Index'
+      title: 'IndexJP'
+    }
+  }, {
+    path: '/index_kr',
+    component: IndexKR,
+    meta: {
+      title: 'IndexKR'
     }
   }, {
     path: '/song_jp',
@@ -41,17 +49,20 @@ export const routes = [
       title: 'ArchiveKR'
     }
   }, {
-    path: '/about',
-    component: About,
+    path: '/about_jp',
+    component: AboutJP,
     meta: {
-      title: 'About'
+      title: 'AboutJP'
+    }
+  }, {
+    path: '/about_kr',
+    component: AboutKR,
+    meta: {
+      title: 'AboutKR'
     }
   }, {
     path: '/*',
-    component: Index,
-    meta: {
-      title: 'Index'
-    }
+    redirect: '/index_jp'
   }
 ]
 export const router = new Router({ mode: 'history', routes })
