@@ -18332,7 +18332,7 @@ const ArchiveData = [
     'date': '20200920',
     'setlist': [
       {
-        'time_vis': '0:6:31',
+        'time_vis': '0:06:31',
         'time_query': '&t=0h6m31s',
         'song': SongData.get('GO MY WAY!!').title,
         'additional': [[''], ['']],
@@ -18341,7 +18341,7 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '0:9:55',
+        'time_vis': '0:09:55',
         'time_query': '&t=0h9m55s',
         'song': SongData.get('CLEAR').title,
         'additional': [[''], ['']],

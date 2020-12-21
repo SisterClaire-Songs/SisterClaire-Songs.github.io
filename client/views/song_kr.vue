@@ -1,5 +1,5 @@
 <template>
-  <div id="SongKR">
+  <div id="tabledata">
     <el-table :data="Array.from(SongData1.values())" style="width: 100%"
       :default-sort = "{prop: 'title[0]', order: 'descending'}" lazy>
 
@@ -62,3 +62,7 @@ export default {
   components: {},
 };
 </script>
+
+<style lang="scss">
+@import "./tag_style.scss";
+</style>

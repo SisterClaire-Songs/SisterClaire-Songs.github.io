@@ -1,5 +1,5 @@
 <template>
-  <div id="SongJP">
+  <div id="tabledata">
 
     <el-input placeholder="Please input" v-model="search" style="width: 50%" clearable />
     {{this.counterSong}} - {{this.counterAll}}
@@ -7,46 +7,56 @@
     <el-table
       :data="MainTable()"
       style="width: 100%"
-      :default-sort = "{prop: 'title[0]', order: 'descending'}" lazy>
+      :default-sort = "{order: 'ascending'}" lazy>
 
       <el-table-column type="expand">
       <template slot-scope="each_song">
-        <el-table :data="SearchFromArchive(each_song.row)" style="width: 100%">
-          <el-table-column prop="archive_date" label="Date" width="180"></el-table-column>
+        <el-table :data="SearchFromArchive(each_song.row)" style="width: 90%">
 
-          <el-table-column label="Time" width="180">
+          <el-table-column prop="archive_date" label="Date" width="100" align="center"></el-table-column>
+
+          <el-table-column label="Archive" width="calc(90% - 250)" header-align="center">
             <template slot-scope="hyperlink">
               <a :href="hyperlink.row.archive_url" target="_blank">
+                {{hyperlink.row.archive_title.substring(0,30)}} · · · 
                 {{hyperlink.row.time_vis}}</a>
             </template>
           </el-table-column>
 
-          <el-table-column prop="additional[0]" label="additional" width="180"></el-table-column>
+          <el-table-column label="additional" width="150" align="center">
+            <template slot-scope="additional">
+              <el-tag
+                v-for="item in additional.row.additional[0]"
+                :key="item.key"
+                type="warning">
+                {{ item }}
+              </el-tag>
+            </template>
+          </el-table-column>
+
         </el-table>
       </template>
       </el-table-column>
 
-      <el-table-column prop="title[0]" label="Title" width="300" sortable></el-table-column>
+      <el-table-column prop="title[0]" label="Title" width="340" header-align="center" sort-by="title[0]" sortable></el-table-column>
       
-      <el-table-column label="singer" width="300">
+      <el-table-column label="singer" width="calc(100% - 580)" header-align="center">
         <template slot-scope="singer">
           <el-tag
             v-for="item in singer.row.singer[0]"
             :key="item.key"
-            effect="plain"
             type="success">
             {{ item }}
           </el-tag>
         </template>
       </el-table-column>
 
-      <el-table-column prop="additional[0]" label="additional" width="180">
+      <el-table-column prop="additional[0]" label="additional" width="240" header-align="center">
         <template slot-scope="additional">
           <el-tag
             v-for="item in additional.row.additional[0]"
             :key="item.key"
-            effect="plain"
-            type="danger">
+            type="warning">
             {{ item }}
           </el-tag>
         </template>
@@ -72,12 +82,22 @@ export default {
   },
   methods: {
     MainTable: function () {
-      var tableData = Array.from(this.SongData1.values()).filter(this.FilterData)
+      var tableData = Array.from(this.SongData1.values()).filter(this.FilterData).sort(function (a, b) {
+        var nameA = a.title[0].toUpperCase()
+        var nameB = b.title[0].toUpperCase()
+        if (nameA < nameB) {
+          return -1
+        }
+        if (nameA > nameB) {
+          return 1
+        }
+        return 0
+      })
       this.counterSong = tableData.length
 
       var count = 0
       if (!this.search) {
-        this.counterAll = 1946
+        this.counterAll = 1959
       } else {
         tableData.forEach(function (eachSong) {
           ArchiveData.forEach(function (archive) {
@@ -131,3 +151,7 @@ export default {
   components: {},
 };
 </script>
+
+<style lang="scss">
+@import "./tag_style.scss";
+</style>

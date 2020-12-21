@@ -1,5 +1,5 @@
 <template>
-  <div id="ArchiveKR">    
+  <div id="tabledata">    
     https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B<br>
     <el-table :data="ArchiveData1" style="width: 100%">
 
@@ -41,3 +41,7 @@ export default {
   components: {},
 };
 </script>
+
+<style lang="scss">
+@import "./tag_style.scss";
+</style>
