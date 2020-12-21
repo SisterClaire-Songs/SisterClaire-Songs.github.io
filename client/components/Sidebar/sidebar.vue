@@ -1,5 +1,5 @@
 <template>
-  <div id="sidebar" :class="{ open: true }">
+  <div id="sidebar" :class="{'open': active}">
     <el-menu theme="light" router>
       <div class="logo-container">
         <img class="logo" src="https://yt3.ggpht.com/ytc/AAUvwnh-0fXwzJ05kbakJWLSQAO9fPZLWQ9vetWGyU0XpQ=s150-c-k-c0x00ffffff-no-rj" />
@@ -24,6 +24,12 @@
 <script>
 export default {
   name: "Sidebar",
+  props: ['active'],
+  computed: {
+    active: () => {
+      return this.active
+    }
+  },
   data() {
     return {
       curLang: "JP",

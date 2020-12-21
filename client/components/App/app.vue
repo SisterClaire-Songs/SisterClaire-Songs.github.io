@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="page-layout">
-      <sidebar-component />
+      <sidebar-component :active="sidebarOpened" />
       <div class="page-layout-inner">
         <main>
           <div class="main-content">
@@ -11,7 +11,7 @@
           </div>
         </main>
       </div>
-      <dimmer-component />
+      <dimmer-component :active="obfuscatorActive" :closeSidebar="closeSidebar"  />
     </div>
   </div>
 </template>
@@ -19,21 +19,30 @@
 <script>
 import Sidebar from "components/Sidebar/sidebar.vue";
 import Dimmer from "components/Dimmer/dimmer.vue";
-import { mapState } from "vuex";
+import { mapActions, mapState } from "vuex";
 
 export default {
   name: "App",
+  methods: {
+    ...mapActions(['handleResize', 'openSidebar', 'closeSidebar'])
+  },
   computed: {
     ...mapState({
-      title: (state) => {
-        return state.route.meta.title;
-      }      
+      sidebarOpened: state => {
+        return state.ui.sidebarOpened
+      },
+      obfuscatorActive: state => {
+        return state.ui.obfuscatorActive
+      }     
     }),
   },
   components: {
     "sidebar-component": Sidebar,
     "dimmer-component": Dimmer,
   },
+  created: function () {
+    window.addEventListener('resize', this.handleResize)
+  }
 };
 </script>
 
