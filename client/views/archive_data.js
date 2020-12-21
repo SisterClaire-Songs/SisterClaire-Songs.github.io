@@ -19502,6 +19502,132 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴歌枠】Let’s sing a happy song♪ 声出し歌配信【にじさんじ/シスター・クレア】',
+      '【🔴노래방송】 Let’s sing a happy song♪ 목소리 가다듬기 노래방송 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=ylskdM-M7eA',
+    'date': '20201221',
+    'setlist': [
+      {
+        'time_vis': '0:03:47',
+        'time_query': '&t=0h03m47s',
+        'song': SongData.get('Blooming♡Blooming').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:14:59',
+        'time_query': '&t=0h14m59s',
+        'song': SongData.get('Shine!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:22:20',
+        'time_query': '&t=0h22m20s',
+        'song': SongData.get('Lost Sequence').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:05',
+        'time_query': '&t=0h30m05s',
+        'song': SongData.get('ハッピー・ジャムジャム').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:59',
+        'time_query': '&t=0h36m59s',
+        'song': SongData.get('ようこそジャパリパークへ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:36',
+        'time_query': '&t=0h41m36s',
+        'song': SongData.get('Butter-Fly').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:20',
+        'time_query': '&t=0h48m20s',
+        'song': SongData.get('Fantastic future').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:54:52',
+        'time_query': '&t=0h54m52s',
+        'song': SongData.get('adrenaline!!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:04:42',
+        'time_query': '&t=1h04m42s',
+        'song': SongData.get('W:Wonder tale').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:09:37',
+        'time_query': '&t=1h09m37s',
+        'song': SongData.get('マジックナンバー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:15:57',
+        'time_query': '&t=1h15m57s',
+        'song': SongData.get('HAPPYぱLUCKY').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:23:45',
+        'time_query': '&t=1h23m45s',
+        'song': SongData.get('ハレ晴レユカイ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:33:30',
+        'time_query': '&t=1h33m30s',
+        'song': SongData.get('楽園').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
