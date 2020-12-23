@@ -11,11 +11,11 @@
 
       <el-table-column type="expand">
       <template slot-scope="each_song">
-        <el-table :data="SearchFromArchive(each_song.row)" style="width: 90%">
+        <el-table :data="SearchFromArchive(each_song.row)" style="width: 100%">
 
           <el-table-column prop="archive_date" label="Date" width="100" align="center"></el-table-column>
 
-          <el-table-column label="Archive" width="calc(90% - 250)" header-align="center">
+          <el-table-column label="Archive" width="calc(100% - 250)" header-align="center">
             <template slot-scope="hyperlink">
               <a :href="hyperlink.row.archive_url" target="_blank">
                 {{hyperlink.row.archive_title.substring(0,30)}} · · · 

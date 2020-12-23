@@ -1,9 +1,11 @@
 <template>
-  <div id="sidebar" :class="{ open: true }">
+  <div id="sidebar" :class="{'open': active1}">
     <el-menu theme="light" router>
+
       <div class="logo-container">
         <img class="logo" src="https://yt3.ggpht.com/ytc/AAUvwnh-0fXwzJ05kbakJWLSQAO9fPZLWQ9vetWGyU0XpQ=s150-c-k-c0x00ffffff-no-rj" />
       </div>
+
       <el-menu-item v-bind:index="indexURL">{{indexMenuDesc}}</el-menu-item>
       <el-menu-item v-bind:index="songdataURL">{{songMenuDesc}}</el-menu-item>
       <el-menu-item v-bind:index="archiveURL">{{archiveMenuDesc}}</el-menu-item>
@@ -14,16 +16,21 @@
         <el-radio-button label="JP">JP</el-radio-button>
         <el-radio-button label="KR">KR</el-radio-button>
       </el-radio-group>
-    </div>
-    </el-menu>
+      </div>
 
-    
+    </el-menu>    
   </div>
 </template>
 
 <script>
 export default {
   name: "Sidebar",
+  props: ['active'],
+  computed: {
+    active1: function () {
+      return this.active
+    }
+  },
   data() {
     return {
       curLang: "JP",
