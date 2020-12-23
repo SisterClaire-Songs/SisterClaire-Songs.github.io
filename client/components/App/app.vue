@@ -3,6 +3,7 @@
     <div class="page-layout">
       <sidebar-component :active="sidebarOpened" />
       <div class="page-layout-inner">
+        <header-component :openSidebar="openSidebar" />
         <main>
           <div class="main-content">
             <el-row class="container">
@@ -18,6 +19,7 @@
 
 <script>
 import Sidebar from "components/Sidebar/sidebar.vue";
+import Header from "components/Header/header.vue";
 import Dimmer from "components/Dimmer/dimmer.vue";
 import { mapActions, mapState } from "vuex";
 
@@ -29,16 +31,17 @@ export default {
   computed: {
     ...mapState({
       sidebarOpened: state => {
-        return state.ui.sidebarOpened
+        return state.sidebarOpened
       },
       obfuscatorActive: state => {
-        return state.ui.obfuscatorActive
+        return state.obfuscatorActive
       }     
     }),
   },
   components: {
     "sidebar-component": Sidebar,
-    "dimmer-component": Dimmer,
+    "header-component": Header,
+    "dimmer-component": Dimmer
   },
   created: function () {
     window.addEventListener('resize', this.handleResize)
