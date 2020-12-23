@@ -5,7 +5,7 @@
 
       <el-table-column type="expand">
       <template slot-scope="each_archive">
-        <el-table :data=each_archive.row.setlist style="width: 75%">
+        <el-table :data=each_archive.row.setlist style="width: 100%">
           <el-table-column prop="time_vis" label="Time_vis" width="100" align="center"></el-table-column>
 
           <el-table-column prop="song[0]" label="Song" width="350" header-align="center">            
@@ -15,7 +15,7 @@
             </template>
           </el-table-column>
 
-          <el-table-column label="Additional" width="calc(75% - 350)" align="center">
+          <el-table-column label="Additional" width="calc(100% - 350)" align="center">
             <template slot-scope="additional">
               <el-tag
                 v-for="item in additional.row.additional[0]"
