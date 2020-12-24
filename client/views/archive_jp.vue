@@ -1,7 +1,7 @@
 <template>
   <div id="tabledata">
     以下のアーカイブが入っているYouTubeの再生リストはこれです！<br>
-    <a href="https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B">
+    <a href="https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B" target="_blank">
     https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B</a> </p>
 
     <el-table :data="ArchiveData1" style="width: 100%">
