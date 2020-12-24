@@ -1,8 +1,10 @@
 <template>
   <div id="tabledata">
 
-    <el-input placeholder="Please input" v-model="search" style="width: 300px" clearable />
-    {{this.counterSong}} - {{this.counterAll}} </p>
+    シスター・クレアは、{{this.counterSong}} 種類の曲を {{this.counterAll}} 回歌いました
+    <div align="right">検索: <el-input placeholder="曲名以外でも検索可能です！" v-model="search" style="width: 300px" clearable />
+    </div>
+    </p>
 
     <el-table
       :data="MainTable()"
@@ -13,9 +15,9 @@
       <template slot-scope="each_song">
         <el-table :data="SearchFromArchive(each_song.row)" style="width: 100%">
 
-          <el-table-column prop="archive_date" label="Date" width="100" align="center"></el-table-column>
+          <el-table-column prop="archive_date" label="配信日" width="100" align="center"></el-table-column>
 
-          <el-table-column label="Archive" width="calc(100% - 250)" header-align="center">
+          <el-table-column label="配信情報" width="calc(100% - 250)" header-align="center">
             <template slot-scope="hyperlink">
               <a :href="hyperlink.row.archive_url" target="_blank">
                 {{hyperlink.row.archive_title.substring(0,30)}} · · · 
@@ -23,7 +25,7 @@
             </template>
           </el-table-column>
 
-          <el-table-column label="additional" width="150" align="center">
+          <el-table-column label="追加情報" width="150" align="center">
             <template slot-scope="additional">
               <el-tag
                 v-for="item in additional.row.additional[0]"
@@ -38,9 +40,9 @@
       </template>
       </el-table-column>
 
-      <el-table-column prop="title[0]" label="Title" width="340" header-align="center" sort-by="title[0]" sortable></el-table-column>
+      <el-table-column prop="title[0]" label="曲名" width="340" header-align="center" sort-by="title[0]" sortable></el-table-column>
       
-      <el-table-column label="singer" width="calc(100% - 580)" header-align="center">
+      <el-table-column label="歌手名" width="calc(100% - 580)" header-align="center">
         <template slot-scope="singer">
           <el-tag
             v-for="item in singer.row.singer[0]"
@@ -51,7 +53,7 @@
         </template>
       </el-table-column>
 
-      <el-table-column prop="additional[0]" label="additional" width="240" header-align="center">
+      <el-table-column prop="additional[0]" label="追加情報" width="240" header-align="center">
         <template slot-scope="additional">
           <el-tag
             v-for="item in additional.row.additional[0]"
