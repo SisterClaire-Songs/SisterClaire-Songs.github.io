@@ -8,58 +8,38 @@ import ArchiveJP from 'views/archive_jp.vue'
 import ArchiveKR from 'views/archive_kr.vue'
 import AboutJP from 'views/about_jp.vue'
 import AboutKR from 'views/about_kr.vue'
+import SearchData from 'views/search_maker.vue'
 
 Vue.use(Router)
 
 export const routes = [
   {
     path: '/index_jp',
-    component: IndexJP,
-    meta: {
-      title: 'IndexJP'
-    }
+    component: IndexJP
   }, {
     path: '/index_kr',
-    component: IndexKR,
-    meta: {
-      title: 'IndexKR'
-    }
+    component: IndexKR
   }, {
     path: '/song_jp',
-    component: SongJP,
-    meta: {
-      title: 'SongJP'
-    }
+    component: SongJP
   }, {
     path: '/song_kr',
-    component: SongKR,
-    meta: {
-      title: 'SongKR'
-    }
+    component: SongKR
   }, {
     path: '/archive_jp',
-    component: ArchiveJP,
-    meta: {
-      title: 'ArchiveJP'
-    }
+    component: ArchiveJP
   }, {
     path: '/archive_kr',
-    component: ArchiveKR,
-    meta: {
-      title: 'ArchiveKR'
-    }
+    component: ArchiveKR
   }, {
     path: '/about_jp',
-    component: AboutJP,
-    meta: {
-      title: 'AboutJP'
-    }
+    component: AboutJP
   }, {
     path: '/about_kr',
-    component: AboutKR,
-    meta: {
-      title: 'AboutKR'
-    }
+    component: AboutKR
+  }, {
+    path: '/search_data',
+    component: SearchData
   }, {
     path: '/*',
     redirect: '/index_jp'

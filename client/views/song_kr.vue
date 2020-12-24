@@ -1,8 +1,8 @@
 <template>
   <div id="tabledata">
 
-    <el-input placeholder="Please input" v-model="search" style="width: 50%" clearable />
-    {{this.counterSong}} - {{this.counterAll}}
+    <el-input placeholder="Please input" v-model="search" style="width: 300px" clearable />
+    {{this.counterSong}} - {{this.counterAll}} </p>
 
     <el-table
       :data="MainTable()"
@@ -69,6 +69,7 @@
 <script>
 import SongData from './song_data.js'
 import ArchiveData from './archive_data.js'
+import SearchData from './search_data.js'
 
 export default {
   name: "SongKR",
@@ -100,13 +101,16 @@ export default {
         this.counterAll = 1959
       } else {
         tableData.forEach(function (eachSong) {
-          ArchiveData.forEach(function (archive) {
-            archive['setlist'].forEach(function (entry) {
+
+          var archiveNumberArray = SearchData.get(eachSong['key'])
+          archiveNumberArray.forEach(function (archiveNumber) {
+            ArchiveData[archiveNumber]['setlist'].forEach(function (entry) {
               if (entry['song'] === eachSong['title']) {
                 count++
               }
             })
           })
+
         })
         this.counterAll = count
       }
@@ -117,17 +121,18 @@ export default {
     SearchFromArchive: function (song) {
       var resultArray = []
 
-      ArchiveData.forEach(function (archive) {
-        archive['setlist'].forEach(function (entry) {
+      var archiveNumberArray = SearchData.get(song['key'])
+      archiveNumberArray.forEach(function (archiveNumber) {
+        ArchiveData[archiveNumber]['setlist'].forEach(function (entry) {
           if (entry['song'] === song['title']) {
-            entry['archive_title'] = archive['title'][1]
-            entry['archive_url'] = archive['url'] + entry['time_query']
-            entry['archive_date'] = archive['date']
+            entry['archive_title'] = ArchiveData[archiveNumber]['title'][1]
+            entry['archive_url'] = ArchiveData[archiveNumber]['url'] + entry['time_query']
+            entry['archive_date'] = ArchiveData[archiveNumber]['date']
             resultArray.push(entry)
           }
         })
       })
-      
+
       return resultArray
     },
 
