@@ -1,21 +1,24 @@
 <template>
   <div id="tabledata">
-    https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B<br>
+    아래 아카이브가 있는 YouTube의 재생목록은 여기입니다!<br>
+    <a href="https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B">
+    https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B</a> </p>
+
     <el-table :data="ArchiveData1" style="width: 100%">
 
       <el-table-column type="expand">
       <template slot-scope="each_archive">
         <el-table :data=each_archive.row.setlist style="width: 100%">
-          <el-table-column prop="time_vis" label="Time_vis" width="100" align="center"></el-table-column>
+          <el-table-column prop="time_vis" label="Timestamp" width="110" align="center"></el-table-column>
 
-          <el-table-column prop="song[1]" label="Song" width="350" header-align="center">            
+          <el-table-column prop="song[1]" label="곡명" width="350" header-align="center">            
             <template slot-scope="hyperlink">
               <a :href="each_archive.row.url + hyperlink.row.time_query" target="_blank">
                 {{hyperlink.row.song[1]}}</a>
             </template>
           </el-table-column>
 
-          <el-table-column label="Additional" width="calc(100% - 350)" align="center">
+          <el-table-column label="추가정보" width="calc(100% - 360)" align="center">
             <template slot-scope="additional">
               <el-tag
                 v-for="item in additional.row.additional[1]"
@@ -30,9 +33,9 @@
       </template>
       </el-table-column>
 
-      <el-table-column prop="title[1]" label="Title" width="calc(100% - 200)" header-align="center"></el-table-column>
+      <el-table-column prop="title[1]" label="방송 제목" width="calc(100% - 200)" header-align="center"></el-table-column>
       
-      <el-table-column prop="date" label="Date" width="200" align="center" ></el-table-column>
+      <el-table-column prop="date" label="방송 날짜" width="200" align="center" ></el-table-column>
 
     </el-table>
   </div>

@@ -1,8 +1,10 @@
 <template>
   <div id="tabledata">
 
-    <el-input placeholder="Please input" v-model="search" style="width: 300px" clearable />
-    {{this.counterSong}} - {{this.counterAll}} </p>
+    시스터 클레어는, {{this.counterSong}} 종류의 곡을 {{this.counterAll}} 번 불렀습니다.
+    <div align="right">검색: <el-input placeholder="곡명 이외로도 검색 가능합니다!" v-model="search" style="width: 300px" clearable />
+    </div>
+    </p>
 
     <el-table
       :data="MainTable()"
@@ -13,9 +15,9 @@
       <template slot-scope="each_song">
         <el-table :data="SearchFromArchive(each_song.row)" style="width: 100%">
 
-          <el-table-column prop="archive_date" label="Date" width="100" align="center"></el-table-column>
+          <el-table-column prop="archive_date" label="방송 날짜" width="100" align="center"></el-table-column>
 
-          <el-table-column label="Archive" width="calc(100% - 250)" header-align="center">
+          <el-table-column label="방송 정보" width="calc(100% - 250)" header-align="center">
             <template slot-scope="hyperlink">
               <a :href="hyperlink.row.archive_url" target="_blank">
                 {{hyperlink.row.archive_title.substring(0,30)}} · · · 
@@ -23,7 +25,7 @@
             </template>
           </el-table-column>
 
-          <el-table-column label="additional" width="150" align="center">
+          <el-table-column label="추가정보" width="150" align="center">
             <template slot-scope="additional">
               <el-tag
                 v-for="item in additional.row.additional[1]"
@@ -38,9 +40,9 @@
       </template>
       </el-table-column>
 
-      <el-table-column prop="title[1]" label="Title" width="340" header-align="center" sort-by="title[1]" sortable></el-table-column>
+      <el-table-column prop="title[1]" label="곡명" width="340" header-align="center" sort-by="title[1]" sortable></el-table-column>
       
-      <el-table-column label="singer" width="calc(100% - 580)" header-align="center">
+      <el-table-column label="가수명" width="calc(100% - 580)" header-align="center">
         <template slot-scope="singer">
           <el-tag
             v-for="item in singer.row.singer[1]"
@@ -51,7 +53,7 @@
         </template>
       </el-table-column>
 
-      <el-table-column prop="additional[1]" label="additional" width="240" header-align="center">
+      <el-table-column prop="additional[1]" label="추가정보" width="240" header-align="center">
         <template slot-scope="additional">
           <el-tag
             v-for="item in additional.row.additional[1]"

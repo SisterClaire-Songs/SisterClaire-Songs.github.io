@@ -6,10 +6,10 @@
         <img class="logo" src="https://yt3.ggpht.com/ytc/AAUvwnh-0fXwzJ05kbakJWLSQAO9fPZLWQ9vetWGyU0XpQ=s150-c-k-c0x00ffffff-no-rj" />
       </div>
 
-      <el-menu-item v-bind:index="indexURL">{{indexMenuDesc}}</el-menu-item>
-      <el-menu-item v-bind:index="songdataURL">{{songMenuDesc}}</el-menu-item>
-      <el-menu-item v-bind:index="archiveURL">{{archiveMenuDesc}}</el-menu-item>
-      <el-menu-item v-bind:index="aboutURL">{{aboutMenuDesc}}</el-menu-item>
+      <el-menu-item v-bind:index="indexURL" align="center">{{indexMenuDesc}}</el-menu-item>
+      <el-menu-item v-bind:index="songdataURL" align="center">{{songMenuDesc}}</el-menu-item>
+      <el-menu-item v-bind:index="archiveURL" align="center">{{archiveMenuDesc}}</el-menu-item>
+      <el-menu-item v-bind:index="aboutURL" align="center">{{aboutMenuDesc}}</el-menu-item>
 
       <div class="lang-button">
       <el-radio-group v-model="curLang" @change="changeLang">
@@ -35,38 +35,38 @@ export default {
     return {
       curLang: "JP",
       indexURL: "index_jp",
-      indexMenuDesc: "Dashboard JP",
+      indexMenuDesc: "ホーム",
       songdataURL: "song_jp",
-      songMenuDesc: "曲",
+      songMenuDesc: "曲別",
       archiveURL: "archive_jp",
-      archiveMenuDesc: "アーカイブ",
+      archiveMenuDesc: "アーカイブ別",
       aboutURL: "about_jp",
-      aboutMenuDesc: "About JP",
+      aboutMenuDesc: "このサイトは",
     };
   },
   methods: {
     changeLang: function () {
       if (this.curLang == "JP") {
         this.indexURL = "index_jp";
-        this.indexMenuDesc = "Dashboard JP";
+        this.indexMenuDesc = "ホーム";
         this.songdataURL = "song_jp";
-        this.songMenuDesc = "曲";
+        this.songMenuDesc = "曲別";
         this.archiveURL = "archive_jp";
-        this.archiveMenuDesc = "アーカイブ";
+        this.archiveMenuDesc = "アーカイブ別";
         this.aboutURL = "about_jp";
-        this.aboutMenuDesc = "About JP";
+        this.aboutMenuDesc = "このサイトは";
         
         this.$router.push('/index_jp')
 
       } else {
         this.indexURL = "index_kr";
-        this.indexMenuDesc = "Dashboard KR";
+        this.indexMenuDesc = "홈";
         this.songdataURL = "song_kr";
         this.songMenuDesc = "곡별";
         this.archiveURL = "archive_kr";
-        this.archiveMenuDesc = "아카이브"
+        this.archiveMenuDesc = "아카이브별"
         this.aboutURL = "about_kr";
-        this.aboutMenuDesc = "About KR";
+        this.aboutMenuDesc = "이 사이트는";
 
         this.$router.push('/index_kr')
       }      
