@@ -8,7 +8,10 @@
     으로 알려주시면 감사하겠습니다!<br>
     <br>
     틀린 데이터도 가르쳐 주시면 감사하겠습니다!<br>
-    우선적으로 기능만을 생각해서 만들어서, 디자인은 추후 조금씩 고쳐나갈 예정입니다.
+    우선적으로 기능만을 생각해서 만들어서, 디자인은 추후 조금씩 고쳐나갈 예정입니다.<br>
+    사이트의 코드는 <a href="https://github.com/SisterClaire-Songs/SisterClaire-Songs.github.io">https://github.com/SisterClaire-Songs/SisterClaire-Songs.github.io</a>에
+    공개되어 있습니다. 혹시 다른 분의 사이트를 만들 때 쓰신다면, 트위터 등으로 한 마디 부탁드립니다.<br>
+    다른 이유때문이 아니라, 어떻게 더 개선할 수 있을지 참고가 하고 싶어서입니다...
 </div>
 </template>
 
