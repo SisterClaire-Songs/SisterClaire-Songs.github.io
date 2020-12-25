@@ -42,21 +42,7 @@ export default {
       resultString += "\nexport default SearchData";
 
       this.message = resultString;
-    },
-
-    MakeArchiveNumberArray: function (song) {
-      var resultArray = [];
-      console.log(song);
-      ArchiveData.forEach(function (archive, index) {
-        archive["setlist"].forEach(function (entry) {
-          if (entry["song"] === song["title"]) {
-            resultArray.push(index);
-          }
-        });
-      });
-
-      return resultArray;
-    },
+    }
   },
   components: {},
 };

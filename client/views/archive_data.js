@@ -19628,6 +19628,132 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴歌枠】クリスマス縛り歌配信/Xmas Song【にじさんじ/シスター・クレア】',
+      '【🔴노래방송】 크리스마스 한정 노래방송 / Xmas Song 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=Ec4Qs_GzA0k',
+    'date': '20201225',
+    'setlist': [
+      {
+        'time_vis': '0:01:48',
+        'time_query': '&t=0h01m48s',
+        'song': SongData.get('Angel Snow').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:07:44',
+        'time_query': '&t=0h07m44s',
+        'song': SongData.get('恋人がサンタクロース').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:14:50',
+        'time_query': '&t=0h14m50s',
+        'song': SongData.get('All I Want for Christmas Is You').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:20:10',
+        'time_query': '&t=0h20m10s',
+        'song': SongData.get('赤鼻のトナカイ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:22:25',
+        'time_query': '&t=0h22m25s',
+        'song': SongData.get('ジングルベル').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:50',
+        'time_query': '&t=0h24m50s',
+        'song': SongData.get('あわてんぼうのサンタクロース').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:41',
+        'time_query': '&t=0h30m41s',
+        'song': SongData.get('Snow Wings').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:21',
+        'time_query': '&t=0h34m21s',
+        'song': SongData.get('Last Christmas').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:40:45',
+        'time_query': '&t=0h40m45s',
+        'song': SongData.get('チキンライス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:46:33',
+        'time_query': '&t=0h46m33s',
+        'song': SongData.get('クリスマスソング').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:07',
+        'time_query': '&t=0h59m07s',
+        'song': SongData.get('ロマンスの神様').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:10:45',
+        'time_query': '&t=1h10m45s',
+        'song': SongData.get('届かない恋').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:07',
+        'time_query': '&t=1h16m07s',
+        'song': SongData.get('Snow halation').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
