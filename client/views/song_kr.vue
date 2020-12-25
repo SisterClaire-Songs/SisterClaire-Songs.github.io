@@ -9,7 +9,8 @@
     <el-table
       :data="MainTable()"
       style="width: 100%"
-      :default-sort = "{order: 'ascending'}" lazy>
+      lazy
+      :default-sort = "{order: 'ascending'}">
 
       <el-table-column type="expand">
       <template slot-scope="each_song">
@@ -77,7 +78,7 @@ export default {
   name: "SongKR",
   data() {
     return {
-      SongData1: SongData,
+      SongDataArray: Array.from(SongData.values()),
       search: "",
       counterSong: 0,
       counterAll: 0
@@ -85,7 +86,7 @@ export default {
   },
   methods: {
     MainTable: function () {
-      var tableData = Array.from(this.SongData1.values()).filter(this.FilterData).sort(function (a, b) {
+      var tableData = this.SongDataArray.filter(this.FilterData).sort(function (a, b) {
         var nameA = a.title[1].toUpperCase()
         var nameB = b.title[1].toUpperCase()
         if (nameA < nameB) {
