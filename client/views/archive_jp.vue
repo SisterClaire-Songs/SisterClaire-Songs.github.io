@@ -4,7 +4,7 @@
     <a href="https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B" target="_blank">
     https://www.youtube.com/playlist?list=PL5AupjB1xXYKndTwncj7AhCCrCCT76e0B</a> </p>
 
-    <el-table :data="ArchiveData1" style="width: 100%">
+    <el-table :data="DisplayData" style="width: 100%">
 
       <el-table-column type="expand">
       <template slot-scope="each_archive">
@@ -38,6 +38,17 @@
       <el-table-column prop="date" label="配信日" width="200" align="center" ></el-table-column>
 
     </el-table>
+
+    <div align="center">
+    <el-pagination
+        background
+        layout="prev, pager, next"
+        @current-change="HandleCurrentChange"
+        :page-size="pageSize"
+        :total="total">
+    </el-pagination>
+    </div>
+
   </div>
 </template>
 
@@ -48,8 +59,21 @@ export default {
   name: "ArchiveJP",
   data() {
     return {
-      ArchiveData1: ArchiveData
+      page: 1,
+      pageSize: 25,
+      total: 0
     };
+  },
+  computed: {
+    DisplayData () {
+      this.total = ArchiveData.length
+      return ArchiveData.slice(this.pageSize * this.page - this.pageSize, this.pageSize * this.page)
+    }
+  },
+  methods: {
+    HandleCurrentChange: function (val) {
+      this.page = val
+    }
   },
   components: {},
 };

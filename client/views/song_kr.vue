@@ -7,7 +7,7 @@
     </p>
 
     <el-table
-      :data="MainTable()"
+      :data="DisplayData"
       style="width: 100%"
       lazy
       :default-sort = "{order: 'ascending'}">
@@ -66,6 +66,17 @@
       </el-table-column>
       
     </el-table>
+
+    <div align="center">
+    <el-pagination
+        background
+        layout="prev, pager, next"
+        @current-change="HandleCurrentChange"
+        :page-size="pageSize"
+        :total="counterSong">
+    </el-pagination>
+    </div>
+
   </div>
 </template>
 
@@ -80,12 +91,14 @@ export default {
     return {
       SongDataArray: Array.from(SongData.values()),
       search: "",
+      page: 1,
+      pageSize: 25,
       counterSong: 0,
       counterAll: 0
     };
   },
-  methods: {
-    MainTable: function () {
+  computed: {
+    MainTable () {
       var tableData = this.SongDataArray.filter(this.FilterData).sort(function (a, b) {
         var nameA = a.title[1].toUpperCase()
         var nameB = b.title[1].toUpperCase()
@@ -121,6 +134,11 @@ export default {
       return tableData
     },
 
+    DisplayData () {
+      return this.MainTable.slice(this.pageSize * this.page - this.pageSize, this.pageSize * this.page)
+    }
+  },
+  methods: {
     SearchFromArchive: function (song) {
       var resultArray = []
 
@@ -140,6 +158,7 @@ export default {
     },
 
     FilterData: function (data) {
+      this.page = 1
       return !this.search ||
         data.title[1].toLowerCase().includes(this.search.toLowerCase()) ||
         this.SearchSubArray(data.singer[1], this.search.toLowerCase()) ||
@@ -154,6 +173,10 @@ export default {
         }
       })
       return tf
+    },
+
+    HandleCurrentChange: function (val) {
+      this.page = val
     }
   },
   components: {},
