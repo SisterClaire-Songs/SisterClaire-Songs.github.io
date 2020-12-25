@@ -92,7 +92,7 @@ export default {
       SongDataArray: Array.from(SongData.values()),
       search: "",
       page: 1,
-      pageSize: 50,
+      pageSize: 25,
       counterSong: 0,
       counterAll: 0
     };
