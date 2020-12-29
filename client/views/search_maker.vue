@@ -31,7 +31,9 @@ export default {
         ArchiveData.forEach(function (archive, index) {
           archive["setlist"].forEach(function (entry) {
             if (entry["song"] === value["title"]) {
-              resultArray.push(index);
+              if (resultArray[resultArray.length - 1] !== index) {
+                resultArray.push(index);
+              }
             }
           });
         });
