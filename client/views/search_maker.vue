@@ -24,7 +24,7 @@ export default {
 
       SongData.forEach(function (value, key) {
         resultString += "SearchData.set('";
-        resultString += key;
+        resultString += key.replace('\'', '\\\'');
         resultString += "', ";
 
         var resultArray = [];

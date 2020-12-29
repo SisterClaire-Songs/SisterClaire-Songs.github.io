@@ -19772,6 +19772,132 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【B限】新衣装☆歌うパーティー',
+      '【B한정】 신의상☆노래 파티'],
+    'url': 'https://www.bilibili.com/video/BV1Qt4y1k7pD',
+    'date': '20201228',
+    'setlist': [
+      {
+        'time_vis': '0:05:01',
+        'time_query': '?t=0h05m01s',
+        'song': SongData.get('乙女式れんあい塾').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:30',
+        'time_query': '?t=0h10m30s',
+        'song': SongData.get('Wonderful Rush').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:02',
+        'time_query': '?t=0h16m02s',
+        'song': SongData.get('ブルーバード').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:21:05',
+        'time_query': '?t=0h21m05s',
+        'song': SongData.get('雨とカプチーノ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:54',
+        'time_query': '?t=0h26m54s',
+        'song': SongData.get('未来パラソル').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:50',
+        'time_query': '?t=0h34m50s',
+        'song': SongData.get('Last Kiss').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:48',
+        'time_query': '?t=0h41m48s',
+        'song': SongData.get('眠れる森に行きたいな').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:47:57',
+        'time_query': '?t=0h47m57s',
+        'song': SongData.get('はっぴぃ にゅう にゃあ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:57',
+        'time_query': '?t=0h55m57s',
+        'song': SongData.get('ダイアモンド').title,
+        'additional': [['1番'], ['1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:12',
+        'time_query': '?t=0h59m12s',
+        'song': SongData.get('天使のウィンク').title,
+        'additional': [['アカペラ'], ['무반주']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:06:56',
+        'time_query': '?t=1h06m56s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:09:30',
+        'time_query': '?t=1h09m30s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:30',
+        'time_query': '?t=1h16m30s',
+        'song': SongData.get('Zzz').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
