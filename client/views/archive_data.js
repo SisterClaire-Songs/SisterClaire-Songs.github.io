@@ -19898,6 +19898,141 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴LIVE】気分転換にお歌でもどうどす～？☕【にじさんじ/シスター・クレア】',
+      '【🔴LIVE】 기분전환으로 노래라도 어떠세요~? ☕【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=T4FxvTNvo18',
+    'date': '20201230',
+    'setlist': [
+      {
+        'time_vis': '0:12:15',
+        'time_query': '&t=0h12m15s',
+        'song': SongData.get('からくりピエロ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:49',
+        'time_query': '&t=0h16m49s',
+        'song': SongData.get('ハム太郎とっとこうた').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:25:32',
+        'time_query': '&t=0h25m32s',
+        'song': SongData.get('1925').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:31:39',
+        'time_query': '&t=0h31m39s',
+        'song': SongData.get('射手座☆午後九時 Don\'t be late').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:43',
+        'time_query': '&t=0h39m43s',
+        'song': SongData.get('雨とカプチーノ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:46:09',
+        'time_query': '&t=0h46m09s',
+        'song': SongData.get('磔刑の聖女').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:01',
+        'time_query': '&t=0h56m01s',
+        'song': SongData.get('火刑の魔女').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:07:26',
+        'time_query': '&t=1h07m26s',
+        'song': SongData.get('聖少女領域').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:10',
+        'time_query': '&t=1h16m10s',
+        'song': SongData.get('かくしん的☆めたまるふぉ~ぜっ!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:20:33',
+        'time_query': '&t=1h20m33s',
+        'song': SongData.get('For フルーツバスケット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:25:13',
+        'time_query': '&t=1h25m13s',
+        'song': SongData.get('Agape').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:38:32',
+        'time_query': '&t=1h38m32s',
+        'song': SongData.get('イェイ! イェイ! イェイ!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:45:16',
+        'time_query': '&t=1h45m16s',
+        'song': SongData.get('タイプ:ワイルド').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:54:23',
+        'time_query': '&t=1h54m23s',
+        'song': SongData.get('Zzz').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
