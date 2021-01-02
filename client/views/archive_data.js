@@ -20033,6 +20033,33 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴マイクラ】新年運試しをするよ！【にじさんじ/シスター・クレア】',
+      '【🔴마인크】 신년 운세 시험을 합니다! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=Qz_ZVhvhVe0',
+    'date': '20210102',
+    'setlist': [
+      {
+        'time_vis': '0:30:12',
+        'time_query': '&t=0h30m12s',
+        'song': SongData.get('Virtual to LIVE').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:19:13',
+        'time_query': '&t=2h19m13s',
+        'song': SongData.get('Virtual to LIVE').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
