@@ -20060,6 +20060,150 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴歌枠】こんにちは～！【にじさんじ/シスター・クレア】',
+      '【🔴노래방송】 안녕하세요~! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=LbYI-4cTYPw',
+    'date': '20210103',
+    'setlist': [
+      {
+        'time_vis': '0:12:03',
+        'time_query': '&t=0h12m03s',
+        'song': SongData.get('津軽海峡・冬景色').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:17',
+        'time_query': '&t=0h19m17s',
+        'song': SongData.get('甲賀忍法帖').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:00',
+        'time_query': '&t=0h26m00s',
+        'song': SongData.get('恋1').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:12',
+        'time_query': '&t=0h37m12s',
+        'song': SongData.get('ETERNAL BLAZE').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:43:53',
+        'time_query': '&t=0h43m53s',
+        'song': SongData.get('スクランブル').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:50:32',
+        'time_query': '&t=0h50m32s',
+        'song': SongData.get('イジワルしないで 抱きしめてよ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:54:43',
+        'time_query': '&t=0h54m43s',
+        'song': SongData.get('アレコレしたい!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:40',
+        'time_query': '&t=0h59m40s',
+        'song': SongData.get('タチアガール').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:08:37',
+        'time_query': '&t=1h08m37s',
+        'song': SongData.get('きゅんっ!ヴァンパイアガール').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:13:42',
+        'time_query': '&t=1h13m42s',
+        'song': SongData.get('デリケートに好きして').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:18:27',
+        'time_query': '&t=1h18m27s',
+        'song': SongData.get('スキちゃん').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:26:50',
+        'time_query': '&t=1h26m50s',
+        'song': SongData.get('チェリボム').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:31:51',
+        'time_query': '&t=1h31m51s',
+        'song': SongData.get('Love Balloon').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:44:58',
+        'time_query': '&t=1h44m58s',
+        'song': SongData.get('はにかみdays').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:48:02',
+        'time_query': '&t=1h48m02s',
+        'song': SongData.get('半永久的に愛してよ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

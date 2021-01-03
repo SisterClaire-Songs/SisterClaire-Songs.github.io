@@ -4271,7 +4271,7 @@ SongData.set('PINK AQUARIUM', {
 SongData.set('Love Balloon', {
   'key': 'Love Balloon',
   'title': ['Love Balloon', 'Love Balloon'],
-  'singer': [['Silent Siren'], ['Silent Siren']],
+  'singer': [['SILENT SIREN'], ['SILENT SIREN']],
   'additional': [[''], ['']]
 })
 
