@@ -20204,6 +20204,42 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['新年！3Dで集まれくれっしぇんど！！',
+      '신년! 3D로 모여라 크레셴도!!'],
+    'url': 'https://www.youtube.com/watch?v=D88WNIQ_g2g',
+    'date': '20210105',
+    'setlist': [
+      {
+        'time_vis': '0:51:14',
+        'time_query': '&t=0h51m14s',
+        'song': SongData.get('デートTIME').title,
+        'additional': [['くれっしぇんど3D'], ['크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:10',
+        'time_query': '&t=0h55m10s',
+        'song': SongData.get('Trancing Pulse').title,
+        'additional': [['くれっしぇんど3D'], ['크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:01:58',
+        'time_query': '&t=1h01m58s',
+        'song': SongData.get('Snow halation').title,
+        'additional': [['くれっしぇんど3D'], ['크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

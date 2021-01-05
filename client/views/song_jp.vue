@@ -114,7 +114,7 @@ export default {
 
       var count = 0
       if (!this.search) {
-        this.counterAll = 2017
+        this.counterAll = 2020
       } else {
         tableData.forEach(function (eachSong) {
 
