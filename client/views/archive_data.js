@@ -20240,6 +20240,51 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【作業用/TypingSound】今日も一緒に～たまに歌っちゃう。【にじさんじ/シスター・クレア】',
+      '【작업용 / TypingSound】 오늘도 함께～가끔 노래해요 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=BIBjhtruESY',
+    'date': '20210111',
+    'setlist': [
+      {
+        'time_vis': '0:43:30',
+        'time_query': '&t=0h43m30s',
+        'song': SongData.get('世界中のこどもたちが').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:44',
+        'time_query': '&t=0h56m44s',
+        'song': SongData.get('この星に生まれて').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:05:03',
+        'time_query': '&t=1h05m03s',
+        'song': SongData.get('心の瞳').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:35',
+        'time_query': '&t=1h16m35s',
+        'song': SongData.get('さんぽ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
