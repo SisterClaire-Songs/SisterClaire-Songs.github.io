@@ -20285,6 +20285,141 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【B限】童謡を歌おう！',
+      '【B한정】 동요를 불러요!'],
+    'url': 'https://www.bilibili.com/video/BV1o5411n7n3',
+    'date': '20210111',
+    'setlist': [
+      {
+        'time_vis': '0:09:34',
+        'time_query': '?t=0h09m34s',
+        'song': SongData.get('きらきら星').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:54',
+        'time_query': '?t=0h12m54s',
+        'song': SongData.get('となりのトトロ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:48',
+        'time_query': '?t=0h17m48s',
+        'song': SongData.get('故郷').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:21:44',
+        'time_query': '?t=0h21m44s',
+        'song': SongData.get('Believe').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:01',
+        'time_query': '?t=0h26m01s',
+        'song': SongData.get('旅立ちの日に').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:20',
+        'time_query': '?t=0h34m20s',
+        'song': SongData.get('心の瞳').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:40:26',
+        'time_query': '?t=0h40m26s',
+        'song': SongData.get('翼をください').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:45:59',
+        'time_query': '?t=0h45m59s',
+        'song': SongData.get('Edelweiss').title,
+        'additional': [['日本語'], ['일본어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:00',
+        'time_query': '?t=0h48m00s',
+        'song': SongData.get('Edelweiss').title,
+        'additional': [['英語'], ['영어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:48',
+        'time_query': '?t=0h51m48s',
+        'song': SongData.get('ドレミの歌').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:35',
+        'time_query': '?t=0h55m35s',
+        'song': SongData.get('Do-Re-Mi').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:02:05',
+        'time_query': '?t=1h02m05s',
+        'song': SongData.get('赤とんぼ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:08:45',
+        'time_query': '?t=1h08m45s',
+        'song': SongData.get('バンバン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:14:22',
+        'time_query': '?t=1h14m22s',
+        'song': SongData.get('London bridge is falling down').title,
+        'additional': [['英語'], ['영어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

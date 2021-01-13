@@ -249,6 +249,13 @@ SongData.set('赤とんぼ', {
   'additional': [[''], ['']]
 })
 
+SongData.set('バンバン', {
+  'key': 'バンバン',
+  'title': ['バンバン', '방방'],
+  'singer': [['童謡'], ['동요']],
+  'additional': [[''], ['']]
+})
+
 SongData.set('磔刑の聖女', {
   'key': '磔刑の聖女',
   'title': ['磔刑の聖女', '책형의 성녀'],
@@ -2569,6 +2576,13 @@ SongData.set('旅立ちの日に', {
 SongData.set('この星に生まれて', {
   'key': 'この星に生まれて',
   'title': ['この星に生まれて', '이 별에 태어나서'],
+  'singer': [['合唱曲'], ['합창곡']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Believe', {
+  'key': 'Believe',
+  'title': ['Believe', 'Believe'],
   'singer': [['合唱曲'], ['합창곡']],
   'additional': [[''], ['']]
 })
@@ -5934,6 +5948,34 @@ SongData.set('心の瞳', {
   'key': '心の瞳',
   'title': ['心の瞳', '마음의 눈동자'],
   'singer': [['坂本九'], ['사카모토 큐']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Edelweiss', {
+  'key': 'Edelweiss',
+  'title': ['Edelweiss', 'Edelweiss'],
+  'singer': [[''], ['']],
+  'additional': [['The Sound of Music'], ['The Sound of Music']]
+})
+
+SongData.set('ドレミの歌', {
+  'key': 'ドレミの歌',
+  'title': ['ドレミの歌', '도레미송'],
+  'singer': [['ペギー葉山'], ['페기 하야마']],
+  'additional': [['The Sound of Music'], ['The Sound of Music']]
+})
+
+SongData.set('Do-Re-Mi', {
+  'key': 'Do-Re-Mi',
+  'title': ['Do-Re-Mi', 'Do-Re-Mi'],
+  'singer': [[''], ['']],
+  'additional': [['The Sound of Music'], ['The Sound of Music']]
+})
+
+SongData.set('London bridge is falling down', {
+  'key': 'London bridge is falling down',
+  'title': ['London bridge is falling down', 'London bridge is falling down'],
+  'singer': [['童謡'], ['동요']],
   'additional': [[''], ['']]
 })
 
