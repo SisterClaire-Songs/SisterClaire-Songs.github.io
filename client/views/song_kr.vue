@@ -16,9 +16,9 @@
       <template slot-scope="each_song">
         <el-table :data="SearchFromArchive(each_song.row)" style="width: 100%">
 
-          <el-table-column prop="archive_date" label="방송 날짜" width="100" align="center"></el-table-column>
+          <el-table-column prop="archive_date" label="방송 날짜" width="120" align="center"></el-table-column>
 
-          <el-table-column label="방송 정보" width="calc(100% - 250)" header-align="center">
+          <el-table-column label="방송 정보" width="calc(100% - 270)" header-align="center">
             <template slot-scope="hyperlink">
               <a :href="hyperlink.row.archive_url" target="_blank">
                 {{hyperlink.row.archive_title.substring(0,30)}} · · · 
@@ -114,7 +114,7 @@ export default {
 
       var count = 0
       if (!this.search) {
-        this.counterAll = 2038
+        this.counterAll = 2039
       } else {
         tableData.forEach(function (eachSong) {
 
