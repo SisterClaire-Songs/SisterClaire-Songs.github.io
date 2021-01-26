@@ -20447,6 +20447,258 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【B限】アイドルソング',
+      '【B한정】 아이돌 노래'],
+    'url': 'https://www.bilibili.com/video/BV1py4y1H7N4',
+    'date': '2021/01/18',
+    'setlist': [
+      {
+        'time_vis': '0:02:12',
+        'time_query': '?t=0h02m12s',
+        'song': SongData.get('Rock\'n Rouge').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:54',
+        'time_query': '?t=0h10m54s',
+        'song': SongData.get('♡桃色片想い♡').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:58',
+        'time_query': '?t=0h16m58s',
+        'song': SongData.get('イジワルしないで 抱きしめてよ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:21',
+        'time_query': '?t=0h23m21s',
+        'song': SongData.get('シンクロときめき').title,
+        'additional': [['1番'], ['1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:28:35',
+        'time_query': '?t=0h28m35s',
+        'song': SongData.get('完璧ぐ~のね').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:30',
+        'time_query': '?t=0h37m30s',
+        'song': SongData.get('START:DASH!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:42:57',
+        'time_query': '?t=0h42m57s',
+        'song': SongData.get('Evergreen').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:49:32',
+        'time_query': '?t=0h49m32s',
+        'song': SongData.get('小夜啼鳥恋詩').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:39',
+        'time_query': '?t=0h59m39s',
+        'song': SongData.get('my song').title,
+        'additional': [['アカペラ', '一部だけ'], ['무반주', '일부분만']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:00:38',
+        'time_query': '?t=1h00m38s',
+        'song': SongData.get('Snow halation').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【オタク歌枠】ハロプロ歌うよ～✨【にじさんじ/シスター・クレア】',
+      '【오타쿠 노래방송】 하로프로 노래할게요~✨ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=xpjmt3BBsvA',
+    'date': '2021/01/26',
+    'setlist': [
+      {
+        'time_vis': '0:01:46',
+        'time_query': '&t=0h01m46s',
+        'song': SongData.get('世界一HAPPYな女の子').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:07:13',
+        'time_query': '&t=0h07m13s',
+        'song': SongData.get('愛おしくってごめんね').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:54',
+        'time_query': '&t=0h12m54s',
+        'song': SongData.get('ショートカット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:25',
+        'time_query': '&t=0h19m25s',
+        'song': SongData.get('ロマンスの途中').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:07',
+        'time_query': '&t=0h26m07s',
+        'song': SongData.get('わかっているのにごめんね').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:32:49',
+        'time_query': '&t=0h32m49s',
+        'song': SongData.get('What is LOVE?').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:27',
+        'time_query': '&t=0h37m27s',
+        'song': SongData.get('有頂天LOVE').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:49:34',
+        'time_query': '&t=0h49m34s',
+        'song': SongData.get('タチアガール').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:07',
+        'time_query': '&t=0h56m07s',
+        'song': SongData.get('ヤッタルチャン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:02:30',
+        'time_query': '&t=1h02m30s',
+        'song': SongData.get('初恋サイダー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:07:54',
+        'time_query': '&t=1h07m54s',
+        'song': SongData.get('ピーナッツバタージェリーラブ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:14:29',
+        'time_query': '&t=1h14m29s',
+        'song': SongData.get('One・Two・Three').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:19:18',
+        'time_query': '&t=1h19m18s',
+        'song': SongData.get('彼と一緒にお店がしたい！').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:26:12',
+        'time_query': '&t=1h26m12s',
+        'song': SongData.get('スキちゃん').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:32:28',
+        'time_query': '&t=1h32m28s',
+        'song': SongData.get('ロマンティック 浮かれモード').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:42:40',
+        'time_query': '&t=1h42m40s',
+        'song': SongData.get('夢見る15歳').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

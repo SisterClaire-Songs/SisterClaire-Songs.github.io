@@ -6001,4 +6001,39 @@ SongData.set('ハッピーサマーバレンタイン', {
   'additional': [['テニスの王子様'], ['테니스의 왕자']]
 })
 
+SongData.set('シンクロときめき', {
+  'key': 'シンクロときめき',
+  'title': ['シンクロときめき', '싱크로 두근두근'],
+  'singer': [['渡辺麻友(AKB48 team B)'], ['와타나베 마유(AKB48 team B)']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('完璧ぐ~のね', {
+  'key': '完璧ぐ~のね',
+  'title': ['完璧ぐ~のね', '완전 말이 안 나와'],
+  'singer': [['渡り廊下走り隊'], ['연결복도주행대']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ロマンスの途中', {
+  'key': 'ロマンスの途中',
+  'title': ['ロマンスの途中', '로망스 도중'],
+  'singer': [['Juice=Juice'], ['Juice=Juice']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ヤッタルチャン', {
+  'key': 'ヤッタルチャン',
+  'title': ['ヤッタルチャン', '얏타루챤'],
+  'singer': [['スマイレージ'], ['스마이레이지']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('One・Two・Three', {
+  'key': 'One・Two・Three',
+  'title': ['One・Two・Three', 'One・Two・Three'],
+  'singer': [['モーニング娘。'], ['모닝구무스메']],
+  'additional': [[''], ['']]
+})
+
 export default SongData
