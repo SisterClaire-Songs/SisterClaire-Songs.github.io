@@ -5979,27 +5979,27 @@ SongData.set('London bridge is falling down', {
   'additional': [[''], ['']]
 })
 
-SongData.set('ヒプノシスマイク -Division Battle Anthem-＋', {
-  'key': 'ヒプノシスマイク -Division Battle Anthem-＋',
-  'title': ['ヒプノシスマイク -Division Battle Anthem-＋', '히프노시스 마이크 -Division Battle Anthem-＋'],
-  'singer': [['Division All Stars'], ['Division All Stars']],
-  'additional': [[''], ['']]
-})
+// SongData.set('ヒプノシスマイク -Division Battle Anthem-＋', {
+//   'key': 'ヒプノシスマイク -Division Battle Anthem-＋',
+//   'title': ['ヒプノシスマイク -Division Battle Anthem-＋', '히프노시스 마이크 -Division Battle Anthem-＋'],
+//   'singer': [['Division All Stars'], ['Division All Stars']],
+//   'additional': [[''], ['']]
+// })
 
-SongData.set('Still Still Still', {
-  'key': 'Still Still Still',
-  'title': ['Still Still Still', 'Still Still Still'],
-  'singer': [['四ノ宮那月(CV.谷山紀章)', '一ノ瀬トキヤ(CV.宮野真守)'],
-    ['시노미야 나츠키(CV.타니야마 키쇼)', '이치노세 토키야(CV.미야노 마모루)']],
-  'additional': [['うたの☆プリンスさまっ♪'], ['노래의☆왕자님♪']]
-})
+// SongData.set('Still Still Still', {
+//   'key': 'Still Still Still',
+//   'title': ['Still Still Still', 'Still Still Still'],
+//   'singer': [['四ノ宮那月(CV.谷山紀章)', '一ノ瀬トキヤ(CV.宮野真守)'],
+//     ['시노미야 나츠키(CV.타니야마 키쇼)', '이치노세 토키야(CV.미야노 마모루)']],
+//   'additional': [['うたの☆プリンスさまっ♪'], ['노래의☆왕자님♪']]
+// })
 
-SongData.set('ハッピーサマーバレンタイン', {
-  'key': 'ハッピーサマーバレンタイン',
-  'title': ['ハッピーサマーバレンタイン', '해피 서머 발렌타인'],
-  'singer': [[''], ['']],
-  'additional': [['テニスの王子様'], ['테니스의 왕자']]
-})
+// SongData.set('ハッピーサマーバレンタイン', {
+//   'key': 'ハッピーサマーバレンタイン',
+//   'title': ['ハッピーサマーバレンタイン', '해피 서머 발렌타인'],
+//   'singer': [[''], ['']],
+//   'additional': [['テニスの王子様'], ['테니스의 왕자']]
+// })
 
 SongData.set('シンクロときめき', {
   'key': 'シンクロときめき',
