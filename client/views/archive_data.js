@@ -20699,6 +20699,42 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴朝活】The early bird gets the worm☀【にじさんじ/シスター・クレア】',
+      '【🔴아침활동】 The early bird gets the worm☀ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=fDzH8bshN8c',
+    'date': '2021/02/01',
+    'setlist': [
+      {
+        'time_vis': '0:00:58',
+        'time_query': '&t=0h00m58s',
+        'song': SongData.get('マジックナンバー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:06:21',
+        'time_query': '&t=1h06m21s',
+        'song': SongData.get('adrenaline!!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:05',
+        'time_query': '&t=1h16m05s',
+        'song': SongData.get('雨とカプチーノ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
