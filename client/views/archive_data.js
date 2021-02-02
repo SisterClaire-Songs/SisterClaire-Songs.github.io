@@ -443,7 +443,7 @@ const ArchiveData = [
         'time_vis': '1:11:18',
         'time_query': '&t=1h11m18s',
         'song': SongData.get('Part of Your World').title,
-        'additional': [['アカペラ'], ['무반주']],
+        'additional': [['日本語', 'アカペラ'], ['일본어', '무반주']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -11909,7 +11909,7 @@ const ArchiveData = [
         'time_vis': '0:34:40',
         'time_query': '&t=0h34m40s',
         'song': SongData.get('A Whole New World').title,
-        'additional': [[''], ['']],
+        'additional': [['英語'], ['영어']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -20730,6 +20730,42 @@ const ArchiveData = [
         'time_query': '&t=1h16m05s',
         'song': SongData.get('雨とカプチーノ').title,
         'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴耐久】33万人いくまで起きません。【にじさんじ/シスター・クレア】',
+      '【🔴내구】 33만명이 될 때까지 일어나지 않습니다. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=ZHWUxGHbxjQ',
+    'date': '2021/02/02',
+    'setlist': [
+      {
+        'time_vis': '0:21:20',
+        'time_query': '&t=0h21m20s',
+        'song': SongData.get('いぬのおまわりさん').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:32',
+        'time_query': '&t=0h24m32s',
+        'song': SongData.get('射手座☆午後九時 Don\'t be late').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:42',
+        'time_query': '&t=0h34m42s',
+        'song': SongData.get('Part of Your World').title,
+        'additional': [['日本語'], ['일본어']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
