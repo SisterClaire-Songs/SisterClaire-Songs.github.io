@@ -2510,6 +2510,13 @@ SongData.set('金曜日のおはよう', {
   'additional': [[''], ['']]
 })
 
+SongData.set('金曜日のおはよう-another story-', {
+  'key': '金曜日のおはよう-another story-',
+  'title': ['金曜日のおはよう-another story-', '금요일의 좋은 아침 -another story-'],
+  'singer': [['HoneyWorks'], ['HoneyWorks']],
+  'additional': [[''], ['']]
+})
+
 SongData.set('ラジオ体操の歌', {
   'key': 'ラジオ体操の歌',
   'title': ['ラジオ体操の歌', '라디오 체조의 노래'],
@@ -4584,13 +4591,6 @@ SongData.set('小夜啼鳥恋詩', {
   'additional': [['ラブライブ'], ['러브라이브']]
 })
 
-SongData.set('金曜日のおはよう-another story-', {
-  'key': '金曜日のおはよう-another story-',
-  'title': ['金曜日のおはよう-another story-', '금요일의 좋은 아침 -another story-'],
-  'singer': [['HoneyWorks'], ['HoneyWorks']],
-  'additional': [[''], ['']]
-})
-
 SongData.set('青空Jumping Heart', {
   'key': '青空Jumping Heart',
   'title': ['青空Jumping Heart', '푸른 하늘 Jumping Heart'],
@@ -6041,6 +6041,20 @@ SongData.set('One・Two・Three', {
   'title': ['One・Two・Three', 'One・Two・Three'],
   'singer': [['モーニング娘。'], ['모닝구무스메']],
   'additional': [[''], ['']]
+})
+
+SongData.set('Say So', {
+  'key': 'Say So',
+  'title': ['Say So', 'Say So'],
+  'singer': [['Doja Cat'], ['Doja Cat']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Nyanyanyanyanyanyanya!', {
+  'key': 'Nyanyanyanyanyanyanya!',
+  'title': ['Nyanyanyanyanyanyanya!', 'Nyanyanyanyanyanyanya!'],
+  'singer': [['daniwell'], ['daniwell']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
 })
 
 export default SongData

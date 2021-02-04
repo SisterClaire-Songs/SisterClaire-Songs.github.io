@@ -20771,6 +20771,159 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【#NIJINYANJI​】Nyanyanyanyanyanyanya!【 @シスター・クレア -SisterClaire-​ 】',
+      '【#NIJINYANJI​】Nyanyanyanyanyanyanya!【 @시스터 클레어 -SisterClaire-​ 】'],
+    'url': 'https://www.youtube.com/watch?v=bPDIxeDGokw',
+    'date': '2021/02/03',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Nyanyanyanyanyanyanya!').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['②Nyanyanyanyanyanyanya!【にじさんじ】【文野環】#NIJINYANJI​',
+      '②Nyanyanyanyanyanyanya!【니지산지】【후미노 타마키】#NIJINYANJI​'],
+    'url': 'https://www.youtube.com/watch?v=3C2yoy_wTr8',
+    'date': '2021/02/03',
+    'setlist': [
+      {
+        'time_vis': '4:21:54',
+        'time_query': '&t=4h21m54s',
+        'song': SongData.get('Nyanyanyanyanyanyanya!').title,
+        'additional': [['文野環チャンネル凸', '4:41:35まで'], ['후미노 타마키 채널 도츠', '4:41:35까지']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴LIVE】ゲリラ朝歌～♪【にじさんじ/シスター・クレア】',
+      '【🔴LIVE】 게릴라 아침노래～♪ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=-tyCTDRmgVs',
+    'date': '2021/02/04',
+    'setlist': [
+      {
+        'time_vis': '0:02:48',
+        'time_query': '&t=0h02m48s',
+        'song': SongData.get('森のひかりのピルエット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:11:59',
+        'time_query': '&t=0h11m59s',
+        'song': SongData.get('金曜日のおはよう-another story-').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:17',
+        'time_query': '&t=0h17m17s',
+        'song': SongData.get('おねがいダーリン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:43',
+        'time_query': '&t=0h23m43s',
+        'song': SongData.get('Say So').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:03',
+        'time_query': '&t=0h30m03s',
+        'song': SongData.get('Nyanyanyanyanyanyanya!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:41',
+        'time_query': '&t=0h34m41s',
+        'song': SongData.get('Part of Your World').title,
+        'additional': [['英語'], ['영어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:38:41',
+        'time_query': '&t=0h38m41s',
+        'song': SongData.get('Part of Your World').title,
+        'additional': [['日本語'], ['일본어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:43:01',
+        'time_query': '&t=0h43m01s',
+        'song': SongData.get('ドレミの歌').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:45:48',
+        'time_query': '&t=0h45m48s',
+        'song': SongData.get('Edelweiss').title,
+        'additional': [['英語'], ['영어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:50:13',
+        'time_query': '&t=0h50m13s',
+        'song': SongData.get('ブルーバード').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:57:06',
+        'time_query': '&t=0h57m06s',
+        'song': SongData.get('フリージア').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:08:05',
+        'time_query': '&t=1h08m05s',
+        'song': SongData.get('ミラクルペイント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
