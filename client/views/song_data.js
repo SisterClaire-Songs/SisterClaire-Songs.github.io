@@ -6057,4 +6057,12 @@ SongData.set('Nyanyanyanyanyanyanya!', {
   'additional': [['ボーカロイド'], ['보컬로이드']]
 })
 
+SongData.set('eternal eternity', {
+  'key': 'eternal eternity',
+  'title': ['eternal eternity', 'eternal eternity'],
+  'singer': [['セーラーウラヌス(CV.皆川純子)', 'セーラーネプチューン(CV.大原さやか)'],
+    ['세일러 우라누스(CV.미나가와 준코)', '세일러 넵튠(CV.오오하라 사야카)']],
+  'additional': [['セーラームーン'], ['세일러 문']]
+})
+
 export default SongData

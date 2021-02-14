@@ -20810,8 +20810,8 @@ const ArchiveData = [
   },
 
   {
-    'title': ['【🔴LIVE】ゲリラ朝歌～♪【にじさんじ/シスター・クレア】',
-      '【🔴LIVE】 게릴라 아침노래～♪ 【니지산지 / 시스터 클레어】'],
+    'title': ['【🔴LIVE】MorningSingingTime…☀【にじさんじ/シスター・クレア】',
+      '【🔴LIVE】 MorningSingingTime…☀ 【니지산지 / 시스터 클레어】'],
     'url': 'https://www.youtube.com/watch?v=-tyCTDRmgVs',
     'date': '2021/02/04',
     'setlist': [
@@ -20918,6 +20918,69 @@ const ArchiveData = [
         'time_vis': '1:08:05',
         'time_query': '&t=1h08m05s',
         'song': SongData.get('ミラクルペイント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【歌ってみた】Love Destiny/シスター・クレア＆周防パトラcover 【シスター・プリンセス】【周防パトラ / ハニスト】',
+      '【불러보았다】 Love Destiny / 시스터 클레어 & 스오우 파트라 cover 【시스터 프린세스】【스오우 파트라 / 허니스트】'],
+    'url': 'https://www.youtube.com/watch?v=czjU8HZHG8w',
+    'date': '2021/02/11',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Love Destiny').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['eternal eternity / セーラーウラヌス×セーラーネプチューン (covered by いのるぱんだ)',
+      'eternal eternity / 세일러 우라누스 × 세일러 넵튠 (covered by 기도하는 판다)'],
+    'url': 'https://www.youtube.com/watch?v=szwPCX4EHB4',
+    'date': '2021/02/14',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('eternal eternity').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【ハッピーバレンタイン💝】2月14日は…【にじさんじ/シスター・クレア】',
+      '【해피 발렌타인💝】 2월 14일은… 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=r9RTN5_fDZA',
+    'date': '2021/02/14',
+    'setlist': [
+      {
+        'time_vis': '0:10:39',
+        'time_query': '&t=0h10m39s',
+        'song': SongData.get('バレンタイン・キッス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:40:50',
+        'time_query': '&t=0h40m50s',
+        'song': SongData.get('ラブレター').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
