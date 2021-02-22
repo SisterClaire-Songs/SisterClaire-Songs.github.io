@@ -20987,6 +20987,51 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['Snow halation / μ\'s (covered by cresc.)',
+      'Snow halation / μ\'s (covered by cresc.)'],
+    'url': 'https://www.youtube.com/watch?v=ygGXbrfBbFk',
+    'date': '2021/02/17',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Snow halation').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【歌枠】アーカイブはメン限になる歌枠。【にじさんじ/シスター・クレア】',
+      '【노래방송】 아카이브는 멤버 한정이 되는 노래 방송. 【にじさんじ/シスター・クレア】'],
+    'url': 'https://www.youtube.com/watch?v=RgZNtKo5UmQ',
+    'date': '2021/02/22',
+    'setlist': [
+      {
+        'time_vis': '0:00:50',
+        'time_query': '&t=0h00m50s',
+        'song': SongData.get('コネクト').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 12曲 メンバー限定', '외 12곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
