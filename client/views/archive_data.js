@@ -21008,6 +21008,114 @@ const ArchiveData = [
   },
 
   {
+    'title': ['【B限】いきなり歌いたい ',
+      '【B한정】 갑자기 노래하고 싶어요'],
+    'url': 'https://www.bilibili.com/video/BV1tA411M7wZ',
+    'date': '2021/02/17',
+    'setlist': [
+      {
+        'time_vis': '0:02:52',
+        'time_query': '?t=0h02m52s',
+        'song': SongData.get('ぼなぺてぃーと♡S').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:04:54',
+        'time_query': '?t=0h04m54s',
+        'song': SongData.get('adrenaline!!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:11:37',
+        'time_query': '?t=0h11m37s',
+        'song': SongData.get('ふ・れ・ん・ど・し・た・い').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:13:19',
+        'time_query': '?t=0h13m19s',
+        'song': SongData.get('ようこそジャパリパークへ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:38',
+        'time_query': '?t=0h17m38s',
+        'song': SongData.get('ひまわりの約束').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:13',
+        'time_query': '?t=0h26m13s',
+        'song': SongData.get('future').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:33:03',
+        'time_query': '?t=0h33m03s',
+        'song': SongData.get('白金ディスコ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:31',
+        'time_query': '?t=0h39m31s',
+        'song': SongData.get('夢への一歩').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:46:37',
+        'time_query': '?t=0h46m37s',
+        'song': SongData.get('輝夜の城で踊りたい').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:52:12',
+        'time_query': '?t=0h52m12s',
+        'song': SongData.get('マジLOVE2000%').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:11',
+        'time_query': '?t=0h56m11s',
+        'song': SongData.get('Flower-咲乱華-').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
     'title': ['【歌枠】アーカイブはメン限になる歌枠。【にじさんじ/シスター・クレア】',
       '【노래방송】 아카이브는 멤버 한정이 되는 노래 방송. 【にじさんじ/シスター・クレア】'],
     'url': 'https://www.youtube.com/watch?v=RgZNtKo5UmQ',
@@ -21026,6 +21134,186 @@ const ArchiveData = [
         'time_vis': '0:00:00',
         'time_query': '&t=0h00m00s',
         'song': ['外 12曲 メンバー限定', '외 12곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['にじさんじ - Wonder NeverLand (Official Lyric Video)',
+      '니지산지 - Wonder NeverLand (Official Lyric Video)'],
+    'url': 'https://www.youtube.com/watch?v=txc0Vn2ub6Y',
+    'date': '2021/02/25',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Wonder NeverLand').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴LIVE】告知もある、歌配信🌸【にじさんじ/シスター・クレア】',
+      '【🔴LIVE】 공지도 있는, 노래 방송🌸 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=ZXv8JuPoeU0',
+    'date': '2021/02/26',
+    'setlist': [
+      {
+        'time_vis': '0:01:16',
+        'time_query': '&t=0h01m16s',
+        'song': SongData.get('ぼなぺてぃーと♡S').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:04:43',
+        'time_query': '&t=0h04m43s',
+        'song': SongData.get('adrenaline!!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:09:50',
+        'time_query': '&t=0h09m50s',
+        'song': SongData.get('夏色えがおで1,2,Jump！').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:14:30',
+        'time_query': '&t=0h14m30s',
+        'song': SongData.get('そばかす').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:18:55',
+        'time_query': '&t=0h18m55s',
+        'song': SongData.get('恋愛サーキュレーション').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:09',
+        'time_query': '&t=0h24m09s',
+        'song': SongData.get('赤いスイートピー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:31:24',
+        'time_query': '&t=0h31m24s',
+        'song': SongData.get('気まぐれロマンティック').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:38:25',
+        'time_query': '&t=0h38m25s',
+        'song': SongData.get('世界は恋に落ちている').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:45:40',
+        'time_query': '&t=0h45m40s',
+        'song': SongData.get('ハナミズキ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:16',
+        'time_query': '&t=0h55m16s',
+        'song': SongData.get('美しきもの').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:05:06',
+        'time_query': '&t=1h05m06s',
+        'song': SongData.get('ひまわりの約束').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:23:28',
+        'time_query': '&t=1h23m28s',
+        'song': SongData.get('だろい?').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:29:32',
+        'time_query': '&t=1h29m32s',
+        'song': SongData.get('恋風').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:45:35',
+        'time_query': '&t=1h45m35s',
+        'song': SongData.get('半永久的に愛してよ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:07:33',
+        'time_query': '&t=2h07m33s',
+        'song': SongData.get('シンフォニー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴LIVE】フェス、いってきます～！【にじさんじ/シスター・クレア】',
+      '【🔴LIVE】 페스, 다녀오겠습니다~! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=D_Z6hu7-PZg',
+    'date': '2021/02/27',
+    'setlist': [
+      {
+        'time_vis': '0:20:38',
+        'time_query': '&t=0h20m38s',
+        'song': SongData.get('楽園').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',

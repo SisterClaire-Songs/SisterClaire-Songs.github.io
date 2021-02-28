@@ -1013,6 +1013,13 @@ SongData.set('私、アイドル宣言', {
   'additional': [[''], ['']]
 })
 
+SongData.set('世界は恋に落ちている', {
+  'key': '世界は恋に落ちている',
+  'title': ['世界は恋に落ちている', '세계는 사랑에 빠지고 있어'],
+  'singer': [['CHiCO with HoneyWorks'], ['CHiCO with HoneyWorks']],
+  'additional': [[''], ['']]
+})
+
 SongData.set('みくみくにしてあげる♪', {
   'key': 'みくみくにしてあげる♪',
   'title': ['みくみくにしてあげる♪', '미쿠미쿠하게 해줄게♪'],
@@ -2651,6 +2658,13 @@ SongData.set('マジLOVE1000%', {
   'additional': [['うたの☆プリンスさまっ♪'], ['노래의☆왕자님♪']]
 })
 
+SongData.set('マジLOVE2000%', {
+  'key': 'マジLOVE2000%',
+  'title': ['マジLOVE2000%', '진심LOVE2000%'],
+  'singer': [['ST☆RISH'], ['ST☆RISH']],
+  'additional': [['うたの☆プリンスさまっ♪'], ['노래의☆왕자님♪']]
+})
+
 SongData.set('オルフェ', {
   'key': 'オルフェ',
   'title': ['オルフェ', '오르페'],
@@ -3724,6 +3738,13 @@ SongData.set('君とインドカレー', {
 SongData.set('Virtual to LIVE', {
   'key': 'Virtual to LIVE',
   'title': ['Virtual to LIVE', 'Virtual to LIVE'],
+  'singer': [['にじさんじ'], ['니지산지']],
+  'additional': [['にじさんじ'], ['니지산지']]
+})
+
+SongData.set('Wonder NeverLand', {
+  'key': 'Wonder NeverLand',
+  'title': ['Wonder NeverLand', 'Wonder NeverLand'],
   'singer': [['にじさんじ'], ['니지산지']],
   'additional': [['にじさんじ'], ['니지산지']]
 })
@@ -6063,6 +6084,20 @@ SongData.set('eternal eternity', {
   'singer': [['セーラーウラヌス(CV.皆川純子)', 'セーラーネプチューン(CV.大原さやか)'],
     ['세일러 우라누스(CV.미나가와 준코)', '세일러 넵튠(CV.오오하라 사야카)']],
   'additional': [['セーラームーン'], ['세일러 문']]
+})
+
+SongData.set('だろい?', {
+  'key': 'だろい?',
+  'title': ['だろい?', '그렇지?'],
+  'singer': [['丸井ブン太(CV.高橋直純)'], ['마루이 분타(CV.타카하시 나오즈미)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Flower-咲乱華-', {
+  'key': 'Flower-咲乱華-',
+  'title': ['Flower-咲乱華-', 'Flower-피어나는 꽃-'],
+  'singer': [['GIGS'], ['GIGS']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
 })
 
 export default SongData
