@@ -21320,6 +21320,42 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【B限】#にじFes2021 ありがとうございました～✨',
+      '【B한정】 #니지Fes2021 감사했습니다～✨'],
+    'url': 'https://www.bilibili.com/video/BV1dA411K7Z9',
+    'date': '2021/03/01',
+    'setlist': [
+      {
+        'time_vis': '0:36:05',
+        'time_query': '?t=0h36m05s',
+        'song': SongData.get('adrenaline!!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:41',
+        'time_query': '?t=0h41m41s',
+        'song': SongData.get('香水').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:58',
+        'time_query': '?t=0h48m58s',
+        'song': SongData.get('夢への一歩').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
