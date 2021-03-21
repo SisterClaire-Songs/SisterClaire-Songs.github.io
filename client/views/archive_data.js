@@ -8839,7 +8839,7 @@ const ArchiveData = [
       {
         'time_vis': '0:47:51',
         'time_query': '&t=0h47m51s',
-        'song': SongData.get('Dear Prince ~テニスの王子様たちへ').title,
+        'song': SongData.get('Dear Prince ~テニスの王子様たちへ~').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -21351,6 +21351,303 @@ const ArchiveData = [
         'time_query': '?t=0h48m58s',
         'song': SongData.get('夢への一歩').title,
         'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【 #テニプリカラオケ大会​ 】ラジプリが青春の二人でやります。【にじさんじ/ #いのるぱんだ​ 】',
+      '【 #테니프리 가라오케 대회​ 】 라디프리가 청춘인 두 사람이 합니다. 【니지산지 / #기도하는 판다】'],
+    'url': 'https://www.youtube.com/watch?v=OS0HEJW6eJ4',
+    'date': '2021/03/11',
+    'setlist': [
+      {
+        'time_vis': '0:01:11',
+        'time_query': '&t=0h01m11s',
+        'song': SongData.get('future').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:30',
+        'time_query': '&t=0h10m30s',
+        'song': SongData.get('Dear Prince ~テニスの王子様たちへ~').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:18',
+        'time_query': '&t=0h16m18s',
+        'song': SongData.get('Flower-咲乱華-').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:25:15',
+        'time_query': '&t=0h25m15s',
+        'song': SongData.get('シャッターチャンスは一度だけ!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:29:35',
+        'time_query': '&t=0h29m35s',
+        'song': SongData.get('my lover').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:33:15',
+        'time_query': '&t=0h33m15s',
+        'song': SongData.get('WHITE LINE').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:46:06',
+        'time_query': '&t=0h46m06s',
+        'song': SongData.get('Orange').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:50:44',
+        'time_query': '&t=0h50m44s',
+        'song': SongData.get('坂道の果てへ').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:35',
+        'time_query': '&t=0h55m35s',
+        'song': SongData.get('Against Wind').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:00',
+        'time_query': '&t=0h59m00s',
+        'song': SongData.get('DA・DA・DA').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:03:07',
+        'time_query': '&t=1h03m07s',
+        'song': SongData.get('Brandnew Days').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:07:41',
+        'time_query': '&t=1h07m41s',
+        'song': SongData.get('チャームポイントは泣きボクロ').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:13:32',
+        'time_query': '&t=1h13m32s',
+        'song': SongData.get('Wonderful Days').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:35:01',
+        'time_query': '&t=1h35m01s',
+        'song': SongData.get('Everyday').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:44:07',
+        'time_query': '&t=1h44m07s',
+        'song': SongData.get('美ら海パワーだね').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:48:06',
+        'time_query': '&t=1h48m06s',
+        'song': SongData.get('prayer').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:56:48',
+        'time_query': '&t=1h56m48s',
+        'song': SongData.get('鉄板ソング').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:00:48',
+        'time_query': '&t=2h00m48s',
+        'song': SongData.get('Roman-Ranman ~浪漫爛漫~').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:04:50',
+        'time_query': '&t=2h04m50s',
+        'song': SongData.get('エメラルドライン').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:09:28',
+        'time_query': '&t=2h09m28s',
+        'song': SongData.get('夢の続きⅡ').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:14:38',
+        'time_query': '&t=2h14m38s',
+        'song': SongData.get('BRAND NEW DAY').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:20:27',
+        'time_query': '&t=2h20m27s',
+        'song': SongData.get('WINDY ROAD').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:25:18',
+        'time_query': '&t=2h25m18s',
+        'song': SongData.get('Come on! Let\'s Go!').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:29:38',
+        'time_query': '&t=2h29m38s',
+        'song': SongData.get('恋の激ダサ絶頂!').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:38:19',
+        'time_query': '&t=2h38m19s',
+        'song': SongData.get('瞳を閉じて 心のまま 僕は君を思う').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:42:03',
+        'time_query': '&t=2h42m03s',
+        'song': SongData.get('翼になって').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:46:37',
+        'time_query': '&t=2h46m37s',
+        'song': SongData.get('恋風').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:51:13',
+        'time_query': '&t=2h51m13s',
+        'song': SongData.get('タイプはD!').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:55:25',
+        'time_query': '&t=2h55m25s',
+        'song': SongData.get('50/50').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '3:08:26',
+        'time_query': '&t=3h08m26s',
+        'song': SongData.get('Don\'t Look Back').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '3:12:49',
+        'time_query': '&t=3h12m49s',
+        'song': SongData.get('ENJOY').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '3:28:44',
+        'time_query': '&t=3h28m44s',
+        'song': SongData.get('テニプリっていいな').title,
+        'additional': [['デュエット'], ['듀엣']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''

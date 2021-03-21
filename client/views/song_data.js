@@ -3764,9 +3764,9 @@ SongData.set('恋したらベイベー', {
   'additional': [[''], ['']]
 })
 
-SongData.set('Dear Prince ~テニスの王子様たちへ', {
-  'key': 'Dear Prince ~テニスの王子様たちへ',
-  'title': ['Dear Prince ~テニスの王子様たちへ', 'Dear Prince ~ 테니스의 왕자들에게'],
+SongData.set('Dear Prince ~テニスの王子様たちへ~', {
+  'key': 'Dear Prince ~テニスの王子様たちへ~',
+  'title': ['Dear Prince ~テニスの王子様たちへ~', 'Dear Prince ~테니스의 왕자들에게~'],
   'singer': [['イケメン侍'], ['이케맨대']],
   'additional': [['テニスの王子様'], ['테니스의 왕자']]
 })
@@ -6097,6 +6097,187 @@ SongData.set('Flower-咲乱華-', {
   'key': 'Flower-咲乱華-',
   'title': ['Flower-咲乱華-', 'Flower-피어나는 꽃-'],
   'singer': [['GIGS'], ['GIGS']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('my lover', {
+  'key': 'my lover',
+  'title': ['my lover', 'my lover'],
+  'singer': [['菊丸英二(CV.高橋広樹)'], ['키쿠마루 에이지(CV.타카하시 히로키)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('WHITE LINE', {
+  'key': 'WHITE LINE',
+  'title': ['WHITE LINE', 'WHITE LINE'],
+  'singer': [['青酢'], ['아오즈']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Orange', {
+  'key': 'Orange',
+  'title': ['Orange', 'Orange'],
+  'singer': [['越前リョーマ(CV.皆川純子)'], ['에치젠 료마(CV.미나카와 준코)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('坂道の果てへ', {
+  'key': '坂道の果てへ',
+  'title': ['坂道の果てへ', '언덕길의 끝에'],
+  'singer': [['氷帝エタニティ'], ['빙제 이터니티']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Against Wind', {
+  'key': 'Against Wind',
+  'title': ['Against Wind', 'Against Wind'],
+  'singer': [['芥川慈郎(CV.上田祐司)'], ['아쿠타가와 지로(CV.우에다 유지)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('DA・DA・DA', {
+  'key': 'DA・DA・DA',
+  'title': ['DA・DA・DA', 'DA・DA・DA'],
+  'singer': [['向日岳人(CV.保志総一朗)'], ['무카히 가쿠토(CV.호시 소이치로)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Brandnew Days', {
+  'key': 'Brandnew Days',
+  'title': ['Brandnew Days', 'Brandnew Days'],
+  'singer': [['宍戸亮(CV.楠田敏之)', '鳳長太郎(CV.浪川大輔)'],
+    ['시시도 료(CV.쿠스다 토시유키)', '오오토리 쵸타로(CV.나미카와 다이스케)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('チャームポイントは泣きボクロ', {
+  'key': 'チャームポイントは泣きボクロ',
+  'title': ['チャームポイントは泣きボクロ', '매력 포인트는 눈물점'],
+  'singer': [['跡部景吾(CV.諏訪部順一)'], ['아토베 케이고(CV.스와베 준이치)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Everyday', {
+  'key': 'Everyday',
+  'title': ['Everyday', 'Everyday'],
+  'singer': [['千石清純(CV.鳥海浩輔)'], ['센고쿠 키요스미(CV.토리우미 코스케)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('美ら海パワーだね', {
+  'key': '美ら海パワーだね',
+  'title': ['美ら海パワーだね', '츄라우미 파워네'],
+  'singer': [['平古場凛(CV.吉野裕行)'], ['히라코 바린(CV.요시노 히로유키)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('prayer', {
+  'key': 'prayer',
+  'title': ['prayer', 'prayer'],
+  'singer': [['白石蔵ノ介(CV.細谷佳正)'], ['시라이시 쿠라노스케(CV.호소야 요시마사)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('鉄板ソング', {
+  'key': '鉄板ソング',
+  'title': ['鉄板ソング', '정석 송'],
+  'singer': [['金色小春(CV.内藤玲)', '一氏ユウジ(CV.熊淵卓)'],
+    ['콘지키 코하루(CV.나이토 료)', '히토지 유우지(CV.쿠마부치 스구루)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Roman-Ranman ~浪漫爛漫~', {
+  'key': 'Roman-Ranman ~浪漫爛漫~',
+  'title': ['Roman-Ranman ~浪漫爛漫~', 'Roman-Ranman ~낭만난만~'],
+  'singer': [['海志漢'], ['카이시칸']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('エメラルドライン', {
+  'key': 'エメラルドライン',
+  'title': ['エメラルドライン', '에메랄드 라인'],
+  'singer': [['幸村精市(CV.永井幸子)'], ['유키무라 세이이치(CV.나가이 사치코)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('夢の続きⅡ', {
+  'key': '夢の続きⅡ',
+  'title': ['夢の続きⅡ', '꿈의 계속Ⅱ'],
+  'singer': [['幸村精市(CV.永井幸子)'], ['유키무라 세이이치(CV.나가이 사치코)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('BRAND NEW DAY', {
+  'key': 'BRAND NEW DAY',
+  'title': ['BRAND NEW DAY', 'BRAND NEW DAY'],
+  'singer': [['3グァバトリオ'], ['3구아바 트리오']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('WINDY ROAD', {
+  'key': 'WINDY ROAD',
+  'title': ['WINDY ROAD', 'WINDY ROAD'],
+  'singer': [['ジャッカル桑原(CV.檜山修之)', '丸井ブン太(CV.高橋直純)'],
+    ['쟈칼 쿠와하라(CV.히야마 노부유키)', '마루이 분타(CV.타카하시 나오즈미)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Come on! Let\'s Go!', {
+  'key': 'Come on! Let\'s Go!',
+  'title': ['Come on! Let\'s Go!', 'Come on! Let\'s Go!'],
+  'singer': [['仁王雅治(CV.増田裕生)', '柳生比呂士(CV.津田英佑)'],
+    ['니오우 마사하루(CV.마츠다 유우키)', '야규 히로시(CV.츠다 에이스케)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('瞳を閉じて 心のまま 僕は君を思う', {
+  'key': '瞳を閉じて 心のまま 僕は君を思う',
+  'title': ['瞳を閉じて 心のまま 僕は君を思う', '눈동자를 닫고 마음 가는 대로 나는 당신을 생각해'],
+  'singer': [['不二周助(CV.甲斐田ゆき)'], ['후지 슈스케(CV.카이다 유키)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('翼になって', {
+  'key': '翼になって',
+  'title': ['翼になって', '날개가 되어서'],
+  'singer': [['菊丸英二(CV.高橋広樹)'], ['키쿠마루 에이지(CV.타카하시 히로키)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('タイプはD!', {
+  'key': 'タイプはD!',
+  'title': ['タイプはD!', '타입은 D!'],
+  'singer': [['菊丸英二(CV.高橋広樹)', '大石秀一郎(CV.近藤孝行)'],
+    ['키쿠마루 에이지(CV.타카하시 히로키)', '오오이시 슈이치로(CV.콘도 타카유키)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('50/50', {
+  'key': '50/50',
+  'title': ['50/50', '50/50'],
+  'singer': [['越前リョーマ(CV.皆川純子)', '遠山金太郎(CV.杉本ゆう)'],
+    ['에치젠 료마(CV.미나카와 준코)', '토오야마 킨타로(CV.스기모토 유우)']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Don\'t Look Back', {
+  'key': 'Don\'t Look Back',
+  'title': ['Don\'t Look Back', 'Don\'t Look Back'],
+  'singer': [['青酢'], ['아오즈']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('ENJOY', {
+  'key': 'ENJOY',
+  'title': ['ENJOY', 'ENJOY'],
+  'singer': [['網球男児'], ['그물공 남아']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('テニプリっていいな', {
+  'key': 'テニプリっていいな',
+  'title': ['テニプリっていいな', '테니프리는 좋구나'],
+  'singer': [['許斐剛'], ['타케시 코노미']],
   'additional': [['テニスの王子様'], ['테니스의 왕자']]
 })
 
