@@ -21653,6 +21653,114 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【B限】 歌回♪♪♪',
+      '【B한정】 노래♪♪♪'],
+    'url': 'https://www.bilibili.com/video/BV1k54y18741',
+    'date': '2021/03/15',
+    'setlist': [
+      {
+        'time_vis': '0:03:37',
+        'time_query': '?t=0h03m37s',
+        'song': SongData.get('Cutie Panther').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:09:38',
+        'time_query': '?t=0h09m38s',
+        'song': SongData.get('おジャ魔女カーニバル').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:13:41',
+        'time_query': '?t=0h13m41s',
+        'song': SongData.get('トライアングラー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:40',
+        'time_query': '?t=0h19m40s',
+        'song': SongData.get('君の知らない物語').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:28:25',
+        'time_query': '?t=0h28m25s',
+        'song': SongData.get('世界は恋に落ちている').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:48',
+        'time_query': '?t=0h36m48s',
+        'song': SongData.get('ふわふわ時間').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:07',
+        'time_query': '?t=0h39m07s',
+        'song': SongData.get('可愛くなりたい').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:44:29',
+        'time_query': '?t=0h44m29s',
+        'song': SongData.get('Last Kiss').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:52:02',
+        'time_query': '?t=0h52m02s',
+        'song': SongData.get('エメラルドライン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:46',
+        'time_query': '?t=0h56m46s',
+        'song': SongData.get('おめっとサンバ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:03:03',
+        'time_query': '?t=1h03m03s',
+        'song': SongData.get('adrenaline!!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
