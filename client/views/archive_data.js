@@ -21761,6 +21761,204 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【メンバー限定】ほぼSoundOnly【にじさんじ/シスター・クレア】',
+      '【멤버 한정】 거의 SoundOnly 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=yNJONJvqLW4',
+    'date': '2021/03/21',
+    'setlist': [
+      {
+        'time_vis': '0:38:33',
+        'time_query': '&t=0h38m33s',
+        'song': SongData.get('ループ').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴Sing LIVE】歌うよ～！【にじさんじ/シスター・クレア】',
+      '【🔴Sing LIVE】 노래해요~! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=s4HNE9QBHuE',
+    'date': '2021/03/21',
+    'setlist': [
+      {
+        'time_vis': '0:05:55',
+        'time_query': '&t=0h05m55s',
+        'song': SongData.get('プラチナ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:50',
+        'time_query': '&t=0h10m50s',
+        'song': SongData.get('ノーザンクロス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:20:53',
+        'time_query': '&t=0h20m53s',
+        'song': SongData.get('木綿のハンカチーフ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:27:30',
+        'time_query': '&t=0h27m30s',
+        'song': SongData.get('小夜啼鳥恋詩').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:33:58',
+        'time_query': '&t=0h33m58s',
+        'song': SongData.get('いけないボーダーライン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:44:52',
+        'time_query': '&t=0h44m52s',
+        'song': SongData.get('雨とカプチーノ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:25',
+        'time_query': '&t=0h51m25s',
+        'song': SongData.get('甲賀忍法帖').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:10',
+        'time_query': '&t=0h59m10s',
+        'song': SongData.get('Hello Again').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:05:02',
+        'time_query': '&t=1h05m02s',
+        'song': SongData.get('ボーイフレンド').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:10:17',
+        'time_query': '&t=1h10m17s',
+        'song': SongData.get('ジッパー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:18:50',
+        'time_query': '&t=1h18m50s',
+        'song': SongData.get('旅立ちの日に').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:25:30',
+        'time_query': '&t=1h25m30s',
+        'song': SongData.get('君をのせて').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:30:40',
+        'time_query': '&t=1h30m40s',
+        'song': SongData.get('風になる').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:39:22',
+        'time_query': '&t=1h39m22s',
+        'song': SongData.get('サンデーサンデー・フルーツフール').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【B限】歌？？雑談？？',
+      '【B한정】 노래?? 잡담??'],
+    'url': 'https://www.bilibili.com/video/BV19A411N7vv',
+    'date': '2021/03/22',
+    'setlist': [
+      {
+        'time_vis': '0:08:25',
+        'time_query': '?t=0h08m25s',
+        'song': SongData.get('緋色の風車 ~Moulin Rouge~').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:14:47',
+        'time_query': '?t=0h14m47s',
+        'song': SongData.get('火刑の魔女').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:35',
+        'time_query': '?t=0h24m35s',
+        'song': SongData.get('磔刑の聖女').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:09',
+        'time_query': '?t=0h39m09s',
+        'song': SongData.get('Zzz').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

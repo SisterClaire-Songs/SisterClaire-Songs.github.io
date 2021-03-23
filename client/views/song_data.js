@@ -6295,4 +6295,18 @@ SongData.set('おめっとサンバ', {
   'additional': [['テニスの王子様'], ['테니스의 왕자']]
 })
 
+SongData.set('Hello Again', {
+  'key': 'Hello Again',
+  'title': ['Hello Again', 'Hello Again'],
+  'singer': [['田村ゆかり'], ['타무라 유카리']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('君をのせて', {
+  'key': '君をのせて',
+  'title': ['君をのせて', '당신을 태우고'],
+  'singer': [['井上あずみ'], ['이노우에 아즈미']],
+  'additional': [['ジブリ'], ['지브리']]
+})
+
 export default SongData
