@@ -21959,6 +21959,150 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【メンバー限定】感謝の歌30分！【にじさんじ/シスター・クレア】',
+      '【멤버 한정】 감사의 노래 30분! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=-t_bspEZe50',
+    'date': '2021/03/26',
+    'setlist': [
+      {
+        'time_vis': '0:02:17',
+        'time_query': '&t=0h02m17s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 1曲 メンバー限定', '외 1곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴Chill Songs 】心穏やかに、歌枠。【にじさんじ/シスター・クレア】',
+      '【🔴Chill Songs 】 마음 평온하게, 노래 방송. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=sC_xWo4wB0s',
+    'date': '2021/04/03',
+    'setlist': [
+      {
+        'time_vis': '0:05:11',
+        'time_query': '&t=0h05m11s',
+        'song': SongData.get('変わらないもの').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:20',
+        'time_query': '&t=0h12m20s',
+        'song': SongData.get('奏').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:32',
+        'time_query': '&t=0h17m32s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:22:48',
+        'time_query': '&t=0h22m48s',
+        'song': SongData.get('テルーの唄').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:28:12',
+        'time_query': '&t=0h28m12s',
+        'song': SongData.get('いのちの名前').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:40',
+        'time_query': '&t=0h34m40s',
+        'song': SongData.get('いつも何度でも').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:14',
+        'time_query': '&t=0h41m14s',
+        'song': SongData.get('となりのトトロ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:47:41',
+        'time_query': '&t=0h47m41s',
+        'song': SongData.get('風になる').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:21',
+        'time_query': '&t=0h56m21s',
+        'song': SongData.get('ルージュの伝言').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:02:54',
+        'time_query': '&t=1h02m54s',
+        'song': SongData.get('カントリー・ロード').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:09:53',
+        'time_query': '&t=1h09m53s',
+        'song': SongData.get('Part of Your World').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:15:17',
+        'time_query': '&t=1h15m17s',
+        'song': SongData.get('マジックナンバー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

@@ -6309,4 +6309,11 @@ SongData.set('君をのせて', {
   'additional': [['ジブリ'], ['지브리']]
 })
 
+SongData.set('花に亡霊', {
+  'key': '花に亡霊',
+  'title': ['花に亡霊', '꽃에 망령'],
+  'singer': [['ヨルシカ'], ['요루시카']],
+  'additional': [[''], ['']]
+})
+
 export default SongData
