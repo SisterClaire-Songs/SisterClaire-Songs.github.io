@@ -6316,4 +6316,11 @@ SongData.set('花に亡霊', {
   'additional': [[''], ['']]
 })
 
+SongData.set('中央フリーウェイ', {
+  'key': '中央フリーウェイ',
+  'title': ['中央フリーウェイ', '중앙 프리웨이'],
+  'singer': [['松任谷由実'], ['마츠토야 유미']],
+  'additional': [[''], ['']]
+})
+
 export default SongData

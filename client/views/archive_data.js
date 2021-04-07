@@ -22103,6 +22103,96 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【B限】 歌回',
+      '【B한정】 노래'],
+    'url': 'https://www.bilibili.com/video/BV1Lb4y1X7Sr',
+    'date': '2021/04/05',
+    'setlist': [
+      {
+        'time_vis': '0:08:04',
+        'time_query': '?t=0h08m04s',
+        'song': SongData.get('中央フリーウェイ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:15:24',
+        'time_query': '?t=0h15m24s',
+        'song': SongData.get('未来へ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:27:01',
+        'time_query': '?t=0h27m01s',
+        'song': SongData.get('ひこうき雲').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:32:52',
+        'time_query': '?t=0h32m52s',
+        'song': SongData.get('恋は渾沌の隷也').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:38:00',
+        'time_query': '?t=0h38m00s',
+        'song': SongData.get('Daydream café').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:45:04',
+        'time_query': '?t=0h45m04s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:39',
+        'time_query': '?t=0h51m39s',
+        'song': SongData.get('変わらないもの').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:57:07',
+        'time_query': '?t=0h57m07s',
+        'song': SongData.get('ガーネット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:43',
+        'time_query': '?t=1h16m43s',
+        'song': SongData.get('赤いスイートピー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
