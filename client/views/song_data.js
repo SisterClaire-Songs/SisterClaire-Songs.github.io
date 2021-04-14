@@ -6323,4 +6323,18 @@ SongData.set('中央フリーウェイ', {
   'additional': [[''], ['']]
 })
 
+SongData.set('シザーハンズ', {
+  'key': 'シザーハンズ',
+  'title': ['シザーハンズ', '시저 핸즈'],
+  'singer': [['Nem'], ['Nem']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('素敵なことがあなたを待っている', {
+  'key': '素敵なことがあなたを待っている',
+  'title': ['素敵なことがあなたを待っている', '멋진 일이 당신을 기다리고 있어'],
+  'singer': [['藤田麻衣子'], ['후지타 마이코']],
+  'additional': [[''], ['']]
+})
+
 export default SongData

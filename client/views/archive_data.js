@@ -22193,6 +22193,78 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【B限】 話す+歌う♪ ',
+      '【B한정】 이야기+노래♪ '],
+    'url': 'https://www.bilibili.com/video/BV1hp4y1t7MU',
+    'date': '2021/04/12',
+    'setlist': [
+      {
+        'time_vis': '0:27:46',
+        'time_query': '?t=0h27m46s',
+        'song': SongData.get('♡桃色片想い♡').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:35:47',
+        'time_query': '?t=0h35m47s',
+        'song': SongData.get('START:DASH!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:42:42',
+        'time_query': '?t=0h42m42s',
+        'song': SongData.get('シザーハンズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:51',
+        'time_query': '?t=0h48m51s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:03',
+        'time_query': '?t=0h56m03s',
+        'song': SongData.get('SWEET MEMORIES').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:02:16',
+        'time_query': '?t=1h02m16s',
+        'song': SongData.get('For フルーツバスケット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:08:07',
+        'time_query': '?t=1h08m07s',
+        'song': SongData.get('素敵なことがあなたを待っている').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
