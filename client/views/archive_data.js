@@ -22265,6 +22265,33 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【3DLIVE】BIRTHDAY LIVE !! 大人に近づいた僕 !!【#緑仙誕生日LIVE​】',
+      '【3DLIVE】 BIRTHDAY LIVE !! 어른에 가까워진 나!! 【#류셴생일LIVE​】'],
+    'url': 'https://www.youtube.com/watch?v=B5NrsznSMls',
+    'date': '2021/04/16',
+    'setlist': [
+      {
+        'time_vis': '0:12:10',
+        'time_query': '&t=0h12m10s',
+        'song': SongData.get('Snow halation').title,
+        'additional': [['くれっしぇんど3D'], ['크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:27',
+        'time_query': '&t=0h16m27s',
+        'song': SongData.get('初恋サイダー').title,
+        'additional': [['くれっしぇんど3D'], ['크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
