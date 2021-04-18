@@ -22088,7 +22088,7 @@ const ArchiveData = [
         'time_vis': '1:09:53',
         'time_query': '&t=1h09m53s',
         'song': SongData.get('Part of Your World').title,
-        'additional': [[''], ['']],
+        'additional': [['日本語'], ['일본어']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -22287,6 +22287,96 @@ const ArchiveData = [
         'time_query': '&t=0h16m27s',
         'song': SongData.get('初恋サイダー').title,
         'additional': [['くれっしぇんど3D'], ['크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴Chill Songs 】心穏やかに、歌枠。【にじさんじ/シスター・クレア】',
+      '【🔴Chill Songs 】 마음 편하게, 노래 방송. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=QVFTuGXKBEI',
+    'date': '2021/04/18',
+    'setlist': [
+      {
+        'time_vis': '0:04:58',
+        'time_query': '&t=0h04m58s',
+        'song': SongData.get('初恋サイダー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:11:44',
+        'time_query': '&t=0h11m44s',
+        'song': SongData.get('わがまま 気のまま 愛のジョーク').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:18:42',
+        'time_query': '&t=0h18m42s',
+        'song': SongData.get('奈落の花').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:43',
+        'time_query': '&t=0h24m43s',
+        'song': SongData.get('ぼなぺてぃーと♡S').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:54',
+        'time_query': '&t=0h30m54s',
+        'song': SongData.get('W:Wonder tale').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:55',
+        'time_query': '&t=0h36m55s',
+        'song': SongData.get('恋する天気図').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:40',
+        'time_query': '&t=0h48m40s',
+        'song': SongData.get('未来パラソル').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:54:15',
+        'time_query': '&t=0h54m15s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:05:12',
+        'time_query': '&t=1h05m12s',
+        'song': SongData.get('Lovely Fruit').title,
+        'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
