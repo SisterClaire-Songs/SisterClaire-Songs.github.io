@@ -22382,6 +22382,78 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴ご報告】夢がかなったよ～！✨【にじさんじ/シスター・クレア】',
+      '【🔴보고】 꿈이 이뤄졌어요~! ✨ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=Nrhaw0UjzeI',
+    'date': '2021/04/20',
+    'setlist': [
+      {
+        'time_vis': '0:26:57',
+        'time_query': '&t=0h26m57s',
+        'song': SongData.get('世界一HAPPYな女の子').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:32:28',
+        'time_query': '&t=0h32m28s',
+        'song': SongData.get('ショートカット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:33',
+        'time_query': '&t=0h39m33s',
+        'song': SongData.get('有頂天LOVE').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:44:57',
+        'time_query': '&t=0h44m57s',
+        'song': SongData.get('アレコレしたい!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:07',
+        'time_query': '&t=0h55m07s',
+        'song': SongData.get('チュッ!夏パ~ティ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:03:11',
+        'time_query': '&t=1h03m11s',
+        'song': SongData.get('YEAH!めっちゃホリディ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:11:26',
+        'time_query': '&t=1h11m26s',
+        'song': SongData.get('まっさらブルージーンズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

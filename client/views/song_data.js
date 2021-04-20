@@ -6337,4 +6337,18 @@ SongData.set('素敵なことがあなたを待っている', {
   'additional': [[''], ['']]
 })
 
+SongData.set('YEAH!めっちゃホリディ', {
+  'key': 'YEAH!めっちゃホリディ',
+  'title': ['YEAH!めっちゃホリディ', 'YEAH! 정말 홀리데이'],
+  'singer': [['松浦亜弥'], ['마츠우라 아야']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('チュッ!夏パ~ティ', {
+  'key': 'チュッ!夏パ~ティ',
+  'title': ['チュッ!夏パ~ティ', '츗!여름 파~티'],
+  'singer': [['三人祭'], ['삼인제']],
+  'additional': [[''], ['']]
+})
+
 export default SongData
