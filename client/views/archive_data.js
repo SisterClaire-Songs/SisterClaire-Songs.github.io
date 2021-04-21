@@ -22385,6 +22385,78 @@ const ArchiveData = [
   },
 
   {
+    'title': ['【B限】私は眠いです...歌... ',
+      '【B한정】 졸려요... 노래...'],
+    'url': 'https://www.bilibili.com/video/BV1qU4y1b7kY',
+    'date': '2021/04/19',
+    'setlist': [
+      {
+        'time_vis': '0:07:10',
+        'time_query': '?t=0h07m10s',
+        'song': SongData.get('GO! GO! MANIAC').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:13:25',
+        'time_query': '?t=0h13m25s',
+        'song': SongData.get('創聖のアクエリオン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:54',
+        'time_query': '?t=0h26m54s',
+        'song': SongData.get('For フルーツバスケット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:24',
+        'time_query': '?t=0h34m24s',
+        'song': SongData.get('secret base ~君がくれたもの~').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:42:07',
+        'time_query': '?t=0h42m07s',
+        'song': SongData.get('夜の歌').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:47',
+        'time_query': '?t=0h48m47s',
+        'song': SongData.get('花ざかりWeekend✿').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:58:36',
+        'time_query': '?t=0h58m36s',
+        'song': SongData.get('Kawaii make MY day!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
     'title': ['【🔴ご報告】夢がかなったよ～！✨【にじさんじ/シスター・クレア】',
       '【🔴보고】 꿈이 이뤄졌어요~! ✨ 【니지산지 / 시스터 클레어】'],
     'url': 'https://www.youtube.com/watch?v=Nrhaw0UjzeI',
