@@ -22526,6 +22526,78 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴Sing LIVE 】心穏やかに、歌枠。【にじさんじ/シスター・クレア】',
+      '【🔴Sing LIVE 】 마음 편하게, 노래 방송. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=cx3s5A5mKzg',
+    'date': '2021/04/25',
+    'setlist': [
+      {
+        'time_vis': '0:01:56',
+        'time_query': '&t=0h01m56s',
+        'song': SongData.get('春擬き').title,
+        'additional': [['1番'], ['1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:06:25',
+        'time_query': '&t=0h06m25s',
+        'song': SongData.get('ラムのラブソング').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:27',
+        'time_query': '&t=0h10m27s',
+        'song': SongData.get('ピーナッツバタージェリーラブ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:21:16',
+        'time_query': '&t=0h21m16s',
+        'song': SongData.get('ラブノベルス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:01',
+        'time_query': '&t=0h26m01s',
+        'song': SongData.get('Love marginal').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:03',
+        'time_query': '&t=0h34m03s',
+        'song': SongData.get('恋せよ女の子').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:43:27',
+        'time_query': '&t=0h43m27s',
+        'song': SongData.get('ETERNAL BLAZE').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

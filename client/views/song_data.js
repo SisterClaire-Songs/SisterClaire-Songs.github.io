@@ -6351,4 +6351,11 @@ SongData.set('チュッ!夏パ~ティ', {
   'additional': [[''], ['']]
 })
 
+SongData.set('ラブノベルス', {
+  'key': 'ラブノベルス',
+  'title': ['ラブノベルス', '러브 노벨즈'],
+  'singer': [['BiBi'], ['BiBi']],
+  'additional': [['ラブライブ'], ['러브라이브']]
+})
+
 export default SongData
