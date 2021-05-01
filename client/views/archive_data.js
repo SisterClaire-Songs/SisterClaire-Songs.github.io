@@ -22598,6 +22598,141 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴歌枠】気持ちをこめて歌います✨【にじさんじ/シスター・クレア】',
+      '【🔴노래방송】 마음을 담아서 노래합니다✨ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=0mzNUl_D9ho',
+    'date': '2021/05/01',
+    'setlist': [
+      {
+        'time_vis': '0:05:25',
+        'time_query': '&t=0h05m25s',
+        'song': SongData.get('デリケートに好きして').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:13',
+        'time_query': '&t=0h12m13s',
+        'song': SongData.get('FRUITS CANDY').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:15',
+        'time_query': '&t=0h17m15s',
+        'song': SongData.get('コネクト').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:57',
+        'time_query': '&t=0h23m57s',
+        'song': SongData.get('ギミー!レボリューション').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:29:28',
+        'time_query': '&t=0h29m28s',
+        'song': SongData.get('ダイアモンド クレバス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:59',
+        'time_query': '&t=0h37m59s',
+        'song': SongData.get('Q&Aリサイタル!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:47:13',
+        'time_query': '&t=0h47m13s',
+        'song': SongData.get('青い珊瑚礁').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:57',
+        'time_query': '&t=0h55m57s',
+        'song': SongData.get('冬がくれた予感').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:03:55',
+        'time_query': '&t=1h03m55s',
+        'song': SongData.get('Shine!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:34',
+        'time_query': '&t=1h16m34s',
+        'song': SongData.get('ひまわりの約束').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:23:35',
+        'time_query': '&t=1h23m35s',
+        'song': SongData.get('innocent starter').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:34:52',
+        'time_query': '&t=1h34m52s',
+        'song': SongData.get('シュガーソングとビターステップ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:44:06',
+        'time_query': '&t=1h44m06s',
+        'song': SongData.get('いのちの名前').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:53:01',
+        'time_query': '&t=1h53m01s',
+        'song': SongData.get('1・2・3').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
