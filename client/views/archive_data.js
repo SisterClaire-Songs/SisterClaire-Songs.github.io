@@ -22733,6 +22733,78 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴SoundHorizon縛り】約束を守ってくれたのね【にじさんじ/シスター・クレア】',
+      '【🔴SoundHorizon 한정】 약속을 지켜준 거네 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=u44pXV8oD1M',
+    'date': '2021/05/04',
+    'setlist': [
+      {
+        'time_vis': '0:02:17',
+        'time_query': '&t=0h02m17s',
+        'song': SongData.get('美しきもの').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:08',
+        'time_query': '&t=0h10m08s',
+        'song': SongData.get('火刑の魔女').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:28',
+        'time_query': '&t=0h23m28s',
+        'song': SongData.get('StarDust').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:40:18',
+        'time_query': '&t=0h40m18s',
+        'song': SongData.get('緋色の風車 ~Moulin Rouge~').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:50:27',
+        'time_query': '&t=0h50m27s',
+        'song': SongData.get('Yield').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:27',
+        'time_query': '&t=0h55m27s',
+        'song': SongData.get('Baroque').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:04:57',
+        'time_query': '&t=1h04m57s',
+        'song': SongData.get('磔刑の聖女').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
