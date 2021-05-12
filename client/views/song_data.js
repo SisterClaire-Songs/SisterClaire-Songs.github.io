@@ -2047,7 +2047,7 @@ SongData.set('学園天国', {
 SongData.set('Kiss me 愛してる', {
   'key': 'Kiss me 愛してる',
   'title': ['Kiss me 愛してる', 'Kiss me 사랑해'],
-  'singer': [['°C-ute'], ['°C-ute']],
+  'singer': [['℃-ute'], ['℃-ute']],
   'additional': [[''], ['']]
 })
 
@@ -6356,6 +6356,55 @@ SongData.set('ラブノベルス', {
   'title': ['ラブノベルス', '러브 노벨즈'],
   'singer': [['BiBi'], ['BiBi']],
   'additional': [['ラブライブ'], ['러브라이브']]
+})
+
+SongData.set('ロボキッス', {
+  'key': 'ロボキッス',
+  'title': ['ロボキッス', '로보키스'],
+  'singer': [['W'], ['W']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Only you', {
+  'key': 'Only you',
+  'title': ['Only you', 'Only you'],
+  'singer': [['モーニング娘。'], ['모닝구무스메']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('桃色スパークリング', {
+  'key': '桃色スパークリング',
+  'title': ['桃色スパークリング', '복숭아색 스파클링'],
+  'singer': [['℃-ute'], ['℃-ute']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('もしも・・・', {
+  'key': 'もしも・・・',
+  'title': ['もしも・・・', '만약・・・'],
+  'singer': [['ハロー!プロジェクトモベキマス'], ['하로프로 모베키마스']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('眼鏡の男の子', {
+  'key': '眼鏡の男の子',
+  'title': ['眼鏡の男の子', '안경 낀 남자아이'],
+  'singer': [['BEYOOOOONDS'], ['BEYOOOOONDS']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Danceでバコーン!', {
+  'key': 'Danceでバコーン!',
+  'title': ['Danceでバコーン!', 'Dance로 쾅!'],
+  'singer': [['℃-ute'], ['℃-ute']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('グーチョキパーで何つくろう', {
+  'key': 'グーチョキパーで何つくろう',
+  'title': ['グーチョキパーで何つくろう', '가위 바위 보로 뭘 만들까'],
+  'singer': [['童謡'], ['동요']],
+  'additional': [[''], ['']]
 })
 
 export default SongData
