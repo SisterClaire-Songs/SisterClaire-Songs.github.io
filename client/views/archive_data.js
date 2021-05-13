@@ -23041,6 +23041,15 @@ const ArchiveData = [
       {
         'time_vis': '1:21:24',
         'time_query': '&t=1h21m24s',
+        'song': SongData.get('眼鏡の男の子').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:28:00',
+        'time_query': '&t=1h28m00s',
         'song': SongData.get('チュッ!夏パ~ティ').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],

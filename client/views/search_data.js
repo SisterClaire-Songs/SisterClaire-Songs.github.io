@@ -901,7 +901,7 @@ SearchData.set('ロボキッス', [0])
 SearchData.set('Only you', [0])
 SearchData.set('桃色スパークリング', [0])
 SearchData.set('もしも・・・', [0])
-SearchData.set('眼鏡の男の子', [])
+SearchData.set('眼鏡の男の子', [0])
 SearchData.set('Danceでバコーン!', [0])
 SearchData.set('グーチョキパーで何つくろう', [1])
 
