@@ -23075,6 +23075,114 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【歌枠】ボカロとかも歌ってみる。【にじさんじ/シスター・クレア】',
+      '【노래방송】 보컬로이드라거나 불러봅니다. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=MgjJIdskVjI',
+    'date': '2021/05/18',
+    'setlist': [
+      {
+        'time_vis': '0:01:03',
+        'time_query': '&t=0h01m03s',
+        'song': SongData.get('夜に駆ける').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:08:21',
+        'time_query': '&t=0h08m21s',
+        'song': SongData.get('ハロ／ハワユ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:13:37',
+        'time_query': '&t=0h13m37s',
+        'song': SongData.get('ハジメテノオト').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:20:48',
+        'time_query': '&t=0h20m48s',
+        'song': SongData.get('歌に形はないけれど').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:29:32',
+        'time_query': '&t=0h29m32s',
+        'song': SongData.get('キャットフード').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:14',
+        'time_query': '&t=0h37m14s',
+        'song': SongData.get('スイートマジック').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:45:18',
+        'time_query': '&t=0h45m18s',
+        'song': SongData.get('トゥインクル').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:50:06',
+        'time_query': '&t=0h50m06s',
+        'song': SongData.get('ミラクルペイント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:49',
+        'time_query': '&t=0h56m49s',
+        'song': SongData.get('Gimme×Gimme').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:02:55',
+        'time_query': '&t=1h02m55s',
+        'song': SongData.get('ハッピーシンセサイザ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:13:24',
+        'time_query': '&t=1h13m24s',
+        'song': SongData.get('心做し').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

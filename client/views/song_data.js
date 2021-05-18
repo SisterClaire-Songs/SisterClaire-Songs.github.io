@@ -6407,4 +6407,32 @@ SongData.set('グーチョキパーで何つくろう', {
   'additional': [[''], ['']]
 })
 
+SongData.set('ハジメテノオト', {
+  'key': 'ハジメテノオト',
+  'title': ['ハジメテノオト', '처음의 소리'],
+  'singer': [['malo'], ['malo']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('キャットフード', {
+  'key': 'キャットフード',
+  'title': ['キャットフード', '캣 후드'],
+  'singer': [['doriko'], ['doriko']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('トゥインクル', {
+  'key': 'トゥインクル',
+  'title': ['トゥインクル', '트윙클'],
+  'singer': [['Junky'], ['Junky']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('Gimme×Gimme', {
+  'key': 'Gimme×Gimme',
+  'title': ['Gimme×Gimme', 'Gimme×Gimme'],
+  'singer': [['八王子P×Giga'], ['팔왕자P×Giga']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
 export default SongData
