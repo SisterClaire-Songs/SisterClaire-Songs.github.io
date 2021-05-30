@@ -23183,6 +23183,87 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【歌枠/Singing】かわいい曲多めでお送りします！【にじさんじ/シスター・クレア】',
+      '【노래방송/Singing】 귀여운 곡이 많은 느낌으로 전해드립니다! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=AHoyeZXeZUA',
+    'date': '2021/05/30',
+    'setlist': [
+      {
+        'time_vis': '0:08:45',
+        'time_query': '&t=0h08m45s',
+        'song': SongData.get('Fantastic future').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:14:22',
+        'time_query': '&t=0h14m22s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:25:56',
+        'time_query': '&t=0h25m56s',
+        'song': SongData.get('あたしを彼女にしたいなら').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:33:01',
+        'time_query': '&t=0h33m01s',
+        'song': SongData.get('気まぐれロマンティック').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:45:22',
+        'time_query': '&t=0h45m22s',
+        'song': SongData.get('Baby Sweet Berry Love').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:54:00',
+        'time_query': '&t=0h54m00s',
+        'song': SongData.get('初恋サイダー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:09',
+        'time_query': '&t=0h59m09s',
+        'song': SongData.get('青い珊瑚礁').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:07:28',
+        'time_query': '&t=1h07m28s',
+        'song': SongData.get('ショートカットに憧れて').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
