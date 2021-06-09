@@ -23201,8 +23201,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '0:14:22',
-        'time_query': '&t=0h14m22s',
+        'time_vis': '0:10:55',
+        'time_query': '&t=0h10m55s',
         'song': SongData.get('CLEAR').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -23210,8 +23210,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '0:25:56',
-        'time_query': '&t=0h25m56s',
+        'time_vis': '0:22:28',
+        'time_query': '&t=0h22m28s',
         'song': SongData.get('あたしを彼女にしたいなら').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -23219,8 +23219,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '0:33:01',
-        'time_query': '&t=0h33m01s',
+        'time_vis': '0:29:33',
+        'time_query': '&t=0h29m33s',
         'song': SongData.get('気まぐれロマンティック').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -23228,8 +23228,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '0:45:22',
-        'time_query': '&t=0h45m22s',
+        'time_vis': '0:41:54',
+        'time_query': '&t=0h41m54s',
         'song': SongData.get('Baby Sweet Berry Love').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -23237,8 +23237,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '0:54:00',
-        'time_query': '&t=0h54m00s',
+        'time_vis': '0:50:32',
+        'time_query': '&t=0h50m32s',
         'song': SongData.get('初恋サイダー').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -23246,8 +23246,8 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '0:59:09',
-        'time_query': '&t=0h59m09s',
+        'time_vis': '0:55:41',
+        'time_query': '&t=0h55m41s',
         'song': SongData.get('青い珊瑚礁').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
@@ -23255,9 +23255,144 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '1:07:28',
-        'time_query': '&t=1h07m28s',
+        'time_vis': '1:04:00',
+        'time_query': '&t=1h04m00s',
         'song': SongData.get('ショートカットに憧れて').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴歌枠】下手なりにそこに魂のある歌【にじさんじ/シスター・クレア】',
+      '【🔴노래방송】 서투른대로 혼이 담긴 노래 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=au0BMAOiHPA',
+    'date': '2021/06/09',
+    'setlist': [
+      {
+        'time_vis': '0:02:55',
+        'time_query': '&t=0h02m55s',
+        'song': SongData.get('For フルーツバスケット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:09:03',
+        'time_query': '&t=0h09m03s',
+        'song': SongData.get('ひまわりの約束').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:15:45',
+        'time_query': '&t=0h15m45s',
+        'song': SongData.get('風になる').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:57',
+        'time_query': '&t=0h23m57s',
+        'song': SongData.get('境界の彼方').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:00',
+        'time_query': '&t=0h36m00s',
+        'song': SongData.get('さくら').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:40:38',
+        'time_query': '&t=0h40m38s',
+        'song': SongData.get('Agape').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:45:08',
+        'time_query': '&t=0h45m08s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:50:35',
+        'time_query': '&t=0h50m35s',
+        'song': SongData.get('恋する天気図').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:45',
+        'time_query': '&t=0h55m45s',
+        'song': SongData.get('変わらないもの').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:00:35',
+        'time_query': '&t=1h00m35s',
+        'song': SongData.get('ガーネット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:09:00',
+        'time_query': '&t=1h09m00s',
+        'song': SongData.get('A Whole New World').title,
+        'additional': [['日本語'], ['일본어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:11:57',
+        'time_query': '&t=1h11m57s',
+        'song': SongData.get('Part of Your World').title,
+        'additional': [['日本語'], ['일본어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:22:42',
+        'time_query': '&t=1h22m42s',
+        'song': SongData.get('マジックナンバー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:28:53',
+        'time_query': '&t=1h28m53s',
+        'song': SongData.get('CLEAR').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',

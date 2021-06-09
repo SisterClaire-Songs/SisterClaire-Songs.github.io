@@ -6435,4 +6435,11 @@ SongData.set('Gimme×Gimme', {
   'additional': [['ボーカロイド'], ['보컬로이드']]
 })
 
+SongData.set('さくら', {
+  'key': 'さくら',
+  'title': ['さくら', '벚꽃'],
+  'singer': [['森山直太朗'], ['모리야마 나오타로']],
+  'additional': [[''], ['']]
+})
+
 export default SongData
