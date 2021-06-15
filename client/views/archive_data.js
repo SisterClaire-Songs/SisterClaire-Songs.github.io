@@ -23399,6 +23399,132 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴ゲリラ/歌/Sing a song】きままな歌枠🎤【にじさんじ/シスター・クレア】',
+      '【🔴게릴라 / 노래 / Sing a song】내키는 대로의 노래 방송🎤【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=xH_7zJgcav4',
+    'date': '2021/06/15',
+    'setlist': [
+      {
+        'time_vis': '0:02:37',
+        'time_query': '&t=0h02m37s',
+        'song': SongData.get('雨とカプチーノ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:13:01',
+        'time_query': '&t=0h13m01s',
+        'song': SongData.get('ブルーバード').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:20:43',
+        'time_query': '&t=0h20m43s',
+        'song': SongData.get('春擬き').title,
+        'additional': [['TV size'], ['TV size']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:28',
+        'time_query': '&t=0h23m28s',
+        'song': SongData.get('気まぐれロマンティック').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:29:11',
+        'time_query': '&t=0h29m11s',
+        'song': SongData.get('プラチナ').title,
+        'additional': [['アカペラ', '1番'], ['무반주', '1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:33:16',
+        'time_query': '&t=0h33m16s',
+        'song': SongData.get('かくしん的☆めたまるふぉ~ぜっ!').title,
+        'additional': [['TV size'], ['TV size']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:54',
+        'time_query': '&t=0h36m54s',
+        'song': SongData.get('月のワルツ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:44:04',
+        'time_query': '&t=0h44m04s',
+        'song': SongData.get('中央フリーウェイ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:15',
+        'time_query': '&t=0h48m15s',
+        'song': SongData.get('とびら開けて').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:50:45',
+        'time_query': '&t=0h50m45s',
+        'song': SongData.get('生まれてはじめて').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:57:39',
+        'time_query': '&t=0h57m39s',
+        'song': SongData.get('いのちの名前').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:04:03',
+        'time_query': '&t=1h04m03s',
+        'song': SongData.get('1・2・3').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:15:31',
+        'time_query': '&t=1h15m31s',
+        'song': SongData.get('青空のラプソディ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
