@@ -23525,6 +23525,114 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴ゲリラ/歌/Sing a song】Request OK 歌枠🎤【にじさんじ/シスター・クレア】',
+      '【🔴게릴라 / 노래 / Sing a song】 Request OK 노래방송🎤【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=usqrjpzSsLI',
+    'date': '2021/06/17',
+    'setlist': [
+      {
+        'time_vis': '00:04:07',
+        'time_query': '&t=00h04m07s',
+        'song': SongData.get('ハロ／ハワユ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '00:10:30',
+        'time_query': '&t=00h10m30s',
+        'song': SongData.get('愛言葉').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '00:15:05',
+        'time_query': '&t=00h15m05s',
+        'song': SongData.get('ワールドイズマイン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '00:21:43',
+        'time_query': '&t=00h21m43s',
+        'song': SongData.get('1・2・3').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '00:29:13',
+        'time_query': '&t=00h29m13s',
+        'song': SongData.get('夜に駆ける').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '00:38:33',
+        'time_query': '&t=00h38m33s',
+        'song': SongData.get('うまひょい伝説').title,
+        'additional': [['練習'], ['연습']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '00:44:40',
+        'time_query': '&t=00h44m40s',
+        'song': SongData.get('空色デイズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '00:49:32',
+        'time_query': '&t=00h49m32s',
+        'song': SongData.get('うっせぇわ').title,
+        'additional': [['練習'], ['연습']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '00:56:15',
+        'time_query': '&t=00h56m15s',
+        'song': SongData.get('うっせぇわ').title,
+        'additional': [['練習'], ['연습']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '01:04:20',
+        'time_query': '&t=01h04m20s',
+        'song': SongData.get('KING').title,
+        'additional': [['練習'], ['연습']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '01:11:05',
+        'time_query': '&t=01h11m05s',
+        'song': SongData.get('スタートライン!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

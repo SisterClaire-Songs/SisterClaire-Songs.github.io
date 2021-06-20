@@ -6442,4 +6442,32 @@ SongData.set('さくら', {
   'additional': [[''], ['']]
 })
 
+SongData.set('うまひょい伝説', {
+  'key': 'うまひょい伝説',
+  'title': ['うまひょい伝説', '우마뾰이 전설'],
+  'singer': [['ウマ娘'], ['우마무스메']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('うっせぇわ', {
+  'key': 'うっせぇわ',
+  'title': ['うっせぇわ', '시끄러워'],
+  'singer': [['Ado'], ['Ado']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('KING', {
+  'key': 'KING',
+  'title': ['KING', 'KING'],
+  'singer': [['Kanaria'], ['Kanaria']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('スタートライン!', {
+  'key': 'スタートライン!',
+  'title': ['スタートライン!', '스타트 라인!'],
+  'singer': [['せな・りえ from AIKATSU☆STARS!'], ['세나・리에 from AIKATSU☆STARS!']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
 export default SongData
