@@ -19217,7 +19217,7 @@ const ArchiveData = [
         'time_vis': '0:00:00',
         'time_query': '&t=0h00m00s',
         'song': SongData.get('In my world').title,
-        'additional': [['歌動画'], ['노래 영상']],
+        'additional': [['歌動画', '試聴'], ['노래 영상', '일부 듣기']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -23628,6 +23628,24 @@ const ArchiveData = [
         'time_query': '&t=01h11m05s',
         'song': SongData.get('スタートライン!').title,
         'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['In my world (Prod. KOTONOHOUSE)',
+      'In my world (Prod. KOTONOHOUSE)'],
+    'url': 'https://www.youtube.com/watch?v=z4IGR7HE6xc',
+    'date': '2021/06/25',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('In my world').title,
+        'additional': [['歌動画'], ['노래 영상']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
