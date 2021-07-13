@@ -1132,6 +1132,13 @@ SongData.set('青空のラプソディ', {
   'additional': [['小林さんちのメイドラゴン'], ['코바야시네 메이드래곤']]
 })
 
+// SongData.set('Let It Go ~ありのままで~', {
+//   'key': 'Let It Go ~ありのままで~',
+//   'title': ['Let It Go ~ありのままで~', 'Let It Go ~있는 그대로~'],
+//   'singer': [['アナと雪の女王'], ['겨울왕국']],
+//   'additional': [['ディズニー'], ['디즈니']]
+// })
+
 SongData.set('Do You Want to Build a Snowman?', {
   'key': 'Do You Want to Build a Snowman?',
   'title': ['Do You Want to Build a Snowman?', 'Do You Want to Build a Snowman?'],
@@ -6469,5 +6476,26 @@ SongData.set('スタートライン!', {
   'singer': [['せな・りえ from AIKATSU☆STARS!'], ['세나・리에 from AIKATSU☆STARS!']],
   'additional': [['アイカツ!'], ['아이카츠!']]
 })
+
+SongData.set('右耳のピアス', {
+  'key': '右耳のピアス',
+  'title': ['右耳のピアス', '오른쪽 귀의 피어스'],
+  'singer': [['コレサワ'], ['코레사와']],
+  'additional': [[''], ['']]
+})
+
+// SongData.set('あたしが死んでも', {
+//   'key': 'あたしが死んでも',
+//   'title': ['あたしが死んでも', '내가 죽어도'],
+//   'singer': [['コレサワ'], ['코레사와']],
+//   'additional': [[''], ['']]
+// })
+
+// SongData.set('彼氏はいません今夜だけ', {
+//   'key': '彼氏はいません今夜だけ',
+//   'title': ['彼氏はいません今夜だけ', '남자친구는 없어요 오늘밤만'],
+//   'singer': [['コレサワ'], ['코레사와']],
+//   'additional': [[''], ['']]
+// })
 
 export default SongData

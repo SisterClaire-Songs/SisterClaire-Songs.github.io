@@ -23651,6 +23651,33 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【Member Only/メンバー限定】お呼び出しがあるまで【にじさんじ/シスター・クレア】',
+      '【Member Only/멤버 한정】 불러내질 때까지 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=xfUv9ndqfH0',
+    'date': '2021/07/13',
+    'setlist': [
+      {
+        'time_vis': '0:04:58',
+        'time_query': '&t=0h04m58s',
+        'song': SongData.get('右耳のピアス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 6曲 メンバー限定', '외 6곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
