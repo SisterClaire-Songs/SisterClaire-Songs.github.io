@@ -23678,6 +23678,33 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【Member Only/メンバー限定】夏休みの夜【にじさんじ/シスター・クレア】',
+      '【Member Only/멤버 한정】 여름휴가의 밤 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=JmZZY2KXA_I',
+    'date': '2021/07/19',
+    'setlist': [
+      {
+        'time_vis': '0:04:04',
+        'time_query': '&t=0h04m04s',
+        'song': SongData.get('涙そうそう').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 3曲 メンバー限定', '외 3곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
