@@ -23654,6 +23654,24 @@ const ArchiveData = [
   },
 
   {
+    'title': ['Let Me Know (feat. Masayoshi Iimori)',
+      'Let Me Know (feat. Masayoshi Iimori)'],
+    'url': 'https://www.youtube.com/watch?v=ZuEkN-tEeSc',
+    'date': '2021/07/09',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Let Me Know').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
     'title': ['【Member Only/メンバー限定】お呼び出しがあるまで【にじさんじ/シスター・クレア】',
       '【Member Only/멤버 한정】 불러내질 때까지 【니지산지 / 시스터 클레어】'],
     'url': 'https://www.youtube.com/watch?v=xfUv9ndqfH0',
@@ -23699,6 +23717,123 @@ const ArchiveData = [
         'time_vis': '0:00:00',
         'time_query': '&t=0h00m00s',
         'song': ['外 3曲 メンバー限定', '외 3곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴LIVE】夏休みだね。【にじさんじ/シスター・クレア】',
+      '【🔴LIVE】 여름휴가네요. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=6fUpXRaSRp0',
+    'date': '2021/07/24',
+    'setlist': [
+      {
+        'time_vis': '0:04:30',
+        'time_query': '&t=0h04m30s',
+        'song': SongData.get('変わらないもの').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:11',
+        'time_query': '&t=0h12m11s',
+        'song': SongData.get('Let It Go ~ありのままで~').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:56',
+        'time_query': '&t=0h17m56s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:32',
+        'time_query': '&t=0h23m32s',
+        'song': SongData.get('おねがいダーリン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:28:58',
+        'time_query': '&t=0h28m58s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:53',
+        'time_query': '&t=0h37m53s',
+        'song': SongData.get('歌よ').title,
+        'additional': [['アカペラ'], ['무반주']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:49',
+        'time_query': '&t=0h41m49s',
+        'song': SongData.get('夏祭り').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:50:11',
+        'time_query': '&t=0h50m11s',
+        'song': SongData.get('Part of Your World').title,
+        'additional': [['日本語'], ['일본어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:03:28',
+        'time_query': '&t=1h03m28s',
+        'song': SongData.get('ボーイフレンド').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:10:05',
+        'time_query': '&t=1h10m05s',
+        'song': SongData.get('U').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:17:40',
+        'time_query': '&t=1h17m40s',
+        'song': SongData.get('DISCOTHEQUE').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:31:47',
+        'time_query': '&t=1h31m47s',
+        'song': SongData.get('ファンサ').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',

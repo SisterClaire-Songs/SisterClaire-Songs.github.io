@@ -280,7 +280,7 @@ SongData.set('私色ギフト', {
 
 SongData.set('おねがいダーリン', {
   'key': 'おねがいダーリン',
-  'title': ['おねがいダーリン', '오네가이 달링'],
+  'title': ['おねがいダーリン', '부탁해 달링'],
   'singer': [['ナナホシ管弦楽団'], ['나나호시 관현악단']],
   'additional': [[''], ['']]
 })
@@ -1132,12 +1132,12 @@ SongData.set('青空のラプソディ', {
   'additional': [['小林さんちのメイドラゴン'], ['코바야시네 메이드래곤']]
 })
 
-// SongData.set('Let It Go ~ありのままで~', {
-//   'key': 'Let It Go ~ありのままで~',
-//   'title': ['Let It Go ~ありのままで~', 'Let It Go ~있는 그대로~'],
-//   'singer': [['アナと雪の女王'], ['겨울왕국']],
-//   'additional': [['ディズニー'], ['디즈니']]
-// })
+SongData.set('Let It Go ~ありのままで~', {
+  'key': 'Let It Go ~ありのままで~',
+  'title': ['Let It Go ~ありのままで~', 'Let It Go ~있는 그대로~'],
+  'singer': [['アナと雪の女王'], ['겨울왕국']],
+  'additional': [['ディズニー'], ['디즈니']]
+})
 
 SongData.set('Do You Want to Build a Snowman?', {
   'key': 'Do You Want to Build a Snowman?',
@@ -5769,6 +5769,14 @@ SongData.set('In my world', {
   'additional': [['電音部'], ['전음부']]
 })
 
+SongData.set('Let Me Know', {
+  'key': 'Let Me Know',
+  'title': ['Let Me Know', 'Let Me Know'],
+  'singer': [['瀬戸海月(CV.シスター・クレア)', '鳳凰火凛(CV.健屋花那)', '大賀ルキア(CV.星川サラ)'],
+    ['세토 미츠키(CV.시스터 클레어)', '호우오우 카린(CV.스코야 카나)', '타이가 루키아(CV.호시카와 사라)']],
+  'additional': [['電音部'], ['전음부']]
+})
+
 SongData.set('All I Want for Christmas Is You', {
   'key': 'All I Want for Christmas Is You',
   'title': ['All I Want for Christmas Is You', 'All I Want for Christmas Is You'],
@@ -6497,5 +6505,26 @@ SongData.set('右耳のピアス', {
 //   'singer': [['コレサワ'], ['코레사와']],
 //   'additional': [[''], ['']]
 // })
+
+SongData.set('シル・ヴ・プレジデント', {
+  'key': 'シル・ヴ・プレジデント',
+  'title': ['シル・ヴ・プレジデント', '실・브・프레지던트'],
+  'singer': [['P丸様。'], ['P마루님。']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('歌よ', {
+  'key': '歌よ',
+  'title': ['歌よ', '노래여'],
+  'singer': [['Belle'], ['Belle']],
+  'additional': [['竜とそばかすの姫'], ['용과 주근깨의 공주']]
+})
+
+SongData.set('U', {
+  'key': 'U',
+  'title': ['U', 'U'],
+  'singer': [['millennium parade', 'Belle'], ['millennium parade', 'Belle']],
+  'additional': [['竜とそばかすの姫'], ['용과 주근깨의 공주']]
+})
 
 export default SongData
