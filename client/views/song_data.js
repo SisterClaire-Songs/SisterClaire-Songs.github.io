@@ -6517,14 +6517,21 @@ SongData.set('歌よ', {
   'key': '歌よ',
   'title': ['歌よ', '노래여'],
   'singer': [['Belle'], ['Belle']],
-  'additional': [['竜とそばかすの姫'], ['용과 주근깨의 공주']]
+  'additional': [['竜とそばかすの姫'], ['용과 주근깨 공주']]
 })
 
 SongData.set('U', {
   'key': 'U',
   'title': ['U', 'U'],
   'singer': [['millennium parade', 'Belle'], ['millennium parade', 'Belle']],
-  'additional': [['竜とそばかすの姫'], ['용과 주근깨의 공주']]
+  'additional': [['竜とそばかすの姫'], ['용과 주근깨 공주']]
 })
+
+// SongData.set('心のそばに', {
+//   'key': '心のそばに',
+//   'title': ['心のそばに', '마음 곁에'],
+//   'singer': [['Belle'], ['Belle']],
+//   'additional': [['竜とそばかすの姫'], ['용과 주근깨 공주']]
+// })
 
 export default SongData

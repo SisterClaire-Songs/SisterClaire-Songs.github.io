@@ -23840,6 +23840,33 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【メンバー限定配信】あふれる想いの【にじさんじ/シスター・クレア】',
+      '【멤버 한정방송】 넘쳐나는 마음의 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=XChwZfqytAI',
+    'date': '2021/07/26',
+    'setlist': [
+      {
+        'time_vis': '0:02:06',
+        'time_query': '&t=0h02m06s',
+        'song': SongData.get('歌よ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 2曲 メンバー限定', '외 2곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
