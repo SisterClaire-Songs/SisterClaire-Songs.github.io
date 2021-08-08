@@ -537,7 +537,7 @@ SongData.set('夜の歌', {
 SongData.set('夏祭り', {
   'key': '夏祭り',
   'title': ['夏祭り', '여름 축제'],
-  'singer': [['Whiteberry'], ['Whiteberry']],
+  'singer': [['JITTERIN\'JINN'], ['JITTERIN\'JINN']],
   'additional': [[''], ['']]
 })
 
@@ -6470,6 +6470,13 @@ SongData.set('うっせぇわ', {
   'singer': [['Ado'], ['Ado']],
   'additional': [[''], ['']]
 })
+
+// SongData.set('踊', {
+//   'key': '踊',
+//   'title': ['踊', '춤'],
+//   'singer': [['Ado'], ['Ado']],
+//   'additional': [[''], ['']]
+// })
 
 SongData.set('KING', {
   'key': 'KING',

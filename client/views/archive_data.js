@@ -23867,6 +23867,33 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【たぬ放題限定配信】ゆるりと歌う配信。【にじさんじ/シスター・クレア】',
+      '【たぬ放題 한정방송】 느긋하게 노래하는 방송. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=JV18q_Zy5ro',
+    'date': '2021/07/30',
+    'setlist': [
+      {
+        'time_vis': '0:05:16',
+        'time_query': '&t=0h05m16s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 6曲 メンバー限定', '외 6곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
