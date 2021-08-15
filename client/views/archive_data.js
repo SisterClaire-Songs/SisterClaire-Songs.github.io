@@ -23894,6 +23894,96 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【歌枠】竜とそばかすの姫が好きすぎる。【にじさんじ/シスター・クレア】',
+      '【노래방송】 용과 주근깨 공주가 너무 좋아요 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=WIYYcyCFhn4',
+    'date': '2021/08/15',
+    'setlist': [
+      {
+        'time_vis': '0:02:30',
+        'time_query': '&t=0h02m30s',
+        'song': SongData.get('U').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:06:38',
+        'time_query': '&t=0h06m38s',
+        'song': SongData.get('歌よ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:13',
+        'time_query': '&t=0h12m13s',
+        'song': SongData.get('はなればなれの君へ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:15',
+        'time_query': '&t=0h23m15s',
+        'song': SongData.get('心のそばに').title,
+        'additional': [['アカペラ'], ['무반주']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:32:33',
+        'time_query': '&t=0h32m33s',
+        'song': SongData.get('あたしが死んでも').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:43:26',
+        'time_query': '&t=0h43m26s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:53:51',
+        'time_query': '&t=0h53m51s',
+        'song': SongData.get('故郷').title,
+        'additional': [['アカペラ'], ['무반주']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:50',
+        'time_query': '&t=0h59m50s',
+        'song': SongData.get('secret base ~君がくれたもの~').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:18:49',
+        'time_query': '&t=1h18m49s',
+        'song': SongData.get('はなればなれの君へ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]
