@@ -114,7 +114,7 @@ export default {
 
       var count = 0
       if (!this.search) {
-        this.counterAll = 2378
+        this.counterAll = 2389
       } else {
         tableData.forEach(function (eachSong) {
 

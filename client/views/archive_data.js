@@ -23984,6 +23984,132 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【メンバー限定配信】8月17日の日記。【にじさんじ/シスター・クレア】',
+      '【멤버 한정방송】 8월 17일의 일기 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=qP0gOIYr5m0',
+    'date': '2021/08/17',
+    'setlist': [
+      {
+        'time_vis': '0:10:19',
+        'time_query': '&t=0h10m19s',
+        'song': SongData.get('にゃんだーわんだーデイズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 2曲 メンバー限定', '외 2곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴LIVE】ゲリラだけど歌うよ。【にじさんじ/シスター・クレア】',
+      '【🔴LIVE】 게릴라지만 노래할게요 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=qdOzxc-LjFU',
+    'date': '2021/08/21',
+    'setlist': [
+      {
+        'time_vis': '0:03:12',
+        'time_query': '&t=0h03m12s',
+        'song': SongData.get('恋愛サーキュレーション').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:07:57',
+        'time_query': '&t=0h07m57s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:14:21',
+        'time_query': '&t=0h14m21s',
+        'song': SongData.get('風になる').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:02',
+        'time_query': '&t=0h19m02s',
+        'song': SongData.get('いつも何度でも').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:18',
+        'time_query': '&t=0h24m18s',
+        'song': SongData.get('あたしを彼女にしたいなら').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:38',
+        'time_query': '&t=0h30m38s',
+        'song': SongData.get('いのちの名前').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:48',
+        'time_query': '&t=0h39m48s',
+        'song': SongData.get('安眠Swimming').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:47:46',
+        'time_query': '&t=0h47m46s',
+        'song': SongData.get('♡桃色片想い♡').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:12',
+        'time_query': '&t=0h55m12s',
+        'song': SongData.get('初恋サイダー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:04:19',
+        'time_query': '&t=1h04m19s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 
 ]

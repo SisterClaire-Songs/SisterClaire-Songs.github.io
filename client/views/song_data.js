@@ -6548,4 +6548,18 @@ SongData.set('はなればなれの君へ', {
   'additional': [['竜とそばかすの姫'], ['용과 주근깨 공주']]
 })
 
+SongData.set('にゃんだーわんだーデイズ', {
+  'key': 'にゃんだーわんだーデイズ',
+  'title': ['にゃんだーわんだーデイズ', '냔다 원더 데이즈'],
+  'singer': [['大橋彩香'], ['오오하시 아야카']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('安眠Swimming', {
+  'key': '安眠Swimming',
+  'title': ['安眠Swimming', '안면 Swimming'],
+  'singer': [['femme fatale'], ['femme fatale']],
+  'additional': [[''], ['']]
+})
+
 export default SongData
