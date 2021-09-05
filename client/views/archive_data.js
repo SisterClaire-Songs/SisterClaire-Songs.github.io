@@ -24110,8 +24110,205 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
-  }
+  },
 
+  {
+    'title': ['【メンバー限定配信】ちょっと歌を練習させて…【にじさんじ/シスター・クレア】',
+      '【멤버 한정방송】 노래를 조금 연습하게 해주세요... 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=Js0-to3dick',
+    'date': '2021/08/26',
+    'setlist': [
+      {
+        'time_vis': '0:01:57',
+        'time_query': '&t=0h01m57s',
+        'song': SongData.get('すきっ！').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 6曲 メンバー限定', '외 6곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【歌枠】寝起き歌配信。【にじさんじ/シスター・クレア】',
+      '【노래방송】 자다 일어난 노래방송. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=fcD47auBOdU',
+    'date': '2021/08/29',
+    'setlist': [
+      {
+        'time_vis': '0:04:06',
+        'time_query': '&t=0h04m06s',
+        'song': SongData.get('プラチナ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:09:39',
+        'time_query': '&t=0h09m39s',
+        'song': SongData.get('シュガーソングとビターステップ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:18:45',
+        'time_query': '&t=0h18m45s',
+        'song': SongData.get('にゃんだーわんだーデイズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:31:02',
+        'time_query': '&t=0h31m02s',
+        'song': SongData.get('ショートカット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:42:22',
+        'time_query': '&t=0h42m22s',
+        'song': SongData.get('YAHHO!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴LIVE】リクエスト◎です！【にじさんじ/シスター・クレア】',
+      '【🔴LIVE】 리퀘스트◎ 입니다! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=DdakKP1Ekog',
+    'date': '2021/08/31',
+    'setlist': [
+      {
+        'time_vis': '0:04:59',
+        'time_query': '&t=0h04m59s',
+        'song': SongData.get('森のくまさん').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:07:25',
+        'time_query': '&t=0h07m25s',
+        'song': SongData.get('マジックナンバー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:15:01',
+        'time_query': '&t=0h15m01s',
+        'song': SongData.get('私、アイドル宣言').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:32',
+        'time_query': '&t=0h19m32s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:27',
+        'time_query': '&t=0h26m27s',
+        'song': SongData.get('花ざかりWeekend✿').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:31:58',
+        'time_query': '&t=0h31m58s',
+        'song': SongData.get('しゅきぴ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:38:50',
+        'time_query': '&t=0h38m50s',
+        'song': SongData.get('sweets parade').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:47:19',
+        'time_query': '&t=0h47m19s',
+        'song': SongData.get('スイートマジック').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:23',
+        'time_query': '&t=0h51m23s',
+        'song': SongData.get('からくりピエロ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:57:35',
+        'time_query': '&t=0h57m35s',
+        'song': SongData.get('気まぐれメルシィ').title,
+        'additional': [['1番'], ['1절']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:44',
+        'time_query': '&t=0h59m44s',
+        'song': SongData.get('恋色病棟').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:05:30',
+        'time_query': '&t=1h05m30s',
+        'song': SongData.get('Mr.Music').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  }
 ]
 
 export default ArchiveData.reverse()

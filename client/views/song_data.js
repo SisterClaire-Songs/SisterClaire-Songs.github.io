@@ -6562,4 +6562,18 @@ SongData.set('安眠Swimming', {
   'additional': [[''], ['']]
 })
 
+SongData.set('すきっ！', {
+  'key': 'すきっ！',
+  'title': ['すきっ！', '좋아해!'],
+  'singer': [['超ときめき宣伝部'], ['초 두근두근 선전부']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('しゅきぴ', {
+  'key': 'しゅきぴ',
+  'title': ['しゅきぴ', '슈키피'],
+  'singer': [['=LOVE'], ['=LOVE']],
+  'additional': [[''], ['']]
+})
+
 export default SongData
