@@ -24308,6 +24308,132 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴歌枠】感謝の気持ちで歌う～！【にじさんじ/シスター・クレア】',
+      '【🔴노래방송】 감사의 기분으로 노래합니다~! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=fFoiLuinJow',
+    'date': '2021/09/12',
+    'setlist': [
+      {
+        'time_vis': '0:05:52',
+        'time_query': '&t=0h05m52s',
+        'song': SongData.get('ヨワネハキ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:32',
+        'time_query': '&t=0h10m32s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:00',
+        'time_query': '&t=0h19m00s',
+        'song': SongData.get('安眠Swimming').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:27:12',
+        'time_query': '&t=0h27m12s',
+        'song': SongData.get('星間飛行').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:25',
+        'time_query': '&t=0h36m25s',
+        'song': SongData.get('U').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:42:55',
+        'time_query': '&t=0h42m55s',
+        'song': SongData.get('歌よ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:33',
+        'time_query': '&t=0h48m33s',
+        'song': SongData.get('なるまるまーる').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:47',
+        'time_query': '&t=0h56m47s',
+        'song': SongData.get('ぶる~べりぃ♥トレイン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:02:40',
+        'time_query': '&t=1h02m40s',
+        'song': SongData.get('はなればなれの君へ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:12:49',
+        'time_query': '&t=1h12m49s',
+        'song': SongData.get('1・2・3').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:22:21',
+        'time_query': '&t=1h22m21s',
+        'song': SongData.get('空色デイズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:37:00',
+        'time_query': '&t=1h37m00s',
+        'song': SongData.get('Catch me Cats me').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:46:00',
+        'time_query': '&t=1h46m00s',
+        'song': SongData.get('ダイアモンド クレバス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

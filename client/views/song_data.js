@@ -6576,4 +6576,18 @@ SongData.set('しゅきぴ', {
   'additional': [[''], ['']]
 })
 
+SongData.set('ヨワネハキ', {
+  'key': 'ヨワネハキ',
+  'title': ['ヨワネハキ', '하소연'],
+  'singer': [['MAISONdes'], ['MAISONdes']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Catch me Cats me', {
+  'key': 'Catch me Cats me',
+  'title': ['Catch me Cats me', 'Catch me Cats me'],
+  'singer': [['田村ゆかり'], ['타무라 유카리']],
+  'additional': [[''], ['']]
+})
+
 export default SongData
