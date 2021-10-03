@@ -24434,6 +24434,213 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴歌枠】Sing a song!!【にじさんじ/シスター・クレア】',
+      '【🔴노래방송】 Sing a song!! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=JE1JP21KS6o',
+    'date': '2021/09/18',
+    'setlist': [
+      {
+        'time_vis': '0:08:11',
+        'time_query': '&t=0h08m11s',
+        'song': SongData.get('すきっ！').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:09',
+        'time_query': '&t=0h16m09s',
+        'song': SongData.get('Kawaii make MY day!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:02',
+        'time_query': '&t=0h23m02s',
+        'song': SongData.get('桃色スパークリング').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:28:44',
+        'time_query': '&t=0h28m44s',
+        'song': SongData.get('ナージャ!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:33:21',
+        'time_query': '&t=0h33m21s',
+        'song': SongData.get('もうそう♡えくすぷれす').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:40:38',
+        'time_query': '&t=0h40m38s',
+        'song': SongData.get('チェリボム').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:45:36',
+        'time_query': '&t=0h45m36s',
+        'song': SongData.get('スキちゃん').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:46',
+        'time_query': '&t=0h51m46s',
+        'song': SongData.get('Love Festival').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:58:23',
+        'time_query': '&t=0h58m23s',
+        'song': SongData.get('なないろ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:06:10',
+        'time_query': '&t=1h06m10s',
+        'song': SongData.get('We Love SEIGAKU -ありがとうを込めて').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:18:54',
+        'time_query': '&t=1h18m54s',
+        'song': SongData.get('津軽海峡・冬景色').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【#3DクレアBDライブ 】【告知あり】3DLive♡MoonLight à la mode【にじさんじ/シスター・クレア】',
+      '【#3D클레어BD라이브】【공지있음】 3DLive♡MoonLight à la mode 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=6A3Ou5SGJqI',
+    'date': '2021/10/03',
+    'setlist': [
+      {
+        'time_vis': '0:05:55',
+        'time_query': '&t=0h05m55s',
+        'song': SongData.get('すきっ！').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:08',
+        'time_query': '&t=0h17m08s',
+        'song': SongData.get('もしも・・・').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:30',
+        'time_query': '&t=0h24m30s',
+        'song': SongData.get('Last Kiss').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:29:36',
+        'time_query': '&t=0h29m36s',
+        'song': SongData.get('DOGMA').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:11',
+        'time_query': '&t=0h36m11s',
+        'song': SongData.get('adrenaline!!!').title,
+        'additional': [['くれっしぇんど3D'], ['크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:49',
+        'time_query': '&t=0h41m49s',
+        'song': SongData.get('エトワール').title,
+        'additional': [['くれっしぇんど3D'], ['크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:50:41',
+        'time_query': '&t=0h50m41s',
+        'song': SongData.get('Rainbow').title,
+        'additional': [['3D'], ['3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:54:31',
+        'time_query': '&t=0h54m31s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [['3D'], ['3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:00:07',
+        'time_query': '&t=1h00m07s',
+        'song': SongData.get('Little Wish ~first step~').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:05:31',
+        'time_query': '&t=1h05m31s',
+        'song': SongData.get('ファンサ').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

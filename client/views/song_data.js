@@ -6590,4 +6590,39 @@ SongData.set('Catch me Cats me', {
   'additional': [[''], ['']]
 })
 
+SongData.set('Love Festival', {
+  'key': 'Love Festival',
+  'title': ['Love Festival', 'Love Festival'],
+  'singer': [['テニプリオールスターズ'], ['테니프리 올스타즈']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('なないろ', {
+  'key': 'なないろ',
+  'title': ['なないろ', '일곱빛깔'],
+  'singer': [['BUMP OF CHICKEN'], ['BUMP OF CHICKEN']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('We Love SEIGAKU -ありがとうを込めて', {
+  'key': 'We Love SEIGAKU -ありがとうを込めて',
+  'title': ['We Love SEIGAKU -ありがとうを込めて', 'We Love SEIGAKU -감사를 담아서'],
+  'singer': [['SEIGAKU NINE PLAYERS'], ['SEIGAKU NINE PLAYERS']],
+  'additional': [['テニスの王子様'], ['테니스의 왕자']]
+})
+
+SongData.set('Rainbow', {
+  'key': 'Rainbow',
+  'title': ['Rainbow', 'Rainbow'],
+  'singer': [['ROUND TABLE featuring Nino'], ['ROUND TABLE featuring Nino']],
+  'additional': [['ARIA'], ['ARIA']]
+})
+
+SongData.set('エトワール', {
+  'key': 'エトワール',
+  'title': ['エトワール', '에투알'],
+  'singer': [['cresc.'], ['cresc.']],
+  'additional': [['にじさんじ'], ['니지산지']]
+})
+
 export default SongData
