@@ -24641,6 +24641,24 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【B限】BD LIVE ありがとう',
+      '【B한정】 BD LIVE 고마워요'],
+    'url': 'https://www.bilibili.com/video/BV1wR4y1H7R2',
+    'date': '2021/10/04',
+    'setlist': [
+      {
+        'time_vis': '0:21:28',
+        'time_query': '?t=0h21m28s',
+        'song': SongData.get('もしも・・・').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
