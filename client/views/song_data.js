@@ -6625,4 +6625,18 @@ SongData.set('エトワール', {
   'additional': [['にじさんじ'], ['니지산지']]
 })
 
+// SongData.set('インモラリスト', {
+//   'key': 'インモラリスト',
+//   'title': ['インモラリスト', '임모랄리스트'],
+//   'singer': [['堀江由衣'], ['호리에 유이']],
+//   'additional': [[''], ['']]
+// })
+
+// SongData.set('', {
+//   'key': '',
+//   'title': ['', ''],
+//   'singer': [[''], ['']],
+//   'additional': [[''], ['']]
+// })
+
 export default SongData

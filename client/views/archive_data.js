@@ -23681,7 +23681,7 @@ const ArchiveData = [
         'time_vis': '0:04:58',
         'time_query': '&t=0h04m58s',
         'song': SongData.get('右耳のピアス').title,
-        'additional': [[''], ['']],
+        'additional': [['メンバー限定'], ['멤버 한정']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -23708,7 +23708,7 @@ const ArchiveData = [
         'time_vis': '0:04:04',
         'time_query': '&t=0h04m04s',
         'song': SongData.get('涙そうそう').title,
-        'additional': [[''], ['']],
+        'additional': [['メンバー限定'], ['멤버 한정']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -23852,7 +23852,7 @@ const ArchiveData = [
         'time_vis': '0:02:06',
         'time_query': '&t=0h02m06s',
         'song': SongData.get('歌よ').title,
-        'additional': [[''], ['']],
+        'additional': [['メンバー限定'], ['멤버 한정']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -23879,7 +23879,7 @@ const ArchiveData = [
         'time_vis': '0:05:16',
         'time_query': '&t=0h05m16s',
         'song': SongData.get('シル・ヴ・プレジデント').title,
-        'additional': [[''], ['']],
+        'additional': [['メンバー限定'], ['멤버 한정']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -23996,7 +23996,7 @@ const ArchiveData = [
         'time_vis': '0:10:19',
         'time_query': '&t=0h10m19s',
         'song': SongData.get('にゃんだーわんだーデイズ').title,
-        'additional': [[''], ['']],
+        'additional': [['メンバー限定'], ['멤버 한정']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -24122,7 +24122,7 @@ const ArchiveData = [
         'time_vis': '0:01:57',
         'time_query': '&t=0h01m57s',
         'song': SongData.get('すきっ！').title,
-        'additional': [[''], ['']],
+        'additional': [['メンバー限定'], ['멤버 한정']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -24653,6 +24653,87 @@ const ArchiveData = [
         'time_vis': '0:21:28',
         'time_query': '?t=0h21m28s',
         'song': SongData.get('もしも・・・').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['すきっ！/ときめき♡宣伝部（シスター・クレア LIVE cover）',
+      '좋아해! / 두근두근♡선전부 (시스터 클레어 LIVE cover)'],
+    'url': 'https://www.youtube.com/watch?v=mFlkoBAjBvI',
+    'date': '2021/10/06',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('すきっ！').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['LastKiss/三船美優(CV:原田彩楓)（シスター・クレア LIVE cover）',
+      'LastKiss / 미후네 미유(CV:하라다 사야카) (시스터 클레어 LIVE cover)'],
+    'url': 'https://www.youtube.com/watch?v=SY9BgG71Gvw',
+    'date': '2021/10/08',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Last Kiss').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['もしも・・・(リビルド.ver)/モベキマス（シスター・クレア LIVE cover）',
+      '만약・・・ (리빌드 ver.) / 모베키마스 (시스터 클레어 LIVE cover)'],
+    'url': 'https://www.youtube.com/watch?v=1K-Dq0gLlb4',
+    'date': '2021/10/16',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('もしも・・・').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【歌枠】アーカイブ残さないタイプ【にじさんじ/シスター・クレア】',
+      '【노래방송】 아카이브가 남지 않는 타입 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=qpl3Asbb6Rw',
+    'date': '2021/10/19',
+    'setlist': [
+      {
+        'time_vis': '0:06:08',
+        'time_query': '&t=0h06m08s',
+        'song': SongData.get('ピーナッツバタージェリーラブ').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 11曲 メンバー限定', '외 11곡 멤버 한정'],
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
