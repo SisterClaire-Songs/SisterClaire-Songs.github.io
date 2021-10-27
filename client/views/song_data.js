@@ -6632,6 +6632,13 @@ SongData.set('エトワール', {
 //   'additional': [[''], ['']]
 // })
 
+SongData.set('同担☆拒否', {
+  'key': '同担☆拒否',
+  'title': ['同担☆拒否', '같은담당☆거부'],
+  'singer': [['HoneyWorks'], ['HoneyWorks']],
+  'additional': [[''], ['']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],

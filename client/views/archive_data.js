@@ -23871,7 +23871,7 @@ const ArchiveData = [
 
   {
     'title': ['【たぬ放題限定配信】ゆるりと歌う配信。【にじさんじ/シスター・クレア】',
-      '【たぬ放題 한정방송】 느긋하게 노래하는 방송. 【니지산지 / 시스터 클레어】'],
+      '【타누호다이 한정방송】 느긋하게 노래하는 방송. 【니지산지 / 시스터 클레어】'],
     'url': 'https://www.youtube.com/watch?v=JV18q_Zy5ro',
     'date': '2021/07/30',
     'setlist': [
@@ -24734,6 +24734,123 @@ const ArchiveData = [
         'time_vis': '0:00:00',
         'time_query': '&t=0h00m00s',
         'song': ['外 11曲 メンバー限定', '외 11곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['DOGMA/シスター・クレア(dance shot.ver)',
+      'DOGMA / 시스터 클레어 (dance shot.ver)'],
+    'url': 'https://www.youtube.com/watch?v=J2HIoXomuls',
+    'date': '2021/10/23',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('DOGMA').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【たぬ放題】ノープランですが、歌も歌うかもしれない。【にじさんじ/シスター・クレア】',
+      '【타누호다이】 노 플랜이지만, 노래할지도 모릅니다. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=R6BE4rG1vcM',
+    'date': '2021/10/25',
+    'setlist': [
+      {
+        'time_vis': '0:14:06',
+        'time_query': '&t=0h14m06s',
+        'song': SongData.get('同担☆拒否').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 2曲 メンバー限定', '외 2곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【目指せ武道館】今は下手だけどだんだん【にじさんじ/シスター・クレア】',
+      '【목표는 무도관】 지금은 서툴러도 점점 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=xYjf6lfTUHA',
+    'date': '2021/10/27',
+    'setlist': [
+      {
+        'time_vis': '0:07:29',
+        'time_query': '&t=0h07m29s',
+        'song': SongData.get('♡桃色片想い♡').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:18:20',
+        'time_query': '&t=0h18m20s',
+        'song': SongData.get('シュガーソングとビターステップ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:25:53',
+        'time_query': '&t=0h25m53s',
+        'song': SongData.get('Q&Aリサイタル!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:35:14',
+        'time_query': '&t=0h35m14s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:47:55',
+        'time_query': '&t=0h47m55s',
+        'song': SongData.get('Baby Sweet Berry Love').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:33',
+        'time_query': '&t=0h59m33s',
+        'song': SongData.get('DRIVE A LIVE').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:11:11',
+        'time_query': '&t=1h11m11s',
+        'song': SongData.get('シャボン玉').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
