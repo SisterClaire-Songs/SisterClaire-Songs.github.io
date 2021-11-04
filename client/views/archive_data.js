@@ -24857,6 +24857,123 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【歌いながら放題】サムネ作るよ！【にじさんじ/シスター・クレア】',
+      '【노래하면서 마음대로】 섬네일 만들어요! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=-0Cno47VfnY',
+    'date': '2021/11/02',
+    'setlist': [
+      {
+        'time_vis': '0:01:12',
+        'time_query': '&t=0h01m12s',
+        'song': SongData.get('愛を伝えたいだとか').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 3曲 メンバー限定', '외 3곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【歌枠】今日はカッコいいを目指したい【にじさんじ/シスター・クレア】',
+      '【노래방송】 오늘은 멋있는 모습을 목표로 하고 싶어요 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=VB7GN6VZBNw',
+    'date': '2021/11/04',
+    'setlist': [
+      {
+        'time_vis': '0:04:02',
+        'time_query': '&t=0h04m02s',
+        'song': SongData.get('Get Wild').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:16',
+        'time_query': '&t=0h10m16s',
+        'song': SongData.get('いけないボーダーライン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:52',
+        'time_query': '&t=0h16m52s',
+        'song': SongData.get('射手座☆午後九時 Don\'t be late').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:27:46',
+        'time_query': '&t=0h27m46s',
+        'song': SongData.get('Pretender').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:24',
+        'time_query': '&t=0h36m24s',
+        'song': SongData.get('U').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:23',
+        'time_query': '&t=0h41m23s',
+        'song': SongData.get('歌よ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:46:27',
+        'time_query': '&t=0h46m27s',
+        'song': SongData.get('はなればなれの君へ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:57:46',
+        'time_query': '&t=0h57m46s',
+        'song': SongData.get('愛を伝えたいだとか').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:12:24',
+        'time_query': '&t=1h12m24s',
+        'song': SongData.get('素敵なことがあなたを待っている').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
