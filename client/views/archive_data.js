@@ -24974,6 +24974,150 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【 ARIAアニメED】Rainbow/Round Table feat. Nino(シスター・クレア cover)',
+      '【 ARIA 애니메이션 ED】 Rainbow / Round Table feat. Nino (시스터 클레어 cover)'],
+    'url': 'https://www.youtube.com/watch?v=BtqDRd0L8A8',
+    'date': '2021/11/05',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Rainbow').title,
+        'additional': [['3D'], ['3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['花に亡霊/ヨルシカ (シスター・クレア cover)',
+      '꽃에 망령 / 요루시카 (시스터 클레어 cover)'],
+    'url': 'https://www.youtube.com/watch?v=ermORthNGT8',
+    'date': '2021/11/08',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('花に亡霊').title,
+        'additional': [['3D'], ['3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【歌枠】寝起き5分です。【にじさんじ/シスター・クレア】',
+      '【노래방송】 일어난 지 5분 지났습니다. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=u-yHK3AeZ9I',
+    'date': '2021/11/09',
+    'setlist': [
+      {
+        'time_vis': '0:04:54',
+        'time_query': '&t=0h04m54s',
+        'song': SongData.get('恋愛サーキュレーション').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:11:42',
+        'time_query': '&t=0h11m42s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:18:17',
+        'time_query': '&t=0h18m17s',
+        'song': SongData.get('津軽海峡・冬景色').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:13',
+        'time_query': '&t=0h23m13s',
+        'song': SongData.get('はじめてのチュウ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:28:40',
+        'time_query': '&t=0h28m40s',
+        'song': SongData.get('雨とカプチーノ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:35:10',
+        'time_query': '&t=0h35m10s',
+        'song': SongData.get('愛を伝えたいだとか').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:44:41',
+        'time_query': '&t=0h44m41s',
+        'song': SongData.get('うっせぇわ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:25',
+        'time_query': '&t=0h51m25s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:57:22',
+        'time_query': '&t=0h57m22s',
+        'song': SongData.get('ドキッ！こういうのが恋なの？').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:07:25',
+        'time_query': '&t=1h07m25s',
+        'song': SongData.get('DRIVE A LIVE').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:27:30',
+        'time_query': '&t=1h27m30s',
+        'song': SongData.get('タッチ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
