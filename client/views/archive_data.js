@@ -25118,6 +25118,168 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【ここは思いつかなかった】質問ある？？？【にじさんじ/シスター・クレア】',
+      '【여기는 떠오르질 않았다】 질문 있어??? 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=msHFJAhQjkw',
+    'date': '2021/11/13',
+    'setlist': [
+      {
+        'time_vis': '1:14:54',
+        'time_query': '&t=1h14m54s',
+        'song': SongData.get('Zzz').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['エトワール / cresc.',
+      '에트왈 / cresc.'],
+    'url': 'https://www.youtube.com/watch?v=hQtL0FOCigM',
+    'date': '2021/11/23',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('エトワール').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['LittleWish〜first step〜 / 田村ゆかり(LIVE cover)',
+      'LittleWish〜first step〜 / 타무라 유카리 (LIVE cover)'],
+    'url': 'https://www.youtube.com/watch?v=epDtH9SF-x8',
+    'date': '2021/11/27',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Little Wish ~first step~').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【歌枠】人間に休息は大切。【にじさんじ/シスター・クレア】',
+      '【노래방송】 인간에게 휴식은 소중합니다. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=g61l2t_CyAU',
+    'date': '2021/11/28',
+    'setlist': [
+      {
+        'time_vis': '0:03:48',
+        'time_query': '&t=0h03m48s',
+        'song': SongData.get('カブトムシ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:10:55',
+        'time_query': '&t=0h10m55s',
+        'song': SongData.get('小さな恋のうた').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:18:29',
+        'time_query': '&t=0h18m29s',
+        'song': SongData.get('夜に駆ける').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:41',
+        'time_query': '&t=0h24m41s',
+        'song': SongData.get('うっせぇわ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:20',
+        'time_query': '&t=0h30m20s',
+        'song': SongData.get('ひまわりの約束').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:15',
+        'time_query': '&t=0h36m15s',
+        'song': SongData.get('ロマンスの神様').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:42:18',
+        'time_query': '&t=0h42m18s',
+        'song': SongData.get('Snow halation').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:53:29',
+        'time_query': '&t=0h53m29s',
+        'song': SongData.get('奏').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:02:30',
+        'time_query': '&t=1h02m30s',
+        'song': SongData.get('愛を伝えたいだとか').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:09:22',
+        'time_query': '&t=1h09m22s',
+        'song': SongData.get('恋愛サーキュレーション').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:17:27',
+        'time_query': '&t=1h17m27s',
+        'song': SongData.get('シュガーソングとビターステップ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
