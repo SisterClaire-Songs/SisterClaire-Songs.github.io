@@ -25352,6 +25352,114 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴LIVE】歌SONGうた【にじさんじ/シスター・クレア】',
+      '【🔴LIVE】 歌SONG노래 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=PeBxyjja3Hc',
+    'date': '2021/12/05',
+    'setlist': [
+      {
+        'time_vis': '0:04:20',
+        'time_query': '&t=0h04m20s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:09:52',
+        'time_query': '&t=0h09m52s',
+        'song': SongData.get('冬がくれた予感').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:21',
+        'time_query': '&t=0h19m21s',
+        'song': SongData.get('愛す').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:28',
+        'time_query': '&t=0h26m28s',
+        'song': SongData.get('深愛').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:33:00',
+        'time_query': '&t=0h33m00s',
+        'song': SongData.get('放課後オーバーフロウ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:34',
+        'time_query': '&t=0h39m34s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:42',
+        'time_query': '&t=0h51m42s',
+        'song': SongData.get('HAPPY PARTY TRAIN').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:06:04',
+        'time_query': '&t=1h06m04s',
+        'song': SongData.get('ラブレター').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:17:31',
+        'time_query': '&t=1h17m31s',
+        'song': SongData.get('風になる').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:24:31',
+        'time_query': '&t=1h24m31s',
+        'song': SongData.get('愛を伝えたいだとか').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:36:41',
+        'time_query': '&t=1h36m41s',
+        'song': SongData.get('心のそばに').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

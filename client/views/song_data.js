@@ -6660,6 +6660,13 @@ SongData.set('HAPPY PARTY TRAIN', {
   'additional': [['ラブライブ'], ['러브라이브']]
 })
 
+SongData.set('愛す', {
+  'key': '愛す',
+  'title': ['愛す', '사랑하다'],
+  'singer': [['クリープハイプ'], ['클리프하이브']],
+  'additional': [[''], ['']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],
