@@ -6625,6 +6625,13 @@ SongData.set('エトワール', {
   'additional': [['にじさんじ'], ['니지산지']]
 })
 
+SongData.set('殺屋中毒', {
+  'key': '殺屋中毒',
+  'title': ['殺屋中毒', '킬러 중독'],
+  'singer': [['cresc.'], ['cresc.']],
+  'additional': [['にじさんじ'], ['니지산지']]
+})
+
 // SongData.set('インモラリスト', {
 //   'key': 'インモラリスト',
 //   'title': ['インモラリスト', '임모랄리스트'],
@@ -6644,6 +6651,13 @@ SongData.set('愛を伝えたいだとか', {
   'title': ['愛を伝えたいだとか', '사랑을 전하고 싶다거나'],
   'singer': [['あいみょん'], ['아이묭']],
   'additional': [[''], ['']]
+})
+
+SongData.set('HAPPY PARTY TRAIN', {
+  'key': 'HAPPY PARTY TRAIN',
+  'title': ['HAPPY PARTY TRAIN', 'HAPPY PARTY TRAIN'],
+  'singer': [['Aqours'], ['Aqours']],
+  'additional': [['ラブライブ'], ['러브라이브']]
 })
 
 // SongData.set('', {

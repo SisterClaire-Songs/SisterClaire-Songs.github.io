@@ -25280,6 +25280,78 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【たぬ放題】ケチなので、30分しか時間を予約しなかったカラオケ【にじさんじ/シスター・クレア】',
+      '【타누호다이】 구두쇠니까, 30분만 예약한 가라오케 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=rGBr1ZhD1tc',
+    'date': '2021/12/01',
+    'setlist': [
+      {
+        'time_vis': '0:01:38',
+        'time_query': '&t=0h01m38s',
+        'song': SongData.get('HAPPY PARTY TRAIN').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 5曲 メンバー限定', '외 5곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【B限】調子はどう ？',
+      '【B한정】 요즘 어때요?'],
+    'url': 'https://www.bilibili.com/video/BV1eU4y1N711',
+    'date': '2021/12/01',
+    'setlist': [
+      {
+        'time_vis': '0:24:53',
+        'time_query': '?t=0h24m53s',
+        'song': SongData.get('HAPPY PARTY TRAIN').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:33:21',
+        'time_query': '?t=0h33m21s',
+        'song': SongData.get('はなればなれの君へ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['緑仙 Special Live YouTube Music Weekend',
+      '류셴 Special Live YouTube Music Weekend'],
+    'url': 'https://www.youtube.com/watch?v=6Grjw9n2biQ',
+    'date': '2021/12/05',
+    'setlist': [
+      {
+        'time_vis': '0:38:13',
+        'time_query': '&t=0h38m13s',
+        'song': SongData.get('殺屋中毒').title,
+        'additional': [['くれっしぇんど3D'], ['크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
