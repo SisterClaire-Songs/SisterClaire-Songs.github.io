@@ -25460,6 +25460,69 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴singing】静かな夜の歌枠【にじさんじ/シスター・クレア】',
+      '【🔴singing】 조용한 밤의 노래방송 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=Soj51_Ykpc0',
+    'date': '2021/12/11',
+    'setlist': [
+      {
+        'time_vis': '0:06:11',
+        'time_query': '&t=0h06m11s',
+        'song': SongData.get('Oz.').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:44',
+        'time_query': '&t=0h12m44s',
+        'song': SongData.get('風になる').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:28',
+        'time_query': '&t=0h23m28s',
+        'song': SongData.get('奏').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:31:42',
+        'time_query': '&t=0h31m42s',
+        'song': SongData.get('ハナミズキ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:40:21',
+        'time_query': '&t=0h40m21s',
+        'song': SongData.get('きよしこの夜').title,
+        'additional': [['英語'], ['영어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:00:18',
+        'time_query': '&t=1h00m18s',
+        'song': SongData.get('残酷な天使のテーゼ').title,
+        'additional': [['ピアノ'], ['피아노']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

@@ -6667,6 +6667,13 @@ SongData.set('愛す', {
   'additional': [[''], ['']]
 })
 
+SongData.set('Oz.', {
+  'key': 'Oz.',
+  'title': ['Oz.', 'Oz.'],
+  'singer': [['yama'], ['yama']],
+  'additional': [['王様ランキング'], ['임금님 랭킹']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],
