@@ -25523,6 +25523,195 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【たぬさんプラン】覚えたてほやほや歌と雑談【にじさんじ/シスター・クレア】',
+      '【타누상 플랜】 따끈따끈 막 배운 노래와 잡담 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=OeCC418chlA',
+    'date': '2021/12/13',
+    'setlist': [
+      {
+        'time_vis': '0:04:33',
+        'time_query': '&t=0h04m33s',
+        'song': SongData.get('ドライフラワー').title,
+        'additional': [['メンバー限定', '練習'], ['멤버 한정', '연습']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 1曲 メンバー限定', '외 1곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴singing】ゲリラだけど歌うよ～🎤【にじさんじ/シスター・クレア】',
+      '【🔴singing】 게릴라지만 노래해요~🎤 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=Y-0GvHYsI9M',
+    'date': '2021/12/15',
+    'setlist': [
+      {
+        'time_vis': '0:03:50',
+        'time_query': '&t=0h03m50s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:11:38',
+        'time_query': '&t=0h11m38s',
+        'song': SongData.get('檄！帝国華撃団').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:40',
+        'time_query': '&t=0h16m40s',
+        'song': SongData.get('御旗のもとに').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:22:28',
+        'time_query': '&t=0h22m28s',
+        'song': SongData.get('回レ!雪月花').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:08',
+        'time_query': '&t=0h30m08s',
+        'song': SongData.get('ヨワネハキ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:08',
+        'time_query': '&t=0h34m08s',
+        'song': SongData.get('Oz.').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:48',
+        'time_query': '&t=0h41m48s',
+        'song': SongData.get('青空のラプソディ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:29',
+        'time_query': '&t=0h48m29s',
+        'song': SongData.get('ルル').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:54:46',
+        'time_query': '&t=0h54m46s',
+        'song': SongData.get('恋はア・ラ・モード').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:00:03',
+        'time_query': '&t=1h00m03s',
+        'song': SongData.get('ゆずれない願い').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:04:53',
+        'time_query': '&t=1h04m53s',
+        'song': SongData.get('Spiritual Garden').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:10:45',
+        'time_query': '&t=1h10m45s',
+        'song': SongData.get('1・2・3').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:18:09',
+        'time_query': '&t=1h18m09s',
+        'song': SongData.get('ギミー!レボリューション').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:22:42',
+        'time_query': '&t=1h22m42s',
+        'song': SongData.get('Part of Your World').title,
+        'additional': [['日本語'], ['일본어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:31:06',
+        'time_query': '&t=1h31m06s',
+        'song': SongData.get('届かない恋').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:43:49',
+        'time_query': '&t=1h43m49s',
+        'song': SongData.get('Romantic Now').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:50:07',
+        'time_query': '&t=1h50m07s',
+        'song': SongData.get('S(mile)ING！').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

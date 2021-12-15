@@ -6674,6 +6674,20 @@ SongData.set('Oz.', {
   'additional': [['王様ランキング'], ['임금님 랭킹']]
 })
 
+SongData.set('ドライフラワー', {
+  'key': 'ドライフラワー',
+  'title': ['ドライフラワー', '드라이플라워'],
+  'singer': [['優里'], ['우리']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('Spiritual Garden', {
+  'key': 'Spiritual Garden',
+  'title': ['Spiritual Garden', 'Spiritual Garden'],
+  'singer': [['田村ゆかり'], ['타무라 유카리']],
+  'additional': [['魔法少女リリカルなのは'], ['마법소녀 리리컬 나노하']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],
