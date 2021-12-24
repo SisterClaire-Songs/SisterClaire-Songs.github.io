@@ -25712,6 +25712,150 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['殺屋中毒 / cresc.',
+      '킬러 중독 / cresc.'],
+    'url': 'https://www.youtube.com/watch?v=qUpMMwG13aQ',
+    'date': '2021/12/17',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('殺屋中毒').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【たぬ放題限定】歌の練習しちゃう。【にじさんじ/シスター・クレア】',
+      '【타누호다이 한정】노래 연습 합니다.【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=RTphAipiekA',
+    'date': '2021/12/19',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Oz.').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 5曲 メンバー限定', '외 5곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴singing】ウキウキなお歌【にじさんじ/シスター・クレア】',
+      '【🔴singing】 신나는 노래 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=SnLZtm7-Vhk',
+    'date': '2021/12/24',
+    'setlist': [
+      {
+        'time_vis': '0:08:07',
+        'time_query': '&t=0h08m07s',
+        'song': SongData.get('創聖のアクエリオン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:13:02',
+        'time_query': '&t=0h13m02s',
+        'song': SongData.get('ロマンスの神様').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:21:13',
+        'time_query': '&t=0h21m13s',
+        'song': SongData.get('ドライフラワー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:41',
+        'time_query': '&t=0h26m41s',
+        'song': SongData.get('Oz.').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:32:24',
+        'time_query': '&t=0h32m24s',
+        'song': SongData.get('Mela!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:51',
+        'time_query': '&t=0h39m51s',
+        'song': SongData.get('寒いね。').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:47:00',
+        'time_query': '&t=0h47m00s',
+        'song': SongData.get('ピーナッツバタージェリーラブ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:53:04',
+        'time_query': '&t=0h53m04s',
+        'song': SongData.get('Let It Go ~ありのままで~').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:58:30',
+        'time_query': '&t=0h58m30s',
+        'song': SongData.get('All I Want for Christmas Is You').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:02:54',
+        'time_query': '&t=1h02m54s',
+        'song': SongData.get('Last Christmas').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

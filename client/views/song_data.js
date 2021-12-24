@@ -6688,6 +6688,20 @@ SongData.set('Spiritual Garden', {
   'additional': [['魔法少女リリカルなのは'], ['마법소녀 리리컬 나노하']]
 })
 
+SongData.set('Mela!', {
+  'key': 'Mela!',
+  'title': ['Mela!', 'Mela!'],
+  'singer': [['緑黄色社会'], ['녹황색사회']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('寒いね。', {
+  'key': '寒いね。',
+  'title': ['寒いね。', '춥네.'],
+  'singer': [['スマイレージ'], ['스마이레이지']],
+  'additional': [[''], ['']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],
