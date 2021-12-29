@@ -6702,6 +6702,34 @@ SongData.set('寒いね。', {
   'additional': [[''], ['']]
 })
 
+SongData.set('怪物', {
+  'key': '怪物',
+  'title': ['怪物', '괴물'],
+  'singer': [['YOASOBI'], ['YOASOBI']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('もう少しだけ', {
+  'key': 'もう少しだけ',
+  'title': ['もう少しだけ', '조금만 더'],
+  'singer': [['YOASOBI'], ['YOASOBI']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('忘れな月夜', {
+  'key': '忘れな月夜',
+  'title': ['忘れな月夜', '잊지 않은 달밤'],
+  'singer': [['Sound Horizon'], ['Sound Horizon']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('北酒場', {
+  'key': '北酒場',
+  'title': ['北酒場', '북쪽 술집'],
+  'singer': [['細川たかし'], ['호소카와 타카시']],
+  'additional': [[''], ['']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],

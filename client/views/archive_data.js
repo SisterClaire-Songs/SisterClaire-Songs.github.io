@@ -25856,6 +25856,96 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴KARAOKE】歌いたいという気持ちです。【にじさんじ/シスター・クレア】',
+      '【🔴KARAOKE】 노래하고싶은 기분입니다. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=eg9a7ndUu7g',
+    'date': '2021/12/26',
+    'setlist': [
+      {
+        'time_vis': '0:08:47',
+        'time_query': '&t=0h08m47s',
+        'song': SongData.get('ループ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:20:43',
+        'time_query': '&t=0h20m43s',
+        'song': SongData.get('怪物').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:12',
+        'time_query': '&t=0h24m12s',
+        'song': SongData.get('もう少しだけ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:33',
+        'time_query': '&t=0h30m33s',
+        'song': SongData.get('Mela!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:59',
+        'time_query': '&t=0h37m59s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:42:56',
+        'time_query': '&t=0h42m56s',
+        'song': SongData.get('津軽海峡・冬景色').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:03',
+        'time_query': '&t=0h48m03s',
+        'song': SongData.get('忘れな月夜').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:08:53',
+        'time_query': '&t=1h08m53s',
+        'song': SongData.get('北酒場').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:15:38',
+        'time_query': '&t=1h15m38s',
+        'song': SongData.get('私がオバさんになっても').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
