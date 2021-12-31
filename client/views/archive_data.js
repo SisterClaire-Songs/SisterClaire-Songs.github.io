@@ -25946,6 +25946,87 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['#NJU歌謡祭2021 / 前半',
+      '#NJU가요제2021 / 전반'],
+    'url': 'https://www.youtube.com/watch?v=J2nMpqwaPIM',
+    'date': '2021/12/31',
+    'setlist': [
+      {
+        'time_vis': '1:03:42',
+        'time_query': '&t=1h03m42s',
+        'song': SongData.get('アルストロメリア').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:38:28',
+        'time_query': '&t=2h38m28s',
+        'song': SongData.get('人生はSTEP!').title,
+        'additional': [['3D 踊り'], ['3D 춤']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['#NJU歌謡祭2021 / 後半',
+      '#NJU가요제2021 / 후반'],
+    'url': 'https://www.youtube.com/watch?v=zoynMroawZw',
+    'date': '2021/12/31',
+    'setlist': [
+      {
+        'time_vis': '3:13:00',
+        'time_query': '&t=3h13m00s',
+        'song': SongData.get('Virtual to LIVE').title,
+        'additional': [['団体3D'], ['団体3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【HAPPY NEW YEAR🎈】一緒に年またぎ～！【にじさんじ/シスター・クレア】',
+      '【HAPPY NEW YEAR🎈】 함께 해 넘기기~! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=euVq8-auf-0',
+    'date': '2021/12/31',
+    'setlist': [
+      {
+        'time_vis': '0:16:06',
+        'time_query': '&t=0h16m06s',
+        'song': SongData.get('HAPPY PARTY TRAIN').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:47:35',
+        'time_query': '&t=0h47m35s',
+        'song': SongData.get('Mela!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:52:44',
+        'time_query': '&t=0h52m44s',
+        'song': SongData.get('なないろ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

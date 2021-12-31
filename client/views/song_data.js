@@ -3994,7 +3994,7 @@ SongData.set('pure♡paletワンダーランド', {
   'key': 'pure♡paletワンダーランド',
   'title': ['pure♡paletワンダーランド', 'pure♡palet 원더랜드'],
   'singer': [['シスター・クレア', '物述有栖'], ['시스터 클레어', '모노노베 아리스']],
-  'additional': [[''], ['']]
+  'additional': [['にじさんじ'], ['니지산지']]
 })
 
 SongData.set('Secret of my heart', {
@@ -5304,7 +5304,7 @@ SongData.set('ハピリリ', {
   'key': 'ハピリリ',
   'title': ['ハピリリ', '해피리리'],
   'singer': [['アルストロメリア'], ['알스트로메리아']],
-  'additional': [[''], ['']]
+  'additional': [['アイマス'], ['아이마스']]
 })
 
 SongData.set('からくりピエロ', {
@@ -6621,15 +6621,15 @@ SongData.set('Rainbow', {
 SongData.set('エトワール', {
   'key': 'エトワール',
   'title': ['エトワール', '에투알'],
-  'singer': [['cresc.'], ['cresc.']],
-  'additional': [['にじさんじ'], ['니지산지']]
+  'singer': [['シスター・クレア', '緑仙', 'ドーラ'], ['시스터 클레어', '류셴', '도라']],
+  'additional': [['にじさんじ', 'cresc.'], ['니지산지', 'cresc.']]
 })
 
 SongData.set('殺屋中毒', {
   'key': '殺屋中毒',
   'title': ['殺屋中毒', '킬러 중독'],
-  'singer': [['cresc.'], ['cresc.']],
-  'additional': [['にじさんじ'], ['니지산지']]
+  'singer': [['シスター・クレア', '緑仙', 'ドーラ'], ['시스터 클레어', '류셴', '도라']],
+  'additional': [['にじさんじ', 'cresc.'], ['니지산지', 'cresc.']]
 })
 
 // SongData.set('インモラリスト', {
@@ -6728,6 +6728,20 @@ SongData.set('北酒場', {
   'title': ['北酒場', '북쪽 술집'],
   'singer': [['細川たかし'], ['호소카와 타카시']],
   'additional': [[''], ['']]
+})
+
+SongData.set('人生はSTEP!', {
+  'key': '人生はSTEP!',
+  'title': ['人生はSTEP!', '인생은 STEP!'],
+  'singer': [['℃-ute'], ['℃-ute']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('アルストロメリア', {
+  'key': 'アルストロメリア',
+  'title': ['アルストロメリア', '알스트로메리아'],
+  'singer': [['アルストロメリア'], ['알스트로메리아']],
+  'additional': [['アイマス'], ['아이마스']]
 })
 
 // SongData.set('', {
