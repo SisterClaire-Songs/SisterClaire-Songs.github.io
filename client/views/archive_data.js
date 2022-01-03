@@ -25982,8 +25982,8 @@ const ArchiveData = [
     'date': '2021/12/31',
     'setlist': [
       {
-        'time_vis': '3:13:00',
-        'time_query': '&t=3h13m00s',
+        'time_vis': '3:12:10',
+        'time_query': '&t=3h12m10s',
         'song': SongData.get('Virtual to LIVE').title,
         'additional': [['団体3D'], ['団体3D']],
         'archive_title': ['', ''],
@@ -26021,6 +26021,87 @@ const ArchiveData = [
         'time_vis': '0:52:44',
         'time_query': '&t=0h52m44s',
         'song': SongData.get('なないろ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【歓迎🎊】２０２２年も、来ました。【にじさんじ/シスター・クレア】',
+      '【환영🎊】 2022년에도, 왔습니다. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=4qlcTKlJuCA',
+    'date': '2022/01/03',
+    'setlist': [
+      {
+        'time_vis': '0:06:23',
+        'time_query': '&t=0h06m23s',
+        'song': SongData.get('木綿のハンカチーフ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:13:30',
+        'time_query': '&t=0h13m30s',
+        'song': SongData.get('タッチ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:39',
+        'time_query': '&t=0h17m39s',
+        'song': SongData.get('ラムのラブソング').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:34',
+        'time_query': '&t=0h23m34s',
+        'song': SongData.get('デリケートに好きして').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:22',
+        'time_query': '&t=0h30m22s',
+        'song': SongData.get('うっせぇわ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:34',
+        'time_query': '&t=0h39m34s',
+        'song': SongData.get('故郷').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:46:08',
+        'time_query': '&t=0h46m08s',
+        'song': SongData.get('はっぴぃ にゅう にゃあ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:53:41',
+        'time_query': '&t=0h53m41s',
+        'song': SongData.get('Mela!').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
