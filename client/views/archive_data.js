@@ -730,7 +730,7 @@ const ArchiveData = [
       {
         'time_vis': '0:17:26',
         'time_query': '&t=0h17m26s',
-        'song': SongData.get('約束').title,
+        'song': SongData.get('約束1').title,
         'additional': [['アカペラ', '1番'], ['무반주', '1절']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -1666,7 +1666,7 @@ const ArchiveData = [
       {
         'time_vis': '0:14:48',
         'time_query': '&t=0h14m48s',
-        'song': SongData.get('約束').title,
+        'song': SongData.get('約束1').title,
         'additional': [['アカペラ', '1番'], ['무반주', '1절']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -3088,7 +3088,7 @@ const ArchiveData = [
       {
         'time_vis': '0:43:24',
         'time_query': '&t=0h43m24s',
-        'song': SongData.get('約束').title,
+        'song': SongData.get('約束1').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -9640,7 +9640,7 @@ const ArchiveData = [
       {
         'time_vis': '0:42:11',
         'time_query': '&t=0h42m11s',
-        'song': SongData.get('約束').title,
+        'song': SongData.get('約束1').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -10468,7 +10468,7 @@ const ArchiveData = [
       {
         'time_vis': '1:00:47',
         'time_query': '&t=1h00m47s',
-        'song': SongData.get('約束').title,
+        'song': SongData.get('約束1').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -15283,7 +15283,7 @@ const ArchiveData = [
       {
         'time_vis': '0:59:25',
         'time_query': '&t=0h59m25s',
-        'song': SongData.get('約束').title,
+        'song': SongData.get('約束1').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -16291,7 +16291,7 @@ const ArchiveData = [
       {
         'time_vis': '0:10:42',
         'time_query': '?t=0h10m42s',
-        'song': SongData.get('約束').title,
+        'song': SongData.get('約束1').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -17695,7 +17695,7 @@ const ArchiveData = [
       {
         'time_vis': '0:37:33',
         'time_query': '&t=0h37m33s',
-        'song': SongData.get('約束').title,
+        'song': SongData.get('約束1').title,
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -26102,6 +26102,141 @@ const ArchiveData = [
         'time_vis': '0:53:41',
         'time_query': '&t=0h53m41s',
         'song': SongData.get('Mela!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴KARAOKE】時折キャラの変わる歌枠【にじさんじ/シスター・クレア】',
+      '【🔴KARAOKE】 가끔 캐릭터가 바뀌는 노래방송 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=8Caw2KArX7s',
+    'date': '2022/01/06',
+    'setlist': [
+      {
+        'time_vis': '0:07:08',
+        'time_query': '&t=0h07m08s',
+        'song': SongData.get('Oz.').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:00',
+        'time_query': '&t=0h12m00s',
+        'song': SongData.get('春を告げる').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:18',
+        'time_query': '&t=0h17m18s',
+        'song': SongData.get('グリズリーに襲われたら♡').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:16',
+        'time_query': '&t=0h24m16s',
+        'song': SongData.get('ドライフラワー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:31:02',
+        'time_query': '&t=0h31m02s',
+        'song': SongData.get('すきっ！').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:38:08',
+        'time_query': '&t=0h38m08s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:44:33',
+        'time_query': '&t=0h44m33s',
+        'song': SongData.get('津軽海峡・冬景色').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:10',
+        'time_query': '&t=0h51m10s',
+        'song': SongData.get('U').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:54:45',
+        'time_query': '&t=0h54m45s',
+        'song': SongData.get('心のそばに').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:02:42',
+        'time_query': '&t=1h02m42s',
+        'song': SongData.get('ガーネット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:12:52',
+        'time_query': '&t=1h12m52s',
+        'song': SongData.get('For フルーツバスケット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【メンバー限定】特別な歌枠【にじさんじ/シスター・クレア】',
+      '【멤버 한정】 특별한 노래방송 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=aD4-sWRbIQk',
+    'date': '2022/01/08',
+    'setlist': [
+      {
+        'time_vis': '0:03:05',
+        'time_query': '&t=0h03m05s',
+        'song': SongData.get('トンデモワンダーズ').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:0',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 7曲 メンバー限定', '외 7곡 멤버 한정'],
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
