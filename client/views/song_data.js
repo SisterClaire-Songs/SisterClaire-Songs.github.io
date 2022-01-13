@@ -6779,6 +6779,13 @@ SongData.set('グリズリーに襲われたら♡', {
   'additional': [[''], ['']]
 })
 
+SongData.set('月に吠える', {
+  'key': '月に吠える',
+  'title': ['月に吠える', '달에 짖다'],
+  'singer': [['ヨルシカ'], ['요루시카']],
+  'additional': [[''], ['']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],

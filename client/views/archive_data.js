@@ -26243,6 +26243,123 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴KARAOKE】リクエスト有、歌枠。【にじさんじ/シスター・クレア】',
+      '【🔴KARAOKE】 리퀘스트 있음, 노래방송. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=VT4962ERFqQ',
+    'date': '2022/01/13',
+    'setlist': [
+      {
+        'time_vis': '0:08:07',
+        'time_query': '&t=0h08m07s',
+        'song': SongData.get('いのちの名前').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:58',
+        'time_query': '&t=0h12m58s',
+        'song': SongData.get('変わらないもの').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:32',
+        'time_query': '&t=0h19m32s',
+        'song': SongData.get('ヨワネハキ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:22:30',
+        'time_query': '&t=0h22m30s',
+        'song': SongData.get('やさしさに包まれたなら').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:28:12',
+        'time_query': '&t=0h28m12s',
+        'song': SongData.get('赤いスイートピー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:36:21',
+        'time_query': '&t=0h36m21s',
+        'song': SongData.get('月に吠える').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:23',
+        'time_query': '&t=0h41m23s',
+        'song': SongData.get('愛を伝えたいだとか').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:20',
+        'time_query': '&t=0h51m20s',
+        'song': SongData.get('月のワルツ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:03:02',
+        'time_query': '&t=1h03m02s',
+        'song': SongData.get('セーラースターソング').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:09:32',
+        'time_query': '&t=1h09m32s',
+        'song': SongData.get('そばかす').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:50',
+        'time_query': '&t=1h16m50s',
+        'song': SongData.get('ダイアモンド クレバス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:27:34',
+        'time_query': '&t=1h27m34s',
+        'song': SongData.get('Mela!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
