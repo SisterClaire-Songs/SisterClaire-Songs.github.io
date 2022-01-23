@@ -26360,6 +26360,114 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴KARAOKE STEREAM】朝、です❕❕【にじさんじ/シスター・クレア】',
+      '【🔴KARAOKE STEREAM】 아침, 입니다❕❕ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=ww-1cYVtNHA',
+    'date': '2022/01/20',
+    'setlist': [
+      {
+        'time_vis': '0:09:55',
+        'time_query': '&t=0h09m55s',
+        'song': SongData.get('トンデモワンダーズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:12',
+        'time_query': '&t=0h16m12s',
+        'song': SongData.get('からくりピエロ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:22:59',
+        'time_query': '&t=0h22m59s',
+        'song': SongData.get('フラジール').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:27:28',
+        'time_query': '&t=0h27m28s',
+        'song': SongData.get('メランコリック').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:36',
+        'time_query': '&t=0h37m36s',
+        'song': SongData.get('ドレミファロンド').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:42:10',
+        'time_query': '&t=0h42m10s',
+        'song': SongData.get('ロミオとシンデレラ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:51:02',
+        'time_query': '&t=0h51m02s',
+        'song': SongData.get('ミラクルペイント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:01:47',
+        'time_query': '&t=1h01m47s',
+        'song': SongData.get('童話迷宮').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:06:48',
+        'time_query': '&t=1h06m48s',
+        'song': SongData.get('怪物').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:30',
+        'time_query': '&t=1h16m30s',
+        'song': SongData.get('ハピリリ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:26:55',
+        'time_query': '&t=1h26m55s',
+        'song': SongData.get('Mela!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
