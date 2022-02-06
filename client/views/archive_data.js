@@ -26234,7 +26234,7 @@ const ArchiveData = [
         'archive_date': ''
       },
       {
-        'time_vis': '0:00:0',
+        'time_vis': '0:00:00',
         'time_query': '&t=0h00m00s',
         'song': ['外 7曲 メンバー限定', '외 7곡 멤버 한정'],
         'additional': [[''], ['']],
@@ -26463,6 +26463,51 @@ const ArchiveData = [
         'time_query': '&t=1h26m55s',
         'song': SongData.get('Mela!').title,
         'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【メンバー限定】歌う！！【にじさんじ/シスター・クレア】',
+      '【멤버 한정】 노래해요!! 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=0Iy1D_iXO6U',
+    'date': '2022/02/01',
+    'setlist': [
+      {
+        'time_vis': '0:05:52',
+        'time_query': '&t=0h05m52s',
+        'song': SongData.get('硝子の棺で眠る姫君').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 3曲 メンバー限定', '외 3곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【15人合唱】M@GIC☆ (cover)【にじさんじ4th Anniversary】',
+      '【15인 합창】 M@GIC☆ (cover) 【니지산지 4th Anniversary】'],
+    'url': 'https://www.youtube.com/watch?v=g3j7rFc6HYA',
+    'date': '2022/02/03',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('M@GIC☆').title,
+        'additional': [['歌動画'], ['노래 영상']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''

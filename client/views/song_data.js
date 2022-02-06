@@ -6786,6 +6786,13 @@ SongData.set('月に吠える', {
   'additional': [[''], ['']]
 })
 
+// SongData.set('エルの楽園[→side:A→]', {
+//   'key': 'エルの楽園[→side:A→]',
+//   'title': ['エルの楽園[→side:A→]', '엘의 낙원[→side:A→]'],
+//   'singer': [['Sound Horizon'], ['Sound Horizon']],
+//   'additional': [[''], ['']]
+// })
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],
