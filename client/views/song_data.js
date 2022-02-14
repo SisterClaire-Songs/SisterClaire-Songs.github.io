@@ -4710,9 +4710,9 @@ SongData.set('甲賀忍法帖', {
   'additional': [['バジリスク ~甲賀忍法帖~'], ['바질리스크 ~코우가인법첩~']]
 })
 
-SongData.set('Melt Bitter', {
-  'key': 'Melt Bitter',
-  'title': ['Melt Bitter', 'Melt Bitter'],
+SongData.set('melt bitter', {
+  'key': 'melt bitter',
+  'title': ['melt bitter', 'melt bitter'],
   'singer': [['さとうもか'], ['설탕모카']],
   'additional': [[''], ['']]
 })
@@ -6792,6 +6792,41 @@ SongData.set('月に吠える', {
 //   'singer': [['Sound Horizon'], ['Sound Horizon']],
 //   'additional': [[''], ['']]
 // })
+
+SongData.set('シトラスは片思い', {
+  'key': 'シトラスは片思い',
+  'title': ['シトラスは片思い', '시트러스는 짝사랑'],
+  'singer': [['Ci+LUS'], ['Ci+LUS']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('最悪な日でもあなたが好き。', {
+  'key': '最悪な日でもあなたが好き。',
+  'title': ['最悪な日でもあなたが好き。', '최악의 날이어도 당신이 좋아.'],
+  'singer': [['芹澤優'], ['세리자와 유우']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ワタシ・愛・ForU!!', {
+  'key': 'ワタシ・愛・ForU!!',
+  'title': ['ワタシ・愛・ForU!!', '나・사랑・ForU!!'],
+  'singer': [['4U'], ['4U']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ミッドナイトをかけぬけて', {
+  'key': 'ミッドナイトをかけぬけて',
+  'title': ['ミッドナイトをかけぬけて', '미드나이트를 달려나가서'],
+  'singer': [['コレサワ'], ['코레사와']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('チョコレート・ディスコ', {
+  'key': 'チョコレート・ディスコ',
+  'title': ['チョコレート・ディスコ', '초콜릿 디스코'],
+  'singer': [['Perfume'], ['Perfume']],
+  'additional': [[''], ['']]
+})
 
 // SongData.set('', {
 //   'key': '',

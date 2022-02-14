@@ -12223,7 +12223,7 @@ const ArchiveData = [
       {
         'time_vis': '0:48:40',
         'time_query': '&t=0h48m40s',
-        'song': SongData.get('Melt Bitter').title,
+        'song': SongData.get('melt bitter').title,
         'additional': [['アカペラ', '一部だけ'], ['무반주', '일부분만']],
         'archive_title': ['', ''],
         'archive_url': '',
@@ -26508,6 +26508,141 @@ const ArchiveData = [
         'time_query': '&t=0h00m00s',
         'song': SongData.get('M@GIC☆').title,
         'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【バレンタイン💝】あま～い歌をお届けします♡【にじさんじ/シスター・クレア】',
+      '【발렌타인💝】 달콤~한 노래를 전해드립니다♡ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=W-5GWP9CXiU',
+    'date': '2022/02/14',
+    'setlist': [
+      {
+        'time_vis': '0:05:17',
+        'time_query': '&t=0h05m17s',
+        'song': SongData.get('バレンタイン・キッス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:08:58',
+        'time_query': '&t=0h08m58s',
+        'song': SongData.get('トリセツ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:20:11',
+        'time_query': '&t=0h20m11s',
+        'song': SongData.get('ラブレター').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:51',
+        'time_query': '&t=0h24m51s',
+        'song': SongData.get('Baby Sweet Berry Love').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:29:51',
+        'time_query': '&t=0h29m51s',
+        'song': SongData.get('シトラスは片思い').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:50',
+        'time_query': '&t=0h34m50s',
+        'song': SongData.get('Catch me Cats me').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:48',
+        'time_query': '&t=0h39m48s',
+        'song': SongData.get('天使のウィンク').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:49:03',
+        'time_query': '&t=0h49m03s',
+        'song': SongData.get('melt bitter').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:06',
+        'time_query': '&t=0h55m06s',
+        'song': SongData.get('だってあなたはプリンセス').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:01:10',
+        'time_query': '&t=1h01m10s',
+        'song': SongData.get('最悪な日でもあなたが好き。').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:06:14',
+        'time_query': '&t=1h06m14s',
+        'song': SongData.get('ワタシ・愛・ForU!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:11:55',
+        'time_query': '&t=1h11m55s',
+        'song': SongData.get('ミッドナイトをかけぬけて').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:15:37',
+        'time_query': '&t=1h15m37s',
+        'song': SongData.get('恋したらベイベー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:21:14',
+        'time_query': '&t=1h21m14s',
+        'song': SongData.get('チョコレート・ディスコ').title,
+        'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
