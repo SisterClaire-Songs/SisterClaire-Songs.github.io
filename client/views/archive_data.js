@@ -26648,6 +26648,159 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【MemberONLY】♡♡♡【にじさんじ/シスター・クレア】',
+      '【MemberONLY】♡♡♡【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=uihFcwpRz4Y',
+    'date': '2022/02/18',
+    'setlist': [
+      {
+        'time_vis': '0:23:45',
+        'time_query': '&t=0h23m45s',
+        'song': SongData.get('アルデバラン').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 3曲 メンバー限定', '외 3곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴KARAOKE Steream】歌いたい❕❕【にじさんじ/シスター・クレア】',
+      '【🔴KARAOKE Steream】 노래하고싶어❕❕ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=SE3Xfbv9D4Y',
+    'date': '2022/02/19',
+    'setlist': [
+      {
+        'time_vis': '0:04:39',
+        'time_query': '&t=0h04m39s',
+        'song': SongData.get('春擬き').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:09:55',
+        'time_query': '&t=0h09m55s',
+        'song': SongData.get('ライオン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:16:22',
+        'time_query': '&t=0h16m22s',
+        'song': SongData.get('GO! GO! MANIAC').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:28:56',
+        'time_query': '&t=0h28m56s',
+        'song': SongData.get('シル・ヴ・プレジデント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:04',
+        'time_query': '&t=0h37m04s',
+        'song': SongData.get('You make me happy!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:59',
+        'time_query': '&t=0h41m59s',
+        'song': SongData.get('H@ppy Together!!!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:20',
+        'time_query': '&t=0h56m20s',
+        'song': SongData.get('Mani Mani (Prod. TAKU INOUE)').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:07:20',
+        'time_query': '&t=1h07m20s',
+        'song': SongData.get('ドライフラワー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:18:04',
+        'time_query': '&t=1h18m04s',
+        'song': SongData.get('マジLOVE1000%').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:26:15',
+        'time_query': '&t=1h26m15s',
+        'song': SongData.get('U').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:42:11',
+        'time_query': '&t=1h42m11s',
+        'song': SongData.get('Mela!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【MemberONLY】♡♡♡【にじさんじ/シスター・クレア】',
+      '【MemberONLY】♡♡♡【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=ReOc0Zw-RJ8',
+    'date': '2022/03/01',
+    'setlist': [
+      {
+        'time_vis': '0:15:54',
+        'time_query': '&t=0h15m54s',
+        'song': SongData.get('Zzz').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

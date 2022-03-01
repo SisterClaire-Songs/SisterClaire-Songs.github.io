@@ -6828,6 +6828,27 @@ SongData.set('チョコレート・ディスコ', {
   'additional': [[''], ['']]
 })
 
+SongData.set('Mani Mani (Prod. TAKU INOUE)', {
+  'key': 'Mani Mani (Prod. TAKU INOUE)',
+  'title': ['Mani Mani (Prod. TAKU INOUE)', 'Mani Mani (Prod. TAKU INOUE)'],
+  'singer': [['東雲和音(CV.天音みほ)'], ['시노노메 카즈네(CV.아마네 미호)']],
+  'additional': [['電音部'], ['전음부']]
+})
+
+// SongData.set('Haiiro no kokoro (Prod. パソコン音楽クラブ)', {
+//   'key': 'Haiiro no kokoro (Prod. パソコン音楽クラブ)',
+//   'title': ['Haiiro no kokoro (Prod. パソコン音楽クラブ)', 'Haiiro no kokoro (Prod. 컴퓨터음악클럽)'],
+//   'singer': [['灰島銀華(CV.澁谷梓希)'], ['하이지마 긴카(CV.시부야 아즈키)']],
+//   'additional': [['電音部'], ['전음부']]
+// })
+
+SongData.set('アルデバラン', {
+  'key': 'アルデバラン',
+  'title': ['アルデバラン', '알데바란'],
+  'singer': [['AI'], ['AI']],
+  'additional': [[''], ['']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],
