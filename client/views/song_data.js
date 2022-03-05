@@ -4282,6 +4282,13 @@ SongData.set('カレンダーガール', {
   'additional': [['アイカツ!'], ['아이카츠!']]
 })
 
+SongData.set('Wake up my music', {
+  'key': 'Wake up my music',
+  'title': ['Wake up my music', 'Wake up my music'],
+  'singer': [['りさ・えいみ'], ['리사・에이미']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
 SongData.set('FRUITS CANDY', {
   'key': 'FRUITS CANDY',
   'title': ['FRUITS CANDY', 'FRUITS CANDY'],

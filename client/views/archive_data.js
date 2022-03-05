@@ -26801,6 +26801,159 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴歌枠】歌います！/ KARAOKE stream【にじさんじ/シスター・クレア】',
+      '【🔴노래방송】 노래합니다! / KARAOKE stream 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=6SNPWfsiNR8',
+    'date': '2022/03/04',
+    'setlist': [
+      {
+        'time_vis': '0:03:11',
+        'time_query': '&t=0h03m11s',
+        'song': SongData.get('学園天国').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:08:30',
+        'time_query': '&t=0h08m30s',
+        'song': SongData.get('サマータイムラブ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:15:29',
+        'time_query': '&t=0h15m29s',
+        'song': SongData.get('ロマンスの神様').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:25:20',
+        'time_query': '&t=0h25m20s',
+        'song': SongData.get('Super Special Day').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:31:05',
+        'time_query': '&t=0h31m05s',
+        'song': SongData.get('Part of Your World').title,
+        'additional': [['日本語'], ['일본어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:38:39',
+        'time_query': '&t=0h38m39s',
+        'song': SongData.get('Secret Garden').title,
+        'additional': [['韓国語'], ['한국어']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:44:50',
+        'time_query': '&t=0h44m50s',
+        'song': SongData.get('可愛くなりたい').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:52:40',
+        'time_query': '&t=0h52m40s',
+        'song': SongData.get('メランコリック').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:58:13',
+        'time_query': '&t=0h58m13s',
+        'song': SongData.get('ハッピーシンセサイザ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:06:31',
+        'time_query': '&t=1h06m31s',
+        'song': SongData.get('変わらないもの').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:16:05',
+        'time_query': '&t=1h16m05s',
+        'song': SongData.get('空色デイズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:25:04',
+        'time_query': '&t=1h25m04s',
+        'song': SongData.get('1・2・3').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:37:36',
+        'time_query': '&t=1h37m36s',
+        'song': SongData.get('Trap of Love').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:47:42',
+        'time_query': '&t=1h47m42s',
+        'song': SongData.get('For フルーツバスケット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:56:00',
+        'time_query': '&t=1h56m00s',
+        'song': SongData.get('花ざかりWeekend✿').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '2:00:51',
+        'time_query': '&t=2h00m51s',
+        'song': SongData.get('Wake up my music').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
