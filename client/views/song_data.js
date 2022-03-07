@@ -6856,6 +6856,13 @@ SongData.set('アルデバラン', {
   'additional': [[''], ['']]
 })
 
+SongData.set('ただ君に晴れ', {
+  'key': 'ただ君に晴れ',
+  'title': ['ただ君に晴れ', '그저 네게 맑아라.'],
+  'singer': [['ヨルシカ'], ['요루시카']],
+  'additional': [[''], ['']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],

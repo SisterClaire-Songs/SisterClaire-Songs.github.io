@@ -26954,6 +26954,141 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【MemberONLY】♡♡歌♡♡【にじさんじ/シスター・クレア】',
+      '【MemberONLY】♡♡노래♡♡【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=9PcgqQ8wM8U',
+    'date': '2022/03/06',
+    'setlist': [
+      {
+        'time_vis': '0:09:36',
+        'time_query': '&t=0h09m36s',
+        'song': SongData.get('風になる').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 2曲 メンバー限定', '외 2곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴歌枠】歌います！/ KARAOKE stream【にじさんじ/シスター・クレア】',
+      '【🔴노래방송】 노래합니다! / KARAOKE stream 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=zLbwXslYyWU',
+    'date': '2022/03/07',
+    'setlist': [
+      {
+        'time_vis': '0:04:37',
+        'time_query': '&t=0h04m37s',
+        'song': SongData.get('故郷').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:07:07',
+        'time_query': '&t=0h07m07s',
+        'song': SongData.get('旅立ちの日に').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:14:54',
+        'time_query': '&t=0h14m54s',
+        'song': SongData.get('さくら').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:22:40',
+        'time_query': '&t=0h22m40s',
+        'song': SongData.get('春を告げる').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:10',
+        'time_query': '&t=0h26m10s',
+        'song': SongData.get('愛を伝えたいだとか').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:33:22',
+        'time_query': '&t=0h33m22s',
+        'song': SongData.get('プラチナ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:41:17',
+        'time_query': '&t=0h41m17s',
+        'song': SongData.get('そばかす').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:48:22',
+        'time_query': '&t=0h48m22s',
+        'song': SongData.get('ただ君に晴れ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:56',
+        'time_query': '&t=0h56m56s',
+        'song': SongData.get('君の知らない物語').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:07:05',
+        'time_query': '&t=1h07m05s',
+        'song': SongData.get('シンフォニー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:21:13',
+        'time_query': '&t=1h21m13s',
+        'song': SongData.get('アルデバラン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
