@@ -6863,6 +6863,35 @@ SongData.set('ただ君に晴れ', {
   'additional': [[''], ['']]
 })
 
+SongData.set('群青', {
+  'key': '群青',
+  'title': ['群青', '군청'],
+  'singer': [['YOASOBI'], ['YOASOBI']],
+  'additional': [[''], ['']]
+})
+
+// SongData.set('シロプスα (feat. 安藤啓希)', {
+//   'key': 'シロプスα (feat. 安藤啓希)',
+//   'title': ['シロプスα (feat. 安藤啓希)', '시로프스α (feat. 안도 히로키)'],
+//   'singer': [['桜乃美々兎(CV.小坂井祐莉絵)', '水上雛(CV.大森日雅)', '犬吠埼紫杏(CV.長谷川玲奈)'],
+//     ['사쿠라이 미미토(CV.코자카이 유리에)', '미나카미 히나(CV.오오모리 니치카)', '이누보사키 시안(CV.하세가와 레나)']],
+//   'additional': [['電音部'], ['전음부']]
+// })
+
+// SongData.set('時を刻む唄', {
+//   'key': '時を刻む唄',
+//   'title': ['時を刻む唄', '시간을 새기는 노래'],
+//   'singer': [['Lia'], ['Lia']],
+//   'additional': [['CLANNAD'], ['CLANNAD']]
+// })
+
+SongData.set('ひよこのうた', {
+  'key': 'ひよこのうた',
+  'title': ['ひよこのうた', '병아리의 노래'],
+  'singer': [['Le☆S☆Ca'], ['Le☆S☆Ca']],
+  'additional': [[''], ['']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],

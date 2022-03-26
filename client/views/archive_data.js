@@ -27089,6 +27089,177 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['ストレス発散にお付き合い願えないだろうか・・・',
+      '스트레스 발산하는 데 함께 해주실 수 있을까요...'],
+    'url': 'https://www.youtube.com/watch?v=MpDxmYm7wII',
+    'date': '2022/03/12',
+    'setlist': [
+      {
+        'time_vis': '0:03:15',
+        'time_query': '&t=0h03m15s',
+        'song': SongData.get('怪物').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 12曲 メンバー限定', '외 12곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['きいてきいて～！',
+      '들어줘 들어줘~!'],
+    'url': 'https://www.youtube.com/watch?v=ykESYv0V7ag',
+    'date': '2022/03/13',
+    'setlist': [
+      {
+        'time_vis': '0:31:12',
+        'time_query': '&t=0h31m12s',
+        'song': SongData.get('群青').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['父さん、これからは歌はアーカイブなしでやっていこうと思うんだ。',
+      '아빠는, 이제부터 노래는 아카이브 없이 해 나가려고 생각하고 있어.'],
+    'url': 'https://www.youtube.com/watch?v=-KpK9kiF_l8',
+    'date': '2022/03/15',
+    'setlist': [
+      {
+        'time_vis': '0:09:52',
+        'time_query': '&t=0h09m52s',
+        'song': SongData.get('カブトムシ').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 12曲 メンバー限定', '외 12곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['歌いながらサムネとか準備するよ。',
+      '노래하면서 섬네일이라거나 준비해요'],
+    'url': 'https://www.youtube.com/watch?v=p78ozjzQ0uU',
+    'date': '2022/03/21',
+    'setlist': [
+      {
+        'time_vis': '0:09:09',
+        'time_query': '&t=0h09m09s',
+        'song': SongData.get('チカっとチカ千花っ♡').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 2曲 メンバー限定', '외 2곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴歌】アーカイブはない。【にじさんじ/シスター・クレア】',
+      '【🔴노래】 아카이브는 없습니다. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=7IDIP1G69MY',
+    'date': '2022/03/24',
+    'setlist': [
+      {
+        'time_vis': '0:09:55',
+        'time_query': '&t=0h09m55s',
+        'song': SongData.get('やさしさに包まれたなら').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 9曲 メンバー限定', '외 9곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['ひよこのうた(coverd by Bloom♡)',
+      '병아리의 노래 (coverd by Bloom♡)'],
+    'url': 'https://www.youtube.com/watch?v=ZLP8LLH_1es',
+    'date': '2022/03/25',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('ひよこのうた').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【メンバー限定】いつもありがとう♡リクエスト歌枠！',
+      '【멤버 한정】 언제나 고마워요♡ 리퀘스트 노래방송!'],
+    'url': 'https://www.youtube.com/watch?v=dqU25B84xh8',
+    'date': '2022/03/26',
+    'setlist': [
+      {
+        'time_vis': '0:02:24',
+        'time_query': '&t=0h02m24s',
+        'song': SongData.get('ススメ→トゥモロウ').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 19曲 メンバー限定', '외 19곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
