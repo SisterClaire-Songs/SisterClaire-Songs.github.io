@@ -27260,6 +27260,33 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【KARAOKE】アーカイブは残さない方針【にじさんじ/シスター・クレア】',
+      '【KARAOKE】 아카이브는 남기지 않는 방침 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=Z21xcBd-i20',
+    'date': '2022/04/02',
+    'setlist': [
+      {
+        'time_vis': '0:04:23',
+        'time_query': '&t=0h04m23s',
+        'song': SongData.get('Palette').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 10曲 メンバー限定', '외 10곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
