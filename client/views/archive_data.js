@@ -27287,6 +27287,33 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【メンバー限定】♥♥♥',
+      '【멤버 한정】 ♥♥♥'],
+    'url': 'https://www.youtube.com/watch?v=Jk-O6e3bvqc',
+    'date': '2022/04/12',
+    'setlist': [
+      {
+        'time_vis': '0:14:53',
+        'time_query': '&t=0h14m53s',
+        'song': SongData.get('扉をあけて').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 3曲 メンバー限定', '외 3곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
