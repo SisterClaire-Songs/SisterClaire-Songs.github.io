@@ -27314,6 +27314,114 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴歌】放課後はカラオケしたい【にじさんじ/シスター・クレア】',
+      '【🔴노래】 방과후에는 노래방이 가고싶어 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=oMdokg4G9uw',
+    'date': '2022/04/14',
+    'setlist': [
+      {
+        'time_vis': '0:04:54',
+        'time_query': '&t=0h04m54s',
+        'song': SongData.get('雨のパンセ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:55',
+        'time_query': '&t=0h12m55s',
+        'song': SongData.get('雨とカプチーノ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:19:30',
+        'time_query': '&t=0h19m30s',
+        'song': SongData.get('ひよこのうた').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:27:35',
+        'time_query': '&t=0h27m35s',
+        'song': SongData.get('Catch You Catch Me').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:35:31',
+        'time_query': '&t=0h35m31s',
+        'song': SongData.get('innocent starter').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:40:32',
+        'time_query': '&t=0h40m32s',
+        'song': SongData.get('自分REST@RT').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:49:16',
+        'time_query': '&t=0h49m16s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:55:30',
+        'time_query': '&t=0h55m30s',
+        'song': SongData.get('空色デイズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:05:48',
+        'time_query': '&t=1h05m48s',
+        'song': SongData.get('禁じられた遊び').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:12:08',
+        'time_query': '&t=1h12m08s',
+        'song': SongData.get('1・2・3').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:25:30',
+        'time_query': '&t=1h25m30s',
+        'song': SongData.get('約束1').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
