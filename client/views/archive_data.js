@@ -27422,6 +27422,51 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔴朝歌】いってらっしゃいのうた。【にじさんじ/シスター・クレア】',
+      '【🔴아침노래】 다녀오세요의 노래 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=4ScLJ6MhRFg',
+    'date': '2022/04/26',
+    'setlist': [
+      {
+        'time_vis': '0:01:38',
+        'time_query': '&t=0h01m38s',
+        'song': SongData.get('ありがとう').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:08:46',
+        'time_query': '&t=0h08m46s',
+        'song': SongData.get('やさしさに包まれたなら').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:12:14',
+        'time_query': '&t=0h12m14s',
+        'song': SongData.get('CLEAR').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:34',
+        'time_query': '&t=0h17m34s',
+        'song': SongData.get('マジックナンバー').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
