@@ -27467,6 +27467,78 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔔歌】あなたをおくる歌。【にじさんじ/シスター・クレア】',
+      '【🔔노래】 당신을 보내는 노래. 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=ARItxIkWAY8',
+    'date': '2022/04/30',
+    'setlist': [
+      {
+        'time_vis': '0:01:27',
+        'time_query': '&t=0h01m27s',
+        'song': SongData.get('For フルーツバスケット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:06:54',
+        'time_query': '&t=0h06m54s',
+        'song': SongData.get('ありがとう').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:14:15',
+        'time_query': '&t=0h14m15s',
+        'song': SongData.get('境界の彼方').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:24:59',
+        'time_query': '&t=0h24m59s',
+        'song': SongData.get('青空のラプソディ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【メンバー限定】♥♥♥',
+      '【멤버 한정】 ♥♥♥'],
+    'url': 'https://www.youtube.com/watch?v=OUBHQnrC6Fg',
+    'date': '2022/05/04',
+    'setlist': [
+      {
+        'time_vis': '0:01:52',
+        'time_query': '&t=0h01m52s',
+        'song': SongData.get('秘密の扉から会いにきて').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 4曲 メンバー限定', '외 4곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

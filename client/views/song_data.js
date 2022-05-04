@@ -6878,6 +6878,14 @@ SongData.set('群青', {
 //   'additional': [['電音部'], ['전음부']]
 // })
 
+// SongData.set('Hyper Bass(feat. Yunomi)', {
+//   'key': 'Hyper Bass(feat. Yunomi)',
+//   'title': ['Hyper Bass(feat. Yunomi)', 'Hyper Bass(feat. Yunomi)'],
+//   'singer': [['桜乃美々兎(CV.小坂井祐莉絵)', '水上雛(CV.大森日雅)', '犬吠埼紫杏(CV.長谷川玲奈)'],
+//     ['사쿠라이 미미토(CV.코자카이 유리에)', '미나카미 히나(CV.오오모리 니치카)', '이누보사키 시안(CV.하세가와 레나)']],
+//   'additional': [['電音部'], ['전음부']]
+// })
+
 // SongData.set('時を刻む唄', {
 //   'key': '時を刻む唄',
 //   'title': ['時を刻む唄', '시간을 새기는 노래'],
