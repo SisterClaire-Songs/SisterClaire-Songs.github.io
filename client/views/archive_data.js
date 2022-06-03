@@ -25985,7 +25985,7 @@ const ArchiveData = [
         'time_vis': '3:12:10',
         'time_query': '&t=3h12m10s',
         'song': SongData.get('Virtual to LIVE').title,
-        'additional': [['団体3D'], ['団体3D']],
+        'additional': [['団体3D'], ['단체3D']],
         'archive_title': ['', ''],
         'archive_url': '',
         'archive_date': ''
@@ -27533,6 +27533,123 @@ const ArchiveData = [
         'time_vis': '0:00:00',
         'time_query': '&t=0h00m00s',
         'song': ['外 4曲 メンバー限定', '외 4곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【メンバー限定】♥♥♥',
+      '【멤버 한정】 ♥♥♥'],
+    'url': 'https://www.youtube.com/watch?v=W91uSowGTB4',
+    'date': '2022/05/08',
+    'setlist': [
+      {
+        'time_vis': '0:02:22',
+        'time_query': '&t=0h02m22s',
+        'song': SongData.get('カブトムシ').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 6曲 メンバー限定', '외 6곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【メン限】♡♡♡【にじさんじ/シスター・クレア】',
+      '【멘겐】 ♡♡♡ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=xEjSyQGWFA8',
+    'date': '2022/05/13',
+    'setlist': [
+      {
+        'time_vis': '0:08:57',
+        'time_query': '&t=0h08m57s',
+        'song': SongData.get('カタオモイ').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 7曲 メンバー限定', '외 7곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【メン限】♡♡♡【にじさんじ/シスター・クレア】',
+      '【멘겐】 ♡♡♡ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=xrs0Exdw4Gw',
+    'date': '2022/05/15',
+    'setlist': [
+      {
+        'time_vis': '0:20:47',
+        'time_query': '&t=0h20m47s',
+        'song': SongData.get('シロプスα (feat. 安藤啓希)').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【＃レヴィ3周年】亜人が一人で歌わないライブ！【にじさんじ/レヴィ・エリファ】',
+      '【＃레비3주년】 아인이 혼자서 노래하지 않는 라이브! 【니지산지 / 레비 에리파】'],
+    'url': 'https://www.youtube.com/watch?v=7gRde0xfa-A',
+    'date': '2022/05/22',
+    'setlist': [
+      {
+        'time_vis': '0:30:48',
+        'time_query': '&t=0h30m48s',
+        'song': SongData.get('You & Me').title,
+        'additional': [['レヴィ 3D'], ['레비 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【メンバー限定】覚えたてのうたをうたったりしたい。',
+      '【멤버 한정】 배운지 얼마 안 된 노래를 노래하거나 하고 싶어'],
+    'url': 'https://www.youtube.com/watch?v=GAoMbmssHOY',
+    'date': '2022/05/28',
+    'setlist': [
+      {
+        'time_vis': '0:04:36',
+        'time_query': '&t=0h04m36s',
+        'song': SongData.get('からくりピエロ').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 5曲 メンバー限定', '외 5곡 멤버 한정'],
         'additional': [[''], ['']],
         'archive_title': ['', ''],
         'archive_url': '',
