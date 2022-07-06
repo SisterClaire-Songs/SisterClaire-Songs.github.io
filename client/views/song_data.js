@@ -6914,12 +6914,12 @@ SongData.set('ひよこのうた', {
 //   'additional': [['涼宮ハルヒ'], ['스즈미야 하루히']]
 // })
 
-// SongData.set('少女レイ', {
-//   'key': '少女レイ',
-//   'title': ['少女レイ', '소녀 레이'],
-//   'singer': [['みきとP'], ['みきとP']],
-//   'additional': [['ボーカロイド'], ['보컬로이드']]
-// })
+SongData.set('少女レイ', {
+  'key': '少女レイ',
+  'title': ['少女レイ', '소녀 레이'],
+  'singer': [['みきとP'], ['みきとP']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
 
 // SongData.set('Milky Timeline (Prod. Nor)', {
 //   'key': 'Milky Timeline (Prod. Nor)',
@@ -6941,6 +6941,48 @@ SongData.set('ひよこのうた', {
 //   'singer': [['コレサワ'], ['코레사와']],
 //   'additional': [[''], ['']]
 // })
+
+SongData.set('限りなく灰色へ', {
+  'key': '限りなく灰色へ',
+  'title': ['限りなく灰色へ', '끝없이 잿빛으로'],
+  'singer': [['すりぃ'], ['스리이']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('from Y to Y', {
+  'key': 'from Y to Y',
+  'title': ['from Y to Y', 'from Y to Y'],
+  'singer': [['ジミーサムP'], ['지미섬P']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
+SongData.set('Dance My Generation', {
+  'key': 'Dance My Generation',
+  'title': ['Dance My Generation', 'Dance My Generation'],
+  'singer': [['ゴールデンボンバー'], ['골든 봄버']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('やんややんやNight ~踊ろよ東京~', {
+  'key': 'やんややんやNight ~踊ろよ東京~',
+  'title': ['やんややんやNight ~踊ろよ東京~', '얀야얀야 Night ~춤추자 도쿄~'],
+  'singer': [['ゴールデンボンバー'], ['골든 봄버']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('女々しくて', {
+  'key': '女々しくて',
+  'title': ['女々しくて', '여자같아서'],
+  'singer': [['ゴールデンボンバー'], ['골든 봄버']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('You Are The Light', {
+  'key': 'You Are The Light',
+  'title': ['You Are The Light', 'You Are The Light'],
+  'singer': [['電音部'], ['전음부']],
+  'additional': [['電音部'], ['전음부']]
+})
 
 // SongData.set('', {
 //   'key': '',

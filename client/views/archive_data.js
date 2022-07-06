@@ -27656,6 +27656,321 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【🔔歌枠】これが金賞受賞の歌枠か～【にじさんじ/シスター・クレア】',
+      '【🔔노래방송】 이게 금상 수상의 노래방송인가~ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=pT3NUNQddb4',
+    'date': '2022/06/04',
+    'setlist': [
+      {
+        'time_vis': '0:09:01',
+        'time_query': '&t=0h09m01s',
+        'song': SongData.get('メランコリック').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:05',
+        'time_query': '&t=0h17m05s',
+        'song': SongData.get('ハッピーシンセサイザ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:23:02',
+        'time_query': '&t=0h23m02s',
+        'song': SongData.get('スイートマジック').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:31:12',
+        'time_query': '&t=0h31m12s',
+        'song': SongData.get('ロミオとシンデレラ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:55',
+        'time_query': '&t=0h37m55s',
+        'song': SongData.get('ミラクルペイント').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:43:31',
+        'time_query': '&t=0h43m31s',
+        'song': SongData.get('少女レイ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:56:29',
+        'time_query': '&t=0h56m29s',
+        'song': SongData.get('ハロ／ハワユ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:04:47',
+        'time_query': '&t=1h04m47s',
+        'song': SongData.get('ワールドイズマイン').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:10:29',
+        'time_query': '&t=1h10m29s',
+        'song': SongData.get('歌に形はないけれど').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:22:28',
+        'time_query': '&t=1h22m28s',
+        'song': SongData.get('from Y to Y').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:30:16',
+        'time_query': '&t=1h30m16s',
+        'song': SongData.get('いーあるふぁんくらぶ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:37:17',
+        'time_query': '&t=1h37m17s',
+        'song': SongData.get('＊ハロー、プラネット。').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:43:02',
+        'time_query': '&t=1h43m02s',
+        'song': SongData.get('メルト').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:50:25',
+        'time_query': '&t=1h50m25s',
+        'song': SongData.get('フラジール').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:56:05',
+        'time_query': '&t=1h56m05s',
+        'song': SongData.get('からくりピエロ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【メンバー限定】秘密の特訓をしたい。',
+      '【멤버 한정】 비밀의 특훈을 하고 싶어.'],
+    'url': 'https://www.youtube.com/watch?v=3K6NWkx_o_I',
+    'date': '2022/06/07',
+    'setlist': [
+      {
+        'time_vis': '0:05:38',
+        'time_query': '&t=0h05m38s',
+        'song': SongData.get('限りなく灰色へ').title,
+        'additional': [['メンバー限定', 'アカペラ'], ['멤버 한정', '무반주']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 1曲 メンバー限定', '외 1곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【🔴歌】最近プロセカにはまっている人の歌枠【にじさんじ/シスター・クレア】',
+      '【🔴노래】 최근 프로세카에 빠져있는 사람의 노래방송 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=lMuY5aE9lfY',
+    'date': '2022/06/07',
+    'setlist': [
+      {
+        'time_vis': '0:09:20',
+        'time_query': '&t=0h09m20s',
+        'song': SongData.get('フラジール').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:13',
+        'time_query': '&t=0h17m13s',
+        'song': SongData.get('限りなく灰色へ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:25:04',
+        'time_query': '&t=0h25m04s',
+        'song': SongData.get('トンデモワンダーズ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:42',
+        'time_query': '&t=0h30m42s',
+        'song': SongData.get('少女レイ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:40:13',
+        'time_query': '&t=0h40m13s',
+        'song': SongData.get('ハロ／ハワユ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:46:36',
+        'time_query': '&t=0h46m36s',
+        'song': SongData.get('恋色病棟').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:53:23',
+        'time_query': '&t=0h53m23s',
+        'song': SongData.get('限りなく灰色へ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【#SEEDs24 OP】Wonder NeverLand ( covered by SEEDs1期生 )',
+      '【#SEEDs24 OP】 Wonder NeverLand (covered by SEEDs1기생)'],
+    'url': 'https://www.youtube.com/watch?v=SoCaJiMyFXg',
+    'date': '2022/06/11',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('Wonder NeverLand').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【 #SEEDs24 】Special LIVE～ゴールデンボンバー祭り～【にじさんじ | 緑仙】',
+      '【 #SEEDs24 】 Special LIVE～골든 봄버 축제～ 【니지산지 | 류셴】'],
+    'url': 'https://www.youtube.com/watch?v=wbLE8Oa0mTw',
+    'date': '2022/06/11',
+    'setlist': [
+      {
+        'time_vis': '0:34:44',
+        'time_query': '&t=0h34m44s',
+        'song': SongData.get('Dance My Generation').title,
+        'additional': [['SEEDs 3D'], ['SEEDs 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:39:55',
+        'time_query': '&t=0h39m55s',
+        'song': SongData.get('やんややんやNight ~踊ろよ東京~').title,
+        'additional': [['SEEDs 3D'], ['SEEDs 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:44:19',
+        'time_query': '&t=0h44m19s',
+        'song': SongData.get('女々しくて').title,
+        'additional': [['SEEDs 3D'], ['SEEDs 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['#電音部 『You Are The Light』Music Video',
+      '#전음부 『You Are The Light』Music Video'],
+    'url': 'https://www.youtube.com/watch?v=tNtbS90jqhs',
+    'date': '2022/07/04',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('You Are The Light').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
