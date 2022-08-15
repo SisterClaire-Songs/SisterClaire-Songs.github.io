@@ -5008,7 +5008,7 @@ SongData.set('ワクテカ Take a chance', {
 
 SongData.set('わがまま 気のまま 愛のジョーク', {
   'key': 'わがまま 気のまま 愛のジョーク',
-  'title': ['わがまま 気のまま 愛のジョーク', '제멋대로 '],
+  'title': ['わがまま 気のまま 愛のジョーク', '제멋대로 내키는대로 사랑의 조크'],
   'singer': [['モーニング娘。'], ['모닝구무스메']],
   'additional': [[''], ['']]
 })
@@ -6983,6 +6983,55 @@ SongData.set('You Are The Light', {
   'singer': [['電音部'], ['전음부']],
   'additional': [['電音部'], ['전음부']]
 })
+
+SongData.set('Everything', {
+  'key': 'Everything',
+  'title': ['Everything', 'Everything'],
+  'singer': [['MISIA'], ['MISIA']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('クリームソーダとシャンデリア', {
+  'key': 'クリームソーダとシャンデリア',
+  'title': ['クリームソーダとシャンデリア', '크림 소다와 샹들리에'],
+  'singer': [['神野メイ(mei) & Henrii'], ['카미노 메이(mei) & Henrii']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ビタミンME', {
+  'key': 'ビタミンME',
+  'title': ['ビタミンME', '비타민 ME'],
+  'singer': [['BEYOOOOONDS'], ['BEYOOOOONDS']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('裸の裸の裸のKISS', {
+  'key': '裸の裸の裸のKISS',
+  'title': ['裸の裸の裸のKISS', '裸の裸の裸のKISS'],
+  'singer': [['Juice=Juice'], ['Juice=Juice']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('アジアンセレブレイション', {
+  'key': 'アジアンセレブレイション',
+  'title': ['アジアンセレブレイション', '아시안 셀레브레이션'],
+  'singer': [['Berryz工房'], ['Berryz공방']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('恋泥棒', {
+  'key': '恋泥棒',
+  'title': ['恋泥棒', '사랑 도둑'],
+  'singer': [['カントリー・ガールズ'], ['컨트리 걸즈']],
+  'additional': [[''], ['']]
+})
+
+// SongData.set('', {
+//   'key': '',
+//   'title': ['', ''],
+//   'singer': [[''], ['']],
+//   'additional': [[''], ['']]
+// })
 
 // SongData.set('', {
 //   'key': '',

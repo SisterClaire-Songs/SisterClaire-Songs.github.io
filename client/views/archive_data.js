@@ -27971,6 +27971,186 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【メンバー限定】30分くらい声出ししてもいい～？',
+      '【멤버 한정】 30분 정도 연습해도 돼~?'],
+    'url': 'https://www.youtube.com/watch?v=Rx0ml5tB2v4',
+    'date': '2022/07/16',
+    'setlist': [
+      {
+        'time_vis': '0:03:54',
+        'time_query': '&t=0h03m54s',
+        'song': SongData.get('Everything').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 3曲 メンバー限定', '외 3곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【歌】眠れる夜になりますように✨【にじさんじ/シスター・クレア】',
+      '【노래】 잠들 수 있는 밤이 되기를✨ 【니지산지 / 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=rg8EOlfTyEY',
+    'date': '2022/07/16',
+    'setlist': [
+      {
+        'time_vis': '0:07:05',
+        'time_query': '&t=0h07m05s',
+        'song': SongData.get('カブトムシ').title,
+        'additional': [['メンバー限定'], ['멤버 한정']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': ['外 5曲 メンバー限定', '외 5곡 멤버 한정'],
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['クリームソーダとシャンデリア / 神野メイ(mei) & Henrii (ジョークレアcover)',
+      '크림 소다와 샹들리에 / 카미노 메이(mei) & Henrii (죠클레어 cover)'],
+    'url': 'https://www.youtube.com/watch?v=R619qEB5MHQ',
+    'date': '2022/07/24',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('クリームソーダとシャンデリア').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【 supported by DAM 】ふたりでハロプロカラオケ♡【にじさんじ/レイン・パターソン/シスター・クレア】',
+      '【 supported by DAM 】ふたりでハロプロカラオケ♡【にじさんじ/レイン・パターソン/シスター・クレア】'],
+    'url': 'https://www.youtube.com/watch?v=zkR0soVn2F8',
+    'date': '2022/08/04',
+    'setlist': [
+      {
+        'time_vis': '0:03:56',
+        'time_query': '&t=0h03m56s',
+        'song': SongData.get('Help me!!').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:09:28',
+        'time_query': '&t=0h09m28s',
+        'song': SongData.get('ビタミンME').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:17:50',
+        'time_query': '&t=0h17m50s',
+        'song': SongData.get('ドットビキニ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:26:48',
+        'time_query': '&t=0h26m48s',
+        'song': SongData.get('彼と一緒にお店がしたい！').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:37:33',
+        'time_query': '&t=0h37m33s',
+        'song': SongData.get('裸の裸の裸のKISS').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:46:13',
+        'time_query': '&t=0h46m13s',
+        'song': SongData.get('世界一HAPPYな女の子').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:59:28',
+        'time_query': '&t=0h59m28s',
+        'song': SongData.get('わかっているのにごめんね').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:09:22',
+        'time_query': '&t=1h09m22s',
+        'song': SongData.get('アジアンセレブレイション').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:24:48',
+        'time_query': '&t=1h24m48s',
+        'song': SongData.get('恋泥棒').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:36:02',
+        'time_query': '&t=1h36m02s',
+        'song': SongData.get('わがまま 気のまま 愛のジョーク').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:40:40',
+        'time_query': '&t=1h40m40s',
+        'song': SongData.get('What is LOVE?').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
