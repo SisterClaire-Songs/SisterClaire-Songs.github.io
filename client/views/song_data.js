@@ -7026,12 +7026,146 @@ SongData.set('恋泥棒', {
   'additional': [[''], ['']]
 })
 
-// SongData.set('', {
-//   'key': '',
-//   'title': ['', ''],
-//   'singer': [[''], ['']],
-//   'additional': [[''], ['']]
-// })
+SongData.set('ヨドバシカメラの歌', {
+  'key': 'ヨドバシカメラの歌',
+  'title': ['ヨドバシカメラの歌', '요도바시 카메라의 노래'],
+  'singer': [['CM NETWORK'], ['CM NETWORK']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('打上花火', {
+  'key': '打上花火',
+  'title': ['打上花火', '쏘아올린 불꽃'],
+  'singer': [['DAOKO×米津玄師'], ['DAOKO×요네즈 켄시']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('8月のマリーナ', {
+  'key': '8月のマリーナ',
+  'title': ['8月のマリーナ', ''],
+  'singer': [['かな from AIKATSU☆STARS!'], ['카나 from AIKATSU☆STARS!']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('サマー☆マジック', {
+  'key': 'サマー☆マジック',
+  'title': ['サマー☆マジック', '서머☆매직'],
+  'singer': [['みほ・みき from AIKATSU☆STARS!'], ['미호・미키 from AIKATSU☆STARS!']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('ラブリー☆ボム', {
+  'key': 'ラブリー☆ボム',
+  'title': ['ラブリー☆ボム', '러블리☆봄'],
+  'singer': [['みほ from AIKATSU☆STARS!'], ['미호 from AIKATSU☆STARS!']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('LOVE GAME', {
+  'key': 'LOVE GAME',
+  'title': ['LOVE GAME', 'LOVE GAME'],
+  'singer': [['ななせ・もな from AIKATSU☆STARS!'], ['나나세・모나 from AIKATSU☆STARS!']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('真夜中のスカイハイ', {
+  'key': '真夜中のスカイハイ',
+  'title': ['真夜中のスカイハイ', '한밤중의 스카이하이'],
+  'singer': [['りすこ from STAR☆ANIS'], ['리스코 from STAR☆ANIS']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('オトナモード', {
+  'key': 'オトナモード',
+  'title': ['オトナモード', '어른 모드'],
+  'singer': [['りすこ・もな from STAR☆ANIS'], ['리스코・모나 from STAR☆ANIS']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('Blooming Blooming', {
+  'key': 'Blooming Blooming',
+  'title': ['Blooming Blooming', 'Blooming Blooming'],
+  'singer': [['るか from AIKATSU STARS!'], ['루카 from AIKATSU STARS!']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('オリジナルスター☆彡', {
+  'key': 'オリジナルスター☆彡',
+  'title': ['オリジナルスター☆彡', '오리지널 스타☆彡'],
+  'singer': [['STAR☆ANIS'], ['STAR☆ANIS']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('チュチュ･バレリーナ', {
+  'key': 'チュチュ･バレリーナ',
+  'title': ['チュチュ･バレリーナ', '츄츄 발레리나'],
+  'singer': [['るか・もな・みき from AIKATSU STARS!'], ['루카・모나・미키 from AIKATSU STARS!']],
+  'additional': [['アイカツ!'], ['아이카츠!']]
+})
+
+SongData.set('林檎殺人事件', {
+  'key': '林檎殺人事件',
+  'title': ['林檎殺人事件', '사과 살인사건'],
+  'singer': [['郷ひろみ', '樹木希林'], ['고 히로미', '키키 키린']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('風は秋色', {
+  'key': '風は秋色',
+  'title': ['風は秋色', '바람은 가을색'],
+  'singer': [['松田聖子'], ['마츠다 세이코']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('浅草キッド', {
+  'key': '浅草キッド',
+  'title': ['浅草キッド', '아사쿠사 키드'],
+  'singer': [['ビートたけし'], ['비트 타케시']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('吐息でネット', {
+  'key': '吐息でネット',
+  'title': ['吐息でネット', '한숨으로 그물'],
+  'singer': [['南野陽子'], ['미나미노 요코']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('明日があるさ', {
+  'key': '明日があるさ',
+  'title': ['明日があるさ', '내일이 있어'],
+  'singer': [['坂本九'], ['사카모토 큐']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('ペアリング', {
+  'key': 'ペアリング',
+  'title': ['ペアリング', '커플링'],
+  'singer': [['新垣結衣'], ['아라가키 유이']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('G♡F', {
+  'key': 'G♡F',
+  'title': ['G♡F', 'G♡F'],
+  'singer': [['秋月律子(CV.若林直美)', '篠宮可憐(CV.近藤唯)'],
+    ['아키즈키 리츠코(CV.와카바야시 나오미)', '시노미야 카렌(CV.콘도 유이)']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('おばけになっても', {
+  'key': 'おばけになっても',
+  'title': ['おばけになっても', '유령이 되어도'],
+  'singer': [['ふぇのたす'], ['후에노타스']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('赤い糸', {
+  'key': '赤い糸',
+  'title': ['赤い糸', '붉은 실'],
+  'singer': [['コブクロ'], ['코부쿠로']],
+  'additional': [[''], ['']]
+})
 
 // SongData.set('', {
 //   'key': '',
