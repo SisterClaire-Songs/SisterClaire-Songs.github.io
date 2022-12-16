@@ -7167,6 +7167,13 @@ SongData.set('赤い糸', {
   'additional': [[''], ['']]
 })
 
+SongData.set('Fiesta! Fiesta!', {
+  'key': 'Fiesta! Fiesta!',
+  'title': ['Fiesta! Fiesta!', 'Fiesta! Fiesta!'],
+  'singer': [['Juice=Juice'], ['Juice=Juice']],
+  'additional': [[''], ['']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],

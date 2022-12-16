@@ -28556,6 +28556,132 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【歌枠】初コラボ！クレアせんぱいと🎤〜♬💕【supported by DAM】【にじさんじ/東堂コハク、シスター・クレア】',
+      '【노래방송】 첫 콜라보! 클레어 선배와🎤〜♬💕 【supported by DAM】【니지산지 / 토도 코하쿠, 시스터 클레어】'],
+    'url': 'https://www.youtube.com/watch?v=3O7Dqp60uPM',
+    'date': '2022/11/28',
+    'setlist': [
+      {
+        'time_vis': '0:04:50',
+        'time_query': '&t=0h04m50s',
+        'song': SongData.get('ね~え？').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:15:03',
+        'time_query': '&t=0h15m03s',
+        'song': SongData.get('ワクテカ Take a chance').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:25:31',
+        'time_query': '&t=0h25m31s',
+        'song': SongData.get('イジワルしないで 抱きしめてよ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:30:28',
+        'time_query': '&t=0h30m28s',
+        'song': SongData.get('What is LOVE?').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:34:45',
+        'time_query': '&t=0h34m45s',
+        'song': SongData.get('Danceでバコーン!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:45:36',
+        'time_query': '&t=0h45m36s',
+        'song': SongData.get('ピーナッツバタージェリーラブ').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '0:58:49',
+        'time_query': '&t=0h58m49s',
+        'song': SongData.get('Fiesta! Fiesta!').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:10:33',
+        'time_query': '&t=1h10m33s',
+        'song': SongData.get('ショートカット').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:28:59',
+        'time_query': '&t=1h28m59s',
+        'song': SongData.get('HAPPY大作戦').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:46:13',
+        'time_query': '&t=1h46m13s',
+        'song': SongData.get('赤いフリージア').title,
+        'additional': [[''], ['']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      },
+      {
+        'time_vis': '1:53:05',
+        'time_query': '&t=1h53m05s',
+        'song': SongData.get('初恋サイダー').title,
+        'additional': [['デュエット'], ['듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['チーズケーキクライシス / TOKOTOKO(西沢さんP) -シスター・クレアcover',
+      '치즈 케이크 크라이시스 / TOKOTOKO(니지사와상P) - 시스터 클레어 cover'],
+    'url': 'https://www.youtube.com/watch?v=7uLUycMJS_M',
+    'date': '2022/12/03',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('チーズケーキクライシス').title,
+        'additional': [['歌動画'], ['노래 영상']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 
