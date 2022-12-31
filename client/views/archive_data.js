@@ -28682,6 +28682,60 @@ const ArchiveData = [
         'archive_date': ''
       }
     ]
+  },
+
+  {
+    'title': ['【 #名前のない組クリスマス 】たのしい🎄クリスマスミニライブ、はじまるよ～！【にじさんじ/ える シスター・クレア ドーラ 花畑チャイカ】',
+      '【 #이름 없는 조 크리스마스】 즐거운🎄크리스마스 미니라이브, 시작합니다~! 【니지산지 / 에루 시스터 클레어 도라 하나바타케 챠이카】'],
+    'url': 'https://www.youtube.com/watch?v=un32FnKYKHY',
+    'date': '2022/12/22',
+    'setlist': [
+      {
+        'time_vis': '0:13:55',
+        'time_query': '&t=0h13m55s',
+        'song': SongData.get('わたしの一番かわいいところ').title,
+        'additional': [['3D'], ['3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['【#コハック3D】東堂堂々、3Dお披露目ちゅう〜✨【にじさんじ/東堂コハク】',
+      '【#코하쿠3D】 토도 당당히, 3D 공개 중~✨ 【니지산지 / 토도 코하쿠】'],
+    'url': 'https://www.youtube.com/watch?v=OgwDeoMud0k',
+    'date': '2022/12/23',
+    'setlist': [
+      {
+        'time_vis': '0:32:20',
+        'time_query': '&t=0h32m20s',
+        'song': SongData.get('だいしきゅーだいしゅき').title,
+        'additional': [['3D', 'デュエット'], ['3D', '듀엣']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
+  },
+
+  {
+    'title': ['PaⅢ.SENSATION / 雄之助 (covered by cresc.)',
+      'PaⅢ.SENSATION / 雄之助 (covered by cresc.)'],
+    'url': 'https://www.youtube.com/watch?v=Oa9ZcT17Pec',
+    'date': '2022/12/30',
+    'setlist': [
+      {
+        'time_vis': '0:00:00',
+        'time_query': '&t=0h00m00s',
+        'song': SongData.get('PaⅢ.SENSATION').title,
+        'additional': [['歌動画', 'くれっしぇんど3D'], ['노래 영상', '크레셴도 3D']],
+        'archive_title': ['', ''],
+        'archive_url': '',
+        'archive_date': ''
+      }
+    ]
   }
 ]
 

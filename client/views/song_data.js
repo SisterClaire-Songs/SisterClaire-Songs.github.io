@@ -7174,6 +7174,27 @@ SongData.set('Fiesta! Fiesta!', {
   'additional': [[''], ['']]
 })
 
+SongData.set('わたしの一番かわいいところ', {
+  'key': 'わたしの一番かわいいところ',
+  'title': ['わたしの一番かわいいところ', '내 가장 귀여운 점'],
+  'singer': [['FRUITS ZIPPER'], ['FRUITS ZIPPER']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('だいしきゅーだいしゅき', {
+  'key': 'だいしきゅーだいしゅき',
+  'title': ['だいしきゅーだいしゅき', '긴급-좋아해'],
+  'singer': [['femme fatale'], ['femme fatale']],
+  'additional': [[''], ['']]
+})
+
+SongData.set('PaⅢ.SENSATION', {
+  'key': 'PaⅢ.SENSATION',
+  'title': ['PaⅢ.SENSATION', 'PaⅢ.SENSATION'],
+  'singer': [['雄之助'], ['유노스케']],
+  'additional': [['ボーカロイド'], ['보컬로이드']]
+})
+
 // SongData.set('', {
 //   'key': '',
 //   'title': ['', ''],
